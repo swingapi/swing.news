@@ -1,0 +1,13 @@
+INHERIT: '../base.yml'
+
+docs_dir: '../../src/en'
+site_dir: '../../build'
+
+theme:
+  name: material
+  language: en
+
+site_description: 'A collection of swing dance events from around the world.'
+nav:
+  - Home: index.md
+  - Tags: tags.md
