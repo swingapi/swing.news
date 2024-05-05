@@ -1,0 +1,10 @@
+.DS_Store
+.*.sw[po]
+
+Dockerfile
+compose.yaml
+swing.news.code-workspace
+LICENSE
+README.md
+build.sh
+serve.sh
