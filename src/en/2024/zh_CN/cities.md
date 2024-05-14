@@ -1,0 +1,84 @@
+---
+status: city
+---
+
+# Events by City - 2024
+
+---
+
+## [Beijing](Beijing.md)
+
+- 01-05 ~ 07 - [BBT - Beijing Balboa Travel • 北京巴尔博亚之旅](beijing-balboa-travel.md)
+- 03-15 ~ 17 - [ABX - All Balboa Exchange](all-balboa-exchange.md)
+- 03-29 ~ 04-01 - [Sharon Davis Workshop • Sharon Davis 摇摆秘籍](beijing-sharon-davis-workshop.md)
+- 05-17 ~ 19 - [Beijing Balboa Fever • 北京巴尔博亚热旋风](beijing-balboa-fever.md)
+- 07-19 ~ 21 - [Jazz Do It • 北京林迪舞交流节](jazz-do-it.md)
+- 09-06 ~ 08 - [BBB - Beijing Blues Bush](beijing-blues-bush.md)
+
+---
+
+## [Chongqing](Chongqing.md)
+
+- 03-22 ~ 24 - [Lindy Hotpot](lindy-hotpot.md)
+
+---
+
+## [Fujian](Fujian.md)
+
+### Xiamen
+
+- 03-01 ~ 03 - [Jiaming & Wanyuan Workshop • 佳铭&婉圆「摇摆之旅」](xiamen-jiaming-n-wanyuan-workshop.md)
+- 03-21 ~ 24 - [Awozi & Lis Workshop](xiamen-awozi-n-lis-workshop.md)
+- 05-18 ~ 19 - [Kiki House African Dance Workshop • 木木之家非洲舞 Workshop](xiamen-kiki-house-african-dance-workshop.md)
+
+---
+
+## [Guangdong](Guangdong.md)
+
+### Shenzhen
+
+- 03-15 ~ 17 - [GBB - Groove the Blusy Bay • 湾区布鲁斯节](groove-the-blusy-bay.md)
+
+---
+
+## [Hunan](Hunan.md)
+
+### Changsha
+
+- 07-05 ~ 07 - [Funs Swing Exchange](funs-swing-exchange.md)
+
+---
+
+## [Jiangsu](Jiangsu.md)
+
+### Nanjing
+
+- 05-31 ~ 06-02 - [Nanjing Lindy Festival • 爵对莱斯 • 南京林迪节](nanjing-lindy-festival.md)
+
+---
+
+## [Shanghai](Shanghai.md)
+
+- 04-19 ~ 23 - [Balboa Spring Camp](balboa-spring-camp.md)
+- 05-01 ~ 02 - [Jumpin’ Swing](jumping-swing.md)
+- 05-17 ~ 19 - [Shanghai Blues Camp](shanghai-blues-camp.md)
+- 06-14 ~ 16 - [Jump for Joy](jump-for-joy.md)
+- 06-28 ~ 30 - [BF - Balboa Festival](balboa-festival.md)
+- 08-02 ~ 04 - [Swing Feast • 摇摆盛宴](swing-feast.md)
+- 10-03 ~ 06 - [SBW - Shanghai Balboa Weekend](shanghai-balboa-weekend.md)
+
+---
+
+## [Sichuan](Sichuan.md)
+
+### Chengdu
+
+- 04-19 ~ 21 - [Bouncy Chengdu • 妖艳儿摇摆节](bouncy-chengdu.md)
+
+---
+
+## [Yunnan](Yunnan.md)
+
+### Dali
+
+- 06-08 ~ 10 - [Lalla & Sunny Workshop • 摇摆端舞](dali-lalla-n-sunny-workshop.md)

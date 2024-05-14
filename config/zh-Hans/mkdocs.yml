@@ -9,5 +9,61 @@ theme:
 
 site_description: 'A collection of swing dance events from around the world.'
 nav:
-  - 首页: index.md
-  - 标签: tags.md
+  - 首页:
+    - 时间线: index.md
+    - 标签: tags.md
+    - 存档:
+      - 2024: 2024/index.md
+  - 地区:
+    - 所有: 2024/regions.md
+    - 亚洲:
+      - zh_CN • 中国:
+        - 时间线: 2024/zh_CN/index.md
+        - 按城市划分: 2024/zh_CN/cities.md
+        - 今年所有主办城市:
+          - 2024/zh_CN/Beijing.md
+          - 2024/zh_CN/Chongqing.md
+          - 2024/zh_CN/Fujian.md
+          - 2024/zh_CN/Guangdong.md
+          - 2024/zh_CN/Hunan.md
+          - 2024/zh_CN/Jiangsu.md
+          - 2024/zh_CN/Shanghai.md
+          - 2024/zh_CN/Sichuan.md
+          - 2024/zh_CN/Yunnan.md
+        - 今年所有活动:
+          - 2024/zh_CN/shanghai-balboa-weekend.md
+          - 2024/zh_CN/beijing-blues-bush.md
+          - 2024/zh_CN/swing-feast.md
+          - 2024/zh_CN/jazz-do-it.md
+          - 2024/zh_CN/funs-swing-exchange.md
+          - 2024/zh_CN/balboa-festival.md
+          - 2024/zh_CN/jump-for-joy.md
+          - 2024/zh_CN/dali-lalla-n-sunny-workshop.md
+          - 2024/zh_CN/nanjing-lindy-festival.md
+          - 2024/zh_CN/xiamen-kiki-house-african-dance-workshop.md
+          - 2024/zh_CN/shanghai-blues-camp.md
+          - 2024/zh_CN/beijing-balboa-fever.md
+          - 2024/zh_CN/jumping-swing.md
+          - 2024/zh_CN/balboa-spring-camp.md
+          - 2024/zh_CN/bouncy-chengdu.md
+          - 2024/zh_CN/beijing-sharon-davis-workshop.md
+          - 2024/zh_CN/lindy-hotpot.md
+          - 2024/zh_CN/xiamen-awozi-n-lis-workshop.md
+          - 2024/zh_CN/groove-the-blusy-bay.md
+          - 2024/zh_CN/all-balboa-exchange.md
+          - 2024/zh_CN/xiamen-jiaming-n-wanyuan-workshop.md
+          - 2024/zh_CN/beijing-balboa-travel.md
+      - zh_HK • 香港:
+        - 时间线: 2024/zh_HK/index.md
+        - 按城市划分: 2024/zh_HK/cities.md
+        - 今年所有主办城市:
+          - 2024/zh_HK/HK.md
+        - 今年所有活动:
+          - 2024/zh_HK/harbourside-swing-fest.md
+  - 组织: https://swing.kids
+  - 关于:
+    - support.md
+    - 隐私与条款:
+      - privacy.md
+      - terms.md
+

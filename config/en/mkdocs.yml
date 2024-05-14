@@ -9,5 +9,61 @@ theme:
 
 site_description: 'A collection of swing dance events from around the world.'
 nav:
-  - Home: index.md
-  - Tags: tags.md
+  - Home:
+    - Timeline: index.md
+    - Tags: tags.md
+    - Archives:
+      - 2024: 2024/index.md
+  - Regions:
+    - All: 2024/regions.md
+    - Asia:
+      - zh_CN • China:
+        - Timeline: 2024/zh_CN/index.md
+        - Events by City: 2024/zh_CN/cities.md
+        - All Host Cities This Year:
+          - 2024/zh_CN/Beijing.md
+          - 2024/zh_CN/Chongqing.md
+          - 2024/zh_CN/Fujian.md
+          - 2024/zh_CN/Guangdong.md
+          - 2024/zh_CN/Hunan.md
+          - 2024/zh_CN/Jiangsu.md
+          - 2024/zh_CN/Shanghai.md
+          - 2024/zh_CN/Sichuan.md
+          - 2024/zh_CN/Yunnan.md
+        - All Events This Year:
+          - 2024/zh_CN/shanghai-balboa-weekend.md
+          - 2024/zh_CN/beijing-blues-bush.md
+          - 2024/zh_CN/swing-feast.md
+          - 2024/zh_CN/jazz-do-it.md
+          - 2024/zh_CN/funs-swing-exchange.md
+          - 2024/zh_CN/balboa-festival.md
+          - 2024/zh_CN/jump-for-joy.md
+          - 2024/zh_CN/dali-lalla-n-sunny-workshop.md
+          - 2024/zh_CN/nanjing-lindy-festival.md
+          - 2024/zh_CN/xiamen-kiki-house-african-dance-workshop.md
+          - 2024/zh_CN/shanghai-blues-camp.md
+          - 2024/zh_CN/beijing-balboa-fever.md
+          - 2024/zh_CN/jumping-swing.md
+          - 2024/zh_CN/balboa-spring-camp.md
+          - 2024/zh_CN/bouncy-chengdu.md
+          - 2024/zh_CN/beijing-sharon-davis-workshop.md
+          - 2024/zh_CN/lindy-hotpot.md
+          - 2024/zh_CN/xiamen-awozi-n-lis-workshop.md
+          - 2024/zh_CN/groove-the-blusy-bay.md
+          - 2024/zh_CN/all-balboa-exchange.md
+          - 2024/zh_CN/xiamen-jiaming-n-wanyuan-workshop.md
+          - 2024/zh_CN/beijing-balboa-travel.md
+      - zh_HK • Hong Kong:
+        - Timeline: 2024/zh_HK/index.md
+        - Events by City: 2024/zh_HK/cities.md
+        - All Host Cities This Year:
+          - 2024/zh_HK/HK.md
+        - All Events This Year:
+          - 2024/zh_HK/harbourside-swing-fest.md
+  - Orgs: https://swing.kids
+  - About:
+    - support.md
+    - Privacy & Terms:
+      - privacy.md
+      - terms.md
+
