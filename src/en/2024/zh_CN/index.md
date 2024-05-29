@@ -10,6 +10,7 @@ status: timeline
 
 ## 09
 
+- 09-15 ~ 17 - [Shanghai](Shanghai.md) - [WJN - Women's Jazzination • 爵了姐妹](womens-jazzination.md)
 - 09-06 ~ 08 - [Beijing](Beijing.md) - [BBB - Beijing Blues Bush](beijing-blues-bush.md)
 
 ## 08

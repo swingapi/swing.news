@@ -6,6 +6,7 @@
 
 ## 09
 
+- 09-15 ~ 17 - [中国](zh_CN/index.md) - [WJN - Women's Jazzination • 爵了姐妹](zh_CN/womens-jazzination.md)
 - 09-06 ~ 08 - [中国](zh_CN/index.md) - [BBB - Beijing Blues Bush](zh_CN/beijing-blues-bush.md)
 
 ## 08

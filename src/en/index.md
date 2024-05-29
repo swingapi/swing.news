@@ -10,6 +10,7 @@ status: timeline
 
 ## 09
 
+- 09-15 ~ 17 - [China](2024/zh_CN/index.md) - [WJN - Women's Jazzination • 爵了姐妹](2024/zh_CN/womens-jazzination.md)
 - 09-06 ~ 08 - [China](2024/zh_CN/index.md) - [BBB - Beijing Blues Bush](2024/zh_CN/beijing-blues-bush.md)
 
 ## 08
