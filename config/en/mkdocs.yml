@@ -17,6 +17,23 @@ nav:
   - Regions:
     - All: 2024/regions.md
     - Asia:
+      - ko_KR • South Korea:
+        - Timeline: 2024/ko_KR/index.md
+        - Events by City: 2024/ko_KR/cities.md
+        - All Host Cities This Year:
+          - 2024/ko_KR/Seoul.md
+          - 2024/ko_KR/"".md
+        - All Events This Year:
+          - 2024/ko_KR/savoy-cup-asia.md
+          - 2024/ko_KR/champions-cup-korea.md
+          - 2024/ko_KR/rhythm-korea.md
+      - th_TH • Thailand:
+        - Timeline: 2024/th_TH/index.md
+        - Events by City: 2024/th_TH/cities.md
+        - All Host Cities This Year:
+          - 2024/th_TH/Bangkok.md
+        - All Events This Year:
+          - 2024/th_TH/diga-diga-doo.md
       - zh_CN • China:
         - Timeline: 2024/zh_CN/index.md
         - Events by City: 2024/zh_CN/cities.md
@@ -61,6 +78,13 @@ nav:
           - 2024/zh_HK/HK.md
         - All Events This Year:
           - 2024/zh_HK/harbourside-swing-fest.md
+      - zh_TW • Taiwan:
+        - Timeline: 2024/zh_TW/index.md
+        - Events by City: 2024/zh_TW/cities.md
+        - All Host Cities This Year:
+          - 2024/zh_TW/Taipei.md
+        - All Events This Year:
+          - 2024/zh_TW/what-the-pa.md
   - Orgs: https://swing.kids
   - About:
     - support.md

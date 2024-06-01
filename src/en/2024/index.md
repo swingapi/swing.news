@@ -1,4 +1,11 @@
 # Events in 2024
+## 12
+
+- 12-05 ~ 08 - [South Korea](ko_KR/index.md) - [Savoy Cup Asia](ko_KR/savoy-cup-asia.md)
+
+## 11
+
+- 11-16 ~ 17 - [Taiwan](zh_TW/index.md) - [WTP - What The PA!](zh_TW/what-the-pa.md)
 
 ## 10
 
@@ -6,6 +13,7 @@
 
 ## 09
 
+- 09-27 ~ 29 - [Thailand](th_TH/index.md) - [Diga Diga Doo](th_TH/diga-diga-doo.md)
 - 09-15 ~ 17 - [China](zh_CN/index.md) - [WJN - Women's Jazzination • 爵了姐妹](zh_CN/womens-jazzination.md)
 - 09-06 ~ 08 - [China](zh_CN/index.md) - [BBB - Beijing Blues Bush](zh_CN/beijing-blues-bush.md)
 
@@ -15,12 +23,14 @@
 
 ## 07
 
+- 07-27 ~ 27 - [South Korea](ko_KR/index.md) - [Champions Cup Korea](ko_KR/champions-cup-korea.md)
 - 07-19 ~ 21 - [China](zh_CN/index.md) - [Jazz Do It • 北京林迪舞交流节](zh_CN/jazz-do-it.md)
 - 07-05 ~ 07 - [China](zh_CN/index.md) - [Funs Swing Exchange](zh_CN/funs-swing-exchange.md)
 
 ## 06
 
 - 06-28 ~ 30 - [China](zh_CN/index.md) - [BF - Balboa Festival](zh_CN/balboa-festival.md)
+- 06-21 ~ 23 - [South Korea](ko_KR/index.md) - [Rhythm Korea • 리듬코리아](ko_KR/rhythm-korea.md)
 - 06-14 ~ 16 - [China](zh_CN/index.md) - [Jump for Joy](zh_CN/jump-for-joy.md)
 - 06-08 ~ 10 - [China](zh_CN/index.md) - [Lalla & Sunny Workshop • 摇摆端舞](zh_CN/dali-lalla-n-sunny-workshop.md)
 
