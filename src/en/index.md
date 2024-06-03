@@ -40,7 +40,7 @@ status: timeline
 
 ## 05
 
-- 05-31 ~ 06-02 - [China](2024/zh_CN/index.md) - [Nanjing Lindy Festival • 爵对莱斯 • 南京林迪节](2024/zh_CN/nanjing-lindy-festival.md)
+- 05-31 ~ 06-02 - [China](2024/zh_CN/index.md) - [NLF - Nanjing Lindy Festival • 爵对莱斯 • 南京林迪节](2024/zh_CN/nanjing-lindy-festival.md)
 - 05-18 ~ 19 - [China](2024/zh_CN/index.md) - [Kiki House African Dance Workshop • 木木之家非洲舞 Workshop](2024/zh_CN/xiamen-kiki-house-african-dance-workshop.md)
 - 05-17 ~ 19 - [China](2024/zh_CN/index.md) - [Shanghai Blues Camp](2024/zh_CN/shanghai-blues-camp.md)
 - 05-17 ~ 19 - [China](2024/zh_CN/index.md) - [Beijing Balboa Fever • 北京巴尔博亚热旋风](2024/zh_CN/beijing-balboa-fever.md)
