@@ -25,6 +25,7 @@
 
 - 07-27 ~ 27 - [韩国](ko_KR/index.md) - [Champions Cup Korea](ko_KR/champions-cup-korea.md)
 - 07-19 ~ 21 - [中国](zh_CN/index.md) - [Jazz Do It • 北京林迪舞交流节](zh_CN/jazz-do-it.md)
+- 07-06 ~ 26 - [瑞典](sv_SE/index.md) - [HDC - Herräng Dance Camp](sv_SE/herrang-dance-camp.md)
 - 07-05 ~ 07 - [中国](zh_CN/index.md) - [Funs Swing Exchange](zh_CN/funs-swing-exchange.md)
 
 ## 06

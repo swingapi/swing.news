@@ -6,6 +6,7 @@ hide:
 # Currently Available Regions
 
 - [ko_KR • South Korea](ko_KR/index.md)
+- [sv_SE • Sweden](sv_SE/index.md)
 - [th_TH • Thailand](th_TH/index.md)
 - [zh_CN • China](zh_CN/index.md)
 - [zh_HK • Hong Kong](zh_HK/index.md)

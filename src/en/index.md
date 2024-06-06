@@ -29,6 +29,7 @@ status: timeline
 
 - 07-27 ~ 27 - [South Korea](2024/ko_KR/index.md) - [Champions Cup Korea](2024/ko_KR/champions-cup-korea.md)
 - 07-19 ~ 21 - [China](2024/zh_CN/index.md) - [Jazz Do It • 北京林迪舞交流节](2024/zh_CN/jazz-do-it.md)
+- 07-06 ~ 26 - [Sweden](2024/sv_SE/index.md) - [HDC - Herräng Dance Camp](2024/sv_SE/herrang-dance-camp.md)
 - 07-05 ~ 07 - [China](2024/zh_CN/index.md) - [Funs Swing Exchange](2024/zh_CN/funs-swing-exchange.md)
 
 ## 06
