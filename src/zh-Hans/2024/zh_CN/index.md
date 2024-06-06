@@ -26,7 +26,9 @@ status: timeline
 
 - 06-28 ~ 30 - [上海](Shanghai.md) - [BF - Balboa Festival](balboa-festival.md)
 - 06-14 ~ 16 - [上海](Shanghai.md) - [Jump for Joy](jump-for-joy.md)
+- 06-08 ~ 10 - [北京](Beijing.md) - [Dragon Boat Swing Camp • 龙舟摇摆训练营](dragon-boat-swing-camp.md)
 - 06-08 ~ 10 - [云南](Yunnan.md) - [Lalla & Sunny Workshop • 摇摆端舞](dali-lalla-n-sunny-workshop.md)
+- 06-08 ~ 09 - [北京](Beijing.md) - [Vasu & Nan Balboa Workshop • 端午工作坊](vasu-n-nan-balboa-workshop.md)
 
 ## 05
 

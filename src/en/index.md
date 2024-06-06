@@ -37,7 +37,9 @@ status: timeline
 - 06-28 ~ 30 - [China](2024/zh_CN/index.md) - [BF - Balboa Festival](2024/zh_CN/balboa-festival.md)
 - 06-21 ~ 23 - [South Korea](2024/ko_KR/index.md) - [Rhythm Korea • 리듬코리아](2024/ko_KR/rhythm-korea.md)
 - 06-14 ~ 16 - [China](2024/zh_CN/index.md) - [Jump for Joy](2024/zh_CN/jump-for-joy.md)
+- 06-08 ~ 10 - [China](2024/zh_CN/index.md) - [Dragon Boat Swing Camp • 龙舟摇摆训练营](2024/zh_CN/dragon-boat-swing-camp.md)
 - 06-08 ~ 10 - [China](2024/zh_CN/index.md) - [Lalla & Sunny Workshop • 摇摆端舞](2024/zh_CN/dali-lalla-n-sunny-workshop.md)
+- 06-08 ~ 09 - [China](2024/zh_CN/index.md) - [Vasu & Nan Balboa Workshop • 端午工作坊](2024/zh_CN/vasu-n-nan-balboa-workshop.md)
 
 ## 05
 
