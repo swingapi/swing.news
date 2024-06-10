@@ -3,18 +3,24 @@ status: timeline
 ---
 
 # 2024年活动 - ko_KR • 韩国
+
 ## 12
 
-- 12-05 ~ 08 - [首尔](Seoul.md) - [Savoy Cup Asia](savoy-cup-asia.md)
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 12-05 ~ 08 | [首尔](Seoul.md) | [Savoy Cup Asia](savoy-cup-asia.md) |  |
 
 ## 07
 
-- 07-27 ~ 27 - [首尔](Seoul.md) - [Champions Cup Korea](champions-cup-korea.md)
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 07-27 ~ 27 | [首尔](Seoul.md) | [Champions Cup Korea](champions-cup-korea.md) |  |
 
 ## 06
 
-- 06-21 ~ 23 - [首尔](Seoul.md) - [Rhythm Korea • 리듬코리아](rhythm-korea.md)
-
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 06-21 ~ 23 | [首尔](Seoul.md) | [Rhythm Korea](rhythm-korea.md) | 리듬코리아 |
 
 ---
 

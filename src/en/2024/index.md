@@ -1,69 +1,93 @@
 # Events in 2024
+
 ## 12
 
-- 12-05 ~ 08 - [South Korea](ko_KR/index.md) - [Savoy Cup Asia](ko_KR/savoy-cup-asia.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 12-05 ~ 08 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/Seoul.md) | [Savoy Cup Asia](ko_KR/savoy-cup-asia.md) |  |
 
 ## 11
 
-- 11-16 ~ 17 - [Taiwan](zh_TW/index.md) - [WTP - What The PA!](zh_TW/what-the-pa.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 11-16 ~ 17 | [Taiwan](zh_TW/index.md) | [Taipei](zh_TW/Taipei.md) | [What The PA!](zh_TW/what-the-pa.md) |  |
 
 ## 10
 
-- 10-03 ~ 06 - [China](zh_CN/index.md) - [SBW - Shanghai Balboa Weekend](zh_CN/shanghai-balboa-weekend.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 10-03 ~ 06 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Shanghai Balboa Weekend](zh_CN/shanghai-balboa-weekend.md) |  |
 
 ## 09
 
-- 09-27 ~ 29 - [Thailand](th_TH/index.md) - [Diga Diga Doo](th_TH/diga-diga-doo.md)
-- 09-15 ~ 17 - [China](zh_CN/index.md) - [WJN - Women's Jazzination • 爵了姐妹](zh_CN/womens-jazzination.md)
-- 09-06 ~ 08 - [China](zh_CN/index.md) - [BBB - Beijing Blues Bush](zh_CN/beijing-blues-bush.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 09-27 ~ 29 | [Thailand](th_TH/index.md) | [Bangkok](th_TH/Bangkok.md) | [Diga Diga Doo](th_TH/diga-diga-doo.md) |  |
+| 09-15 ~ 17 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Women's Jazzination](zh_CN/womens-jazzination.md) | 爵了姐妹 |
+| 09-06 ~ 08 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Beijing Blues Bush](zh_CN/beijing-blues-bush.md) |  |
 
 ## 08
 
-- 08-02 ~ 04 - [China](zh_CN/index.md) - [Swing Feast • 摇摆盛宴](zh_CN/swing-feast.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 08-02 ~ 04 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Swing Feast](zh_CN/swing-feast.md) | 摇摆盛宴 |
 
 ## 07
 
-- 07-27 ~ 27 - [South Korea](ko_KR/index.md) - [Champions Cup Korea](ko_KR/champions-cup-korea.md)
-- 07-19 ~ 21 - [China](zh_CN/index.md) - [Jazz Do It • 北京林迪舞交流节](zh_CN/jazz-do-it.md)
-- 07-06 ~ 26 - [Sweden](sv_SE/index.md) - [HDC - Herräng Dance Camp](sv_SE/herrang-dance-camp.md)
-- 07-05 ~ 07 - [China](zh_CN/index.md) - [Funs Swing Exchange](zh_CN/funs-swing-exchange.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 07-27 ~ 27 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/Seoul.md) | [Champions Cup Korea](ko_KR/champions-cup-korea.md) |  |
+| 07-19 ~ 21 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Jazz Do It](zh_CN/jazz-do-it.md) | 北京林迪舞交流节 |
+| 07-06 ~ 26 | [Sweden](sv_SE/index.md) | [Stockholm](sv_SE/Stockholm.md) | [Herräng Dance Camp](sv_SE/herrang-dance-camp.md) |  |
+| 07-05 ~ 07 | [China](zh_CN/index.md) | [Hunan](zh_CN/Hunan.md) • Changsha | [Funs Swing Exchange](zh_CN/funs-swing-exchange.md) |  |
 
 ## 06
 
-- 06-28 ~ 30 - [China](zh_CN/index.md) - [BF - Balboa Festival](zh_CN/balboa-festival.md)
-- 06-21 ~ 23 - [South Korea](ko_KR/index.md) - [Rhythm Korea • 리듬코리아](ko_KR/rhythm-korea.md)
-- 06-14 ~ 16 - [China](zh_CN/index.md) - [Jump for Joy](zh_CN/jump-for-joy.md)
-- 06-08 ~ 10 - [China](zh_CN/index.md) - [Dragon Boat Swing Camp • 龙舟摇摆训练营](zh_CN/dragon-boat-swing-camp.md)
-- 06-08 ~ 10 - [China](zh_CN/index.md) - [Lalla & Sunny Workshop • 摇摆端舞](zh_CN/dali-lalla-n-sunny-workshop.md)
-- 06-08 ~ 09 - [China](zh_CN/index.md) - [Vasu & Nan Balboa Workshop • 端午工作坊](zh_CN/vasu-n-nan-balboa-workshop.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 06-28 ~ 30 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Balboa Festival](zh_CN/balboa-festival.md) |  |
+| 06-21 ~ 23 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/Seoul.md) | [Rhythm Korea](ko_KR/rhythm-korea.md) | 리듬코리아 |
+| 06-14 ~ 16 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Jump for Joy](zh_CN/jump-for-joy.md) |  |
+| 06-08 ~ 10 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Dragon Boat Swing Camp](zh_CN/dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
+| 06-08 ~ 10 | [China](zh_CN/index.md) | [Yunnan](zh_CN/Yunnan.md) • Dali | [Lalla & Sunny Workshop](zh_CN/dali-lalla-n-sunny-workshop.md) | 摇摆端舞 |
+| 06-08 ~ 09 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Vasu & Nan Balboa Workshop](zh_CN/vasu-n-nan-balboa-workshop.md) | 端午工作坊 |
 
 ## 05
 
-- 05-31 ~ 06-02 - [China](zh_CN/index.md) - [NLF - Nanjing Lindy Festival • 爵对莱斯 • 南京林迪节](zh_CN/nanjing-lindy-festival.md)
-- 05-18 ~ 19 - [China](zh_CN/index.md) - [Kiki House African Dance Workshop • 木木之家非洲舞 Workshop](zh_CN/xiamen-kiki-house-african-dance-workshop.md)
-- 05-17 ~ 19 - [China](zh_CN/index.md) - [Shanghai Blues Camp](zh_CN/shanghai-blues-camp.md)
-- 05-17 ~ 19 - [China](zh_CN/index.md) - [Beijing Balboa Fever • 北京巴尔博亚热旋风](zh_CN/beijing-balboa-fever.md)
-- 05-01 ~ 02 - [China](zh_CN/index.md) - [Jumpin’ Swing](zh_CN/jumping-swing.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 05-31 ~ 06-02 | [China](zh_CN/index.md) | [Jiangsu](zh_CN/Jiangsu.md) • Nanjing | [Nanjing Lindy Festival](zh_CN/nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
+| 05-18 ~ 19 | [China](zh_CN/index.md) | [Fujian](zh_CN/Fujian.md) • Xiamen | [Kiki House African Dance Workshop](zh_CN/xiamen-kiki-house-african-dance-workshop.md) | 木木之家非洲舞 Workshop |
+| 05-17 ~ 19 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Shanghai Blues Camp](zh_CN/shanghai-blues-camp.md) |  |
+| 05-17 ~ 19 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Beijing Balboa Fever](zh_CN/beijing-balboa-fever.md) | 北京巴尔博亚热旋风 |
+| 05-01 ~ 02 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Jumpin’ Swing](zh_CN/jumping-swing.md) |  |
 
 ## 04
 
-- 04-19 ~ 23 - [China](zh_CN/index.md) - [Balboa Spring Camp](zh_CN/balboa-spring-camp.md)
-- 04-19 ~ 21 - [China](zh_CN/index.md) - [Bouncy Chengdu • 妖艳儿摇摆节](zh_CN/bouncy-chengdu.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 04-19 ~ 23 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Balboa Spring Camp](zh_CN/balboa-spring-camp.md) |  |
+| 04-19 ~ 21 | [China](zh_CN/index.md) | [Sichuan](zh_CN/Sichuan.md) • Chengdu | [Bouncy Chengdu](zh_CN/bouncy-chengdu.md) | 妖艳儿摇摆节 |
 
 ## 03
 
-- 03-29 ~ 04-01 - [China](zh_CN/index.md) - [Sharon Davis Workshop • Sharon Davis 摇摆秘籍](zh_CN/beijing-sharon-davis-workshop.md)
-- 03-22 ~ 24 - [China](zh_CN/index.md) - [Lindy Hotpot](zh_CN/lindy-hotpot.md)
-- 03-21 ~ 24 - [China](zh_CN/index.md) - [Awozi & Lis Workshop](zh_CN/xiamen-awozi-n-lis-workshop.md)
-- 03-15 ~ 17 - [China](zh_CN/index.md) - [GBB - Groove the Blusy Bay • 湾区布鲁斯节](zh_CN/groove-the-blusy-bay.md)
-- 03-15 ~ 17 - [China](zh_CN/index.md) - [ABX - All Balboa Exchange](zh_CN/all-balboa-exchange.md)
-- 03-01 ~ 03 - [China](zh_CN/index.md) - [Jiaming & Wanyuan Workshop • 佳铭&婉圆「摇摆之旅」](zh_CN/xiamen-jiaming-n-wanyuan-workshop.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 03-29 ~ 04-01 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Sharon Davis Workshop](zh_CN/beijing-sharon-davis-workshop.md) | Sharon Davis 摇摆秘籍 |
+| 03-22 ~ 24 | [China](zh_CN/index.md) | [Chongqing](zh_CN/Chongqing.md) | [Lindy Hotpot](zh_CN/lindy-hotpot.md) |  |
+| 03-21 ~ 24 | [China](zh_CN/index.md) | [Fujian](zh_CN/Fujian.md) • Xiamen | [Awozi & Lis Workshop](zh_CN/xiamen-awozi-n-lis-workshop.md) |  |
+| 03-15 ~ 17 | [China](zh_CN/index.md) | [Guangdong](zh_CN/Guangdong.md) • Shenzhen | [Groove the Blusy Bay](zh_CN/groove-the-blusy-bay.md) | 湾区布鲁斯节 |
+| 03-15 ~ 17 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [All Balboa Exchange](zh_CN/all-balboa-exchange.md) |  |
+| 03-01 ~ 03 | [China](zh_CN/index.md) | [Fujian](zh_CN/Fujian.md) • Xiamen | [Jiaming & Wanyuan Workshop](zh_CN/xiamen-jiaming-n-wanyuan-workshop.md) | 佳铭&婉圆「摇摆之旅」 |
 
 ## 02
 
-- 02-02 ~ 04 - [Hong Kong](zh_HK/index.md) - [Harbourside Swing Fest](zh_HK/harbourside-swing-fest.md)
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 02-02 ~ 04 | [Hong Kong](zh_HK/index.md) | [HK](zh_HK/HK.md) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest.md) |  |
 
 ## 01
 
-- 01-05 ~ 07 - [China](zh_CN/index.md) - [BBT - Beijing Balboa Travel • 北京巴尔博亚之旅](zh_CN/beijing-balboa-travel.md)
-
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 01-05 ~ 07 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Beijing Balboa Travel](zh_CN/beijing-balboa-travel.md) | 北京巴尔博亚之旅 |

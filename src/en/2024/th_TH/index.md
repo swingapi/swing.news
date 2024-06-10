@@ -6,8 +6,9 @@ status: timeline
 
 ## 09
 
-- 09-27 ~ 29 - [Bangkok](Bangkok.md) - [Diga Diga Doo](diga-diga-doo.md)
-
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 09-27 ~ 29 | [Bangkok](Bangkok.md) | [Diga Diga Doo](diga-diga-doo.md) |  |
 
 ---
 

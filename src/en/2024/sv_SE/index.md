@@ -6,8 +6,9 @@ status: timeline
 
 ## 07
 
-- 07-06 ~ 26 - [Stockholm](Stockholm.md) - [HDC - Herräng Dance Camp](herrang-dance-camp.md)
-
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 07-06 ~ 26 | [Stockholm](Stockholm.md) | [Herräng Dance Camp](herrang-dance-camp.md) |  |
 
 ---
 

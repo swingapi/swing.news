@@ -6,8 +6,9 @@ status: timeline
 
 ## 02
 
-- 02-02 ~ 04 - [HK](HK.md) - [Harbourside Swing Fest](harbourside-swing-fest.md)
-
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 02-02 ~ 04 | [HK](HK.md) | [Harbourside Swing Fest](harbourside-swing-fest.md) |  |
 
 ---
 
