@@ -8,3 +8,8 @@
 - 06-08 ~ 10 - [Dragon Boat Swing Camp • 龙舟摇摆训练营](dragon-boat-swing-camp.md)
 - 07-19 ~ 21 - [Jazz Do It • 北京林迪舞交流节](jazz-do-it.md)
 - 09-06 ~ 08 - [BBB - Beijing Blues Bush](beijing-blues-bush.md)
+- [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=)
+
+---
+
+[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Beijing&city=&org_id=){ .md-button }

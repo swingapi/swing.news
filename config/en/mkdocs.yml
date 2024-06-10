@@ -22,7 +22,6 @@ nav:
         - Events by City: 2024/ko_KR/cities.md
         - All Host Cities This Year:
           - 2024/ko_KR/Seoul.md
-          - 2024/ko_KR/"".md
         - All Events This Year:
           - 2024/ko_KR/savoy-cup-asia.md
           - 2024/ko_KR/champions-cup-korea.md
@@ -96,9 +95,10 @@ nav:
         - All Events This Year:
           - 2024/sv_SE/herrang-dance-camp.md
   - Orgs: https://swing.kids
+  - Changelogs: https://github.com/swingdance/events/commits/main/
   - About:
     - support.md
     - Privacy & Terms:
       - privacy.md
       - terms.md
-
+  - + Submit Org/Event: submit.md

@@ -11,15 +11,18 @@ tags:
 :fontawesome-solid-location-dot: 上海  
 :fontawesome-solid-user-group: [Tabby The Cat | Tabby The Cat 摇摆舞工作室](https://swing.kids/zh_CN/tabby-the-cat)  
 
----
 
 ???+ venue "场地"
 
     Holiday Inn Shanghai Hongqiao West Suburbs.  
-    Located at No. 2000, Huqingping Road, Qingpu District, Shanghai
+    Located at No. 2000, Huqingping Road, Qingpu District, Shanghai  
 
 ## 联系
 
 :fontawesome-solid-envelope: <shbalboaweekend@gmail.com>  
 :fontawesome-solid-globe: <http://shanghaibalboaweekend.com>  
 :fontawesome-brands-youtube: [shanghaibalboaweekend](https://youtube.com/shanghaibalboaweekend)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑活动](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%20zh_CN%20%E2%80%A2%20Shanghai%20Balboa%20Weekend&region=zh_CN&year=2024&id=shanghai-balboa-weekend&name=Shanghai%20Balboa%20Weekend&org_id=tabby-the-cat)

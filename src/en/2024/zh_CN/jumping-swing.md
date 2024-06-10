@@ -8,4 +8,7 @@ title: Jumpin’ Swing
 :fontawesome-solid-location-dot: Shanghai  
 :fontawesome-solid-user-group: [Tabby The Cat | Tabby The Cat 摇摆舞工作室](https://swing.kids/zh_CN/tabby-the-cat)  
 
+
 ---
+
+:fontawesome-solid-pen-to-square: [Edit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%20zh_CN%20%E2%80%A2%20Jumpin%E2%80%99%20Swing&region=zh_CN&year=2024&id=jumping-swing&name=Jumpin%E2%80%99%20Swing&org_id=tabby-the-cat)

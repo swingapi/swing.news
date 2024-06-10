@@ -22,7 +22,6 @@ nav:
         - 按城市划分: 2024/ko_KR/cities.md
         - 今年所有主办城市:
           - 2024/ko_KR/Seoul.md
-          - 2024/ko_KR/"".md
         - 今年所有活动:
           - 2024/ko_KR/savoy-cup-asia.md
           - 2024/ko_KR/champions-cup-korea.md
@@ -96,9 +95,10 @@ nav:
         - 今年所有活动:
           - 2024/sv_SE/herrang-dance-camp.md
   - 组织: https://swing.kids
+  - 更新日志: https://github.com/swingdance/events/commits/main/
   - 关于:
     - support.md
     - 隐私与条款:
       - privacy.md
       - terms.md
-
+  - + 添加组织/活动: submit.md
