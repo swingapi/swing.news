@@ -58,6 +58,7 @@
 | --- | --- | --- | --- | --- |
 | 05-31 ~ 06-02 | [China](zh_CN/index.md) | [Jiangsu](zh_CN/Jiangsu.md) • Nanjing | [Nanjing Lindy Festival](zh_CN/nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 | 05-18 ~ 19 | [China](zh_CN/index.md) | [Fujian](zh_CN/Fujian.md) • Xiamen | [Kiki House African Dance Workshop](zh_CN/xiamen-kiki-house-african-dance-workshop.md) | 木木之家非洲舞 Workshop |
+| 05-17 ~ 22 | [China](zh_CN/index.md) | [Fujian](zh_CN/Fujian.md) • Fuzhou | [Awozi & Lis Fuzhou Workshop](zh_CN/awozi-n-lis-fuzhou-workshop.md) |  |
 | 05-17 ~ 19 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Shanghai Blues Camp](zh_CN/shanghai-blues-camp.md) |  |
 | 05-17 ~ 19 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Beijing Balboa Fever](zh_CN/beijing-balboa-fever.md) | 北京巴尔博亚热旋风 |
 | 05-01 ~ 02 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Jumpin’ Swing](zh_CN/jumping-swing.md) |  |

@@ -46,6 +46,7 @@ status: timeline
 | --- | --- | --- | --- |
 | 05-31 ~ 06-02 | [Jiangsu](Jiangsu.md) • Nanjing | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 | 05-18 ~ 19 | [Fujian](Fujian.md) • Xiamen | [Kiki House African Dance Workshop](xiamen-kiki-house-african-dance-workshop.md) | 木木之家非洲舞 Workshop |
+| 05-17 ~ 22 | [Fujian](Fujian.md) • Fuzhou | [Awozi & Lis Fuzhou Workshop](awozi-n-lis-fuzhou-workshop.md) |  |
 | 05-17 ~ 19 | [Shanghai](Shanghai.md) | [Shanghai Blues Camp](shanghai-blues-camp.md) |  |
 | 05-17 ~ 19 | [Beijing](Beijing.md) | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风 |
 | 05-01 ~ 02 | [Shanghai](Shanghai.md) | [Jumpin’ Swing](jumping-swing.md) |  |
