@@ -8,6 +8,7 @@ status: timeline
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 12-08 ~ 10 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Tokyo Balboa Weekend](2024/ja_JP/tokyo-balboa-weekend.md) |  |
 | 12-05 ~ 08 | [South Korea](2024/ko_KR/index.md) | [Seoul](2024/ko_KR/Seoul.md) | [Savoy Cup Asia](2024/ko_KR/savoy-cup-asia.md) |  |
 
 ## 11
@@ -20,6 +21,7 @@ status: timeline
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 10-26 ~ 26 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Swing OWL Halloween](2024/ja_JP/swing-owl-halloween.md) |  |
 | 10-03 ~ 06 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Shanghai Balboa Weekend](2024/zh_CN/shanghai-balboa-weekend.md) |  |
 
 ## 09
@@ -28,12 +30,14 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 09-27 ~ 29 | [Thailand](2024/th_TH/index.md) | [Bangkok](2024/th_TH/Bangkok.md) | [Diga Diga Doo](2024/th_TH/diga-diga-doo.md) |  |
 | 09-15 ~ 17 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Women's Jazzination](2024/zh_CN/womens-jazzination.md) | 爵了姐妹 |
+| 09-08 ~ 08 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Swing OWL](2024/ja_JP/swing-owl-08.md) |  |
 | 09-06 ~ 08 | [China](2024/zh_CN/index.md) | [Beijing](2024/zh_CN/Beijing.md) | [Beijing Blues Bush](2024/zh_CN/beijing-blues-bush.md) |  |
 
 ## 08
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 08-12 ~ 12 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Swing Jack!](2024/ja_JP/swing-jack.md) |  |
 | 08-02 ~ 04 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Swing Feast](2024/zh_CN/swing-feast.md) | 摇摆盛宴 |
 
 ## 07
@@ -41,16 +45,26 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 07-27 ~ 27 | [South Korea](2024/ko_KR/index.md) | [Seoul](2024/ko_KR/Seoul.md) | [Champions Cup Korea](2024/ko_KR/champions-cup-korea.md) |  |
+| 07-27 ~ 27 | [Japan](2024/ja_JP/index.md) | [Yokohama](2024/ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](2024/ja_JP/yokohama-cross-street-hop.md) |  |
 | 07-19 ~ 21 | [China](2024/zh_CN/index.md) | [Beijing](2024/zh_CN/Beijing.md) | [Jazz Do It](2024/zh_CN/jazz-do-it.md) | 北京林迪舞交流节 |
+| 07-12 ~ 14 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Bal In Tokyo](2024/ja_JP/bal-in-tokyo.md) |  |
 | 07-06 ~ 26 | [Sweden](2024/sv_SE/index.md) | [Stockholm](2024/sv_SE/Stockholm.md) | [Herräng Dance Camp](2024/sv_SE/herrang-dance-camp.md) |  |
+| 07-06 ~ 06 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Chocolate Shake](2024/ja_JP/chocolate-shake-07.md) |  |
 | 07-05 ~ 07 | [China](2024/zh_CN/index.md) | [Hunan](2024/zh_CN/Hunan.md) • Changsha | [Funs Swing Exchange](2024/zh_CN/funs-swing-exchange.md) |  |
 
 ## 06
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 06-29 ~ 30 | [Japan](2024/ja_JP/index.md) | [Sapporo](2024/ja_JP/Sapporo.md) | [Swingin' & Hoppin' Sapporp](2024/ja_JP/swingin-n-hoppin-sapporp.md) |  |
+| 07-27 ~ 27 | [Japan](2024/ja_JP/index.md) | [Yokohama](2024/ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](2024/ja_JP/yokohama-cross-street-hop.md) |  |
 | 06-28 ~ 30 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Balboa Festival](2024/zh_CN/balboa-festival.md) |  |
+| 06-28 ~ 28 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Tomodachi Swing](2024/ja_JP/tomodachi-swing.md) |  |
+| 06-23 ~ 23 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Swing OWL](2024/ja_JP/swing-owl-06.md) |  |
+| 06-22 ~ 22 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Chocolate Shake](2024/ja_JP/chocolate-shake-06.md) |  |
 | 06-21 ~ 23 | [South Korea](2024/ko_KR/index.md) | [Seoul](2024/ko_KR/Seoul.md) | [Rhythm Korea](2024/ko_KR/rhythm-korea.md) | 리듬코리아 |
+| 06-16 ~ 16 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Balboa Lab Tea Party](2024/ja_JP/balboa-lab-tea-party.md) |  |
+| 06-15 ~ 15 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Chill Balboa Social](2024/ja_JP/chill-balboa-social.md) |  |
 | 06-14 ~ 16 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Jump for Joy](2024/zh_CN/jump-for-joy.md) |  |
 | 06-08 ~ 10 | [China](2024/zh_CN/index.md) | [Beijing](2024/zh_CN/Beijing.md) | [Dragon Boat Swing Camp](2024/zh_CN/dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 | 06-08 ~ 10 | [China](2024/zh_CN/index.md) | [Yunnan](2024/zh_CN/Yunnan.md) • Dali | [Lalla & Sunny Workshop](2024/zh_CN/dali-lalla-n-sunny-workshop.md) | 摇摆端舞 |
@@ -65,6 +79,7 @@ status: timeline
 | 05-17 ~ 22 | [China](2024/zh_CN/index.md) | [Fujian](2024/zh_CN/Fujian.md) • Fuzhou | [Awozi & Lis Fuzhou Workshop](2024/zh_CN/awozi-n-lis-fuzhou-workshop.md) |  |
 | 05-17 ~ 19 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Shanghai Blues Camp](2024/zh_CN/shanghai-blues-camp.md) |  |
 | 05-17 ~ 19 | [China](2024/zh_CN/index.md) | [Beijing](2024/zh_CN/Beijing.md) | [Beijing Balboa Fever](2024/zh_CN/beijing-balboa-fever.md) | 北京巴尔博亚热旋风 |
+| 05-04 ~ 12 | [Thailand](2024/th_TH/index.md) | [Prachuap Khiri Khan](2024/th_TH/Prachuap Khiri Khan.md) • Hua Hin | [Breezy Balboa](2024/th_TH/breezy-balboa.md) |  |
 | 05-01 ~ 02 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Jumpin’ Swing](2024/zh_CN/jumping-swing.md) |  |
 
 ## 04

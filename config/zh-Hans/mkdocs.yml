@@ -17,6 +17,28 @@ nav:
   - 地区:
     - 所有: 2024/regions.md
     - 亚洲:
+      - ja_JP • 日本:
+        - 时间线: 2024/ja_JP/index.md
+        - 按城市划分: 2024/ja_JP/cities.md
+        - 今年所有主办城市:
+          - 2024/ja_JP/Sapporo.md
+          - 2024/ja_JP/Tokyo.md
+          - 2024/ja_JP/Yokohama.md
+        - 今年所有活动:
+          - 2024/ja_JP/tokyo-balboa-weekend.md
+          - 2024/ja_JP/swing-owl-halloween.md
+          - 2024/ja_JP/swing-owl-08.md
+          - 2024/ja_JP/swing-jack.md
+          - 2024/ja_JP/yokohama-cross-street-hop.md
+          - 2024/ja_JP/bal-in-tokyo.md
+          - 2024/ja_JP/chocolate-shake-07.md
+          - 2024/ja_JP/swingin-n-hoppin-sapporp.md
+          - 2024/ja_JP/yokohama-cross-street-hop.md
+          - 2024/ja_JP/tomodachi-swing.md
+          - 2024/ja_JP/swing-owl-06.md
+          - 2024/ja_JP/chocolate-shake-06.md
+          - 2024/ja_JP/balboa-lab-tea-party.md
+          - 2024/ja_JP/chill-balboa-social.md
       - ko_KR • 韩国:
         - 时间线: 2024/ko_KR/index.md
         - 按城市划分: 2024/ko_KR/cities.md
@@ -31,8 +53,10 @@ nav:
         - 按城市划分: 2024/th_TH/cities.md
         - 今年所有主办城市:
           - 2024/th_TH/Bangkok.md
+          - 2024/th_TH/Prachuap Khiri Khan.md
         - 今年所有活动:
           - 2024/th_TH/diga-diga-doo.md
+          - 2024/th_TH/breezy-balboa.md
       - zh_CN • 中国:
         - 时间线: 2024/zh_CN/index.md
         - 按城市划分: 2024/zh_CN/cities.md
