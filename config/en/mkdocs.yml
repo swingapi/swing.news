@@ -122,6 +122,7 @@ nav:
   - Orgs: https://swing.kids
   - Changelogs: https://github.com/swingdance/events/commits/main/
   - About:
+    - references.md
     - support.md
     - Privacy & Terms:
       - privacy.md

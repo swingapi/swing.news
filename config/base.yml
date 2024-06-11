@@ -96,6 +96,7 @@ extra:
     timeline: Index page of Event Timeline.
     city: Index page of Events by City.
     tag: Tags.
+    references: References.
     help: Help & Feedback.
     privacy: Privacy Policy.
     terms: Terms & Conditions.
