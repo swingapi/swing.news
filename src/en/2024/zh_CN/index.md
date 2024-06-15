@@ -21,6 +21,7 @@ status: timeline
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 08-30 ~ 09-01 | [Zhejiang](Zhejiang.md) • Hangzhou | [Westlake Swing Carnival](westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
 | 08-02 ~ 04 | [Shanghai](Shanghai.md) | [Swing Feast](swing-feast.md) | 摇摆盛宴 |
 
 ## 07

@@ -33,6 +33,7 @@
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 08-30 ~ 09-01 | [China](zh_CN/index.md) | [Zhejiang](zh_CN/Zhejiang.md) • Hangzhou | [Westlake Swing Carnival](zh_CN/westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
 | 08-12 ~ 12 | [Japan](ja_JP/index.md) | [Tokyo](ja_JP/Tokyo.md) | [Swing Jack!](ja_JP/swing-jack.md) |  |
 | 08-02 ~ 04 | [China](zh_CN/index.md) | [Shanghai](zh_CN/Shanghai.md) | [Swing Feast](zh_CN/swing-feast.md) | 摇摆盛宴 |
 

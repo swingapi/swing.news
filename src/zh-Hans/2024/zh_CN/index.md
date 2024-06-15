@@ -21,6 +21,7 @@ status: timeline
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
+| 08-30 ~ 09-01 | [浙江](Zhejiang.md) • 杭州 | [Westlake Swing Carnival](westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
 | 08-02 ~ 04 | [上海](Shanghai.md) | [Swing Feast](swing-feast.md) | 摇摆盛宴 |
 
 ## 07
