@@ -45,11 +45,12 @@ status: timeline
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
+| 07-28 ~ 31 | [瑞典](2024/sv_SE/index.md) | [吕勒奥](2024/sv_SE/Lulea.md) | [Heedman Dance Camp](2024/sv_SE/heedman-dance-camp.md) |  |
 | 07-27 ~ 27 | [韩国](2024/ko_KR/index.md) | [首尔](2024/ko_KR/Seoul.md) | [Champions Cup Korea](2024/ko_KR/champions-cup-korea.md) |  |
 | 07-27 ~ 27 | [日本](2024/ja_JP/index.md) | [横滨](2024/ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](2024/ja_JP/yokohama-cross-street-hop.md) |  |
 | 07-19 ~ 21 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Jazz Do It](2024/zh_CN/jazz-do-it.md) | 北京林迪舞交流节 |
 | 07-12 ~ 14 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Bal In Tokyo](2024/ja_JP/bal-in-tokyo.md) |  |
-| 07-06 ~ 26 | [瑞典](2024/sv_SE/index.md) | [Stockholm](2024/sv_SE/Stockholm.md) | [Herräng Dance Camp](2024/sv_SE/herrang-dance-camp.md) |  |
+| 07-06 ~ 26 | [瑞典](2024/sv_SE/index.md) | [斯德哥尔摩](2024/sv_SE/Stockholm.md) | [Herräng Dance Camp](2024/sv_SE/herrang-dance-camp.md) |  |
 | 07-06 ~ 06 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Chocolate Shake](2024/ja_JP/chocolate-shake-07.md) |  |
 | 07-05 ~ 07 | [中国](2024/zh_CN/index.md) | [湖南](2024/zh_CN/Hunan.md) • 长沙 | [Funs Swing Exchange](2024/zh_CN/funs-swing-exchange.md) |  |
 

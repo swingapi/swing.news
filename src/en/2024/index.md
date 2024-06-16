@@ -41,6 +41,7 @@
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 07-28 ~ 31 | [Sweden](sv_SE/index.md) | [Lulea](sv_SE/Lulea.md) | [Heedman Dance Camp](sv_SE/heedman-dance-camp.md) |  |
 | 07-27 ~ 27 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/Seoul.md) | [Champions Cup Korea](ko_KR/champions-cup-korea.md) |  |
 | 07-27 ~ 27 | [Japan](ja_JP/index.md) | [Yokohama](ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop.md) |  |
 | 07-19 ~ 21 | [China](zh_CN/index.md) | [Beijing](zh_CN/Beijing.md) | [Jazz Do It](zh_CN/jazz-do-it.md) | 北京林迪舞交流节 |

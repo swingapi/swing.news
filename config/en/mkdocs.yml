@@ -118,8 +118,10 @@ nav:
         - Timeline: 2024/sv_SE/index.md
         - Events by City: 2024/sv_SE/cities.md
         - All Host Cities This Year:
+          - 2024/sv_SE/Lulea.md
           - 2024/sv_SE/Stockholm.md
         - All Events This Year:
+          - 2024/sv_SE/heedman-dance-camp.md
           - 2024/sv_SE/herrang-dance-camp.md
   - Orgs: https://swing.kids
   - Changelogs: https://github.com/swingdance/events/commits/main/

@@ -8,6 +8,7 @@ status: timeline
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 07-28 ~ 31 | [Lulea](Lulea.md) | [Heedman Dance Camp](heedman-dance-camp.md) |  |
 | 07-06 ~ 26 | [Stockholm](Stockholm.md) | [Herräng Dance Camp](herrang-dance-camp.md) |  |
 
 ---

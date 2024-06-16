@@ -118,8 +118,10 @@ nav:
         - 时间线: 2024/sv_SE/index.md
         - 按城市划分: 2024/sv_SE/cities.md
         - 今年所有主办城市:
+          - 2024/sv_SE/Lulea.md
           - 2024/sv_SE/Stockholm.md
         - 今年所有活动:
+          - 2024/sv_SE/heedman-dance-camp.md
           - 2024/sv_SE/herrang-dance-camp.md
   - 组织: https://swing.kids
   - 更新日志: https://github.com/swingdance/events/commits/main/

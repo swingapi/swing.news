@@ -8,7 +8,8 @@ status: timeline
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-| 07-06 ~ 26 | [Stockholm](Stockholm.md) | [Herräng Dance Camp](herrang-dance-camp.md) |  |
+| 07-28 ~ 31 | [吕勒奥](Lulea.md) | [Heedman Dance Camp](heedman-dance-camp.md) |  |
+| 07-06 ~ 26 | [斯德哥尔摩](Stockholm.md) | [Herräng Dance Camp](herrang-dance-camp.md) |  |
 
 ---
 

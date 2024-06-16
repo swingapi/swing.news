@@ -45,6 +45,7 @@ status: timeline
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 07-28 ~ 31 | [Sweden](2024/sv_SE/index.md) | [Lulea](2024/sv_SE/Lulea.md) | [Heedman Dance Camp](2024/sv_SE/heedman-dance-camp.md) |  |
 | 07-27 ~ 27 | [South Korea](2024/ko_KR/index.md) | [Seoul](2024/ko_KR/Seoul.md) | [Champions Cup Korea](2024/ko_KR/champions-cup-korea.md) |  |
 | 07-27 ~ 27 | [Japan](2024/ja_JP/index.md) | [Yokohama](2024/ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](2024/ja_JP/yokohama-cross-street-hop.md) |  |
 | 07-19 ~ 21 | [China](2024/zh_CN/index.md) | [Beijing](2024/zh_CN/Beijing.md) | [Jazz Do It](2024/zh_CN/jazz-do-it.md) | 北京林迪舞交流节 |

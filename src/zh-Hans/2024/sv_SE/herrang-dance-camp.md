@@ -6,7 +6,7 @@ subtitle: HDC 2024
 # Herräng Dance Camp 
 
 :fontawesome-solid-calendar-days: 2024-07-06 ~ 2024-07-26  
-:fontawesome-solid-location-dot: Stockholm  
+:fontawesome-solid-location-dot: 斯德哥尔摩  
 
 
 ???+ venue "场地"
