@@ -4,6 +4,12 @@ status: timeline
 
 # Events in 2024 - zh_HK • Hong Kong
 
+## 09
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 09-27 ~ 29 | [HK](HK.md) | [Vasu & Xinru Balboa Weekend](vasu-n-xinru-balboa-weekend.md) |  |
+
 ## 02
 
 | Date | City | Event | |

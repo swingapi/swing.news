@@ -28,6 +28,7 @@ status: timeline
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 09-27 ~ 29 | [Hong Kong](2024/zh_HK/index.md) | [HK](2024/zh_HK/HK.md) | [Vasu & Xinru Balboa Weekend](2024/zh_HK/vasu-n-xinru-balboa-weekend.md) |  |
 | 09-27 ~ 29 | [Thailand](2024/th_TH/index.md) | [Bangkok](2024/th_TH/Bangkok.md) | [Diga Diga Doo](2024/th_TH/diga-diga-doo.md) |  |
 | 09-15 ~ 17 | [China](2024/zh_CN/index.md) | [Shanghai](2024/zh_CN/Shanghai.md) | [Women's Jazzination](2024/zh_CN/womens-jazzination.md) | 爵了姐妹 |
 | 09-08 ~ 08 | [Japan](2024/ja_JP/index.md) | [Tokyo](2024/ja_JP/Tokyo.md) | [Swing OWL](2024/ja_JP/swing-owl-08.md) |  |

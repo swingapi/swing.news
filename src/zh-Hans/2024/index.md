@@ -24,6 +24,7 @@
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
+| 09-27 ~ 29 | [香港](zh_HK/index.md) | [HK](zh_HK/HK.md) | [Vasu & Xinru Balboa Weekend](zh_HK/vasu-n-xinru-balboa-weekend.md) |  |
 | 09-27 ~ 29 | [泰国](th_TH/index.md) | [曼谷](th_TH/Bangkok.md) | [Diga Diga Doo](th_TH/diga-diga-doo.md) |  |
 | 09-15 ~ 17 | [中国](zh_CN/index.md) | [上海](zh_CN/Shanghai.md) | [Women's Jazzination](zh_CN/womens-jazzination.md) | 爵了姐妹 |
 | 09-08 ~ 08 | [日本](ja_JP/index.md) | [东京](ja_JP/Tokyo.md) | [Swing OWL](ja_JP/swing-owl-08.md) |  |
