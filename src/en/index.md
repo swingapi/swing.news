@@ -16,6 +16,8 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 11-16 ~ 17 | [Taiwan](2024/zh_TW/index.md) | [Taipei](2024/zh_TW/Taipei.md) | [What The PA!](2024/zh_TW/what-the-pa.md) |  |
+| 11-13 ~ 17 | [Poland](2024/pl_PL/index.md) | [Krakow](2024/pl_PL/Krakow.md) | [Dragon Swing Festival](2024/pl_PL/dragon-swing-festival.md) |  |
+| 11-07 ~ 11 | [Mexico](2024/es_MX/index.md) | [Cancun](2024/es_MX/Cancun.md) | [Lindy & Balboa Maya Fest](2024/es_MX/lindy-n-balboa-maya-fest.md) |  |
 
 ## 10
 

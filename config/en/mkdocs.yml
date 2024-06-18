@@ -16,6 +16,14 @@ nav:
       - 2024: 2024/index.md
   - Regions:
     - All: 2024/regions.md
+    - America:
+      - es_MX • Mexico:
+        - Timeline: 2024/es_MX/index.md
+        - Events by City: 2024/es_MX/cities.md
+        - All Host Cities This Year:
+          - 2024/es_MX/Cancun.md
+        - All Events This Year:
+          - 2024/es_MX/lindy-n-balboa-maya-fest.md
     - Asia:
       - ja_JP • Japan:
         - Timeline: 2024/ja_JP/index.md
@@ -115,6 +123,13 @@ nav:
         - All Events This Year:
           - 2024/zh_TW/what-the-pa.md
     - Europe:
+      - pl_PL • Poland:
+        - Timeline: 2024/pl_PL/index.md
+        - Events by City: 2024/pl_PL/cities.md
+        - All Host Cities This Year:
+          - 2024/pl_PL/Krakow.md
+        - All Events This Year:
+          - 2024/pl_PL/dragon-swing-festival.md
       - sv_SE • Sweden:
         - Timeline: 2024/sv_SE/index.md
         - Events by City: 2024/sv_SE/cities.md

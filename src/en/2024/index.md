@@ -12,6 +12,8 @@
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 11-16 ~ 17 | [Taiwan](zh_TW/index.md) | [Taipei](zh_TW/Taipei.md) | [What The PA!](zh_TW/what-the-pa.md) |  |
+| 11-13 ~ 17 | [Poland](pl_PL/index.md) | [Krakow](pl_PL/Krakow.md) | [Dragon Swing Festival](pl_PL/dragon-swing-festival.md) |  |
+| 11-07 ~ 11 | [Mexico](es_MX/index.md) | [Cancun](es_MX/Cancun.md) | [Lindy & Balboa Maya Fest](es_MX/lindy-n-balboa-maya-fest.md) |  |
 
 ## 10
 

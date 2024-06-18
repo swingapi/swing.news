@@ -16,6 +16,14 @@ nav:
       - 2024: 2024/index.md
   - 地区:
     - 所有: 2024/regions.md
+    - 美洲:
+      - es_MX • 墨西哥:
+        - 时间线: 2024/es_MX/index.md
+        - 按城市划分: 2024/es_MX/cities.md
+        - 今年所有主办城市:
+          - 2024/es_MX/Cancun.md
+        - 今年所有活动:
+          - 2024/es_MX/lindy-n-balboa-maya-fest.md
     - 亚洲:
       - ja_JP • 日本:
         - 时间线: 2024/ja_JP/index.md
@@ -115,6 +123,13 @@ nav:
         - 今年所有活动:
           - 2024/zh_TW/what-the-pa.md
     - 欧洲:
+      - pl_PL • 波兰:
+        - 时间线: 2024/pl_PL/index.md
+        - 按城市划分: 2024/pl_PL/cities.md
+        - 今年所有主办城市:
+          - 2024/pl_PL/Krakow.md
+        - 今年所有活动:
+          - 2024/pl_PL/dragon-swing-festival.md
       - sv_SE • 瑞典:
         - 时间线: 2024/sv_SE/index.md
         - 按城市划分: 2024/sv_SE/cities.md
