@@ -2,120 +2,133 @@
 status: timeline
 ---
 
-# 2024年活动
-
-## 12
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 12-08 ~ 10 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Tokyo Balboa Weekend](2024/ja_JP/tokyo-balboa-weekend.md) |  |
-| 12-05 ~ 08 | [韩国](2024/ko_KR/index.md) | [首尔](2024/ko_KR/Seoul.md) | [Savoy Cup Asia](2024/ko_KR/savoy-cup-asia.md) |  |
-
-## 11
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 11-16 ~ 17 | [台湾](2024/zh_TW/index.md) | [台北](2024/zh_TW/Taipei.md) | [What The PA!](2024/zh_TW/what-the-pa.md) |  |
-| 11-13 ~ 17 | [波兰](2024/pl_PL/index.md) | [克拉科夫](2024/pl_PL/Krakow.md) | [Dragon Swing Festival](2024/pl_PL/dragon-swing-festival.md) |  |
-| 11-07 ~ 11 | [墨西哥](2024/es_MX/index.md) | [坎昆](2024/es_MX/Cancun.md) | [Lindy & Balboa Maya Fest](2024/es_MX/lindy-n-balboa-maya-fest.md) |  |
-
-## 10
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 10-26 ~ 26 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Swing OWL Halloween](2024/ja_JP/swing-owl-halloween.md) |  |
-| 10-03 ~ 06 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Shanghai Balboa Weekend](2024/zh_CN/shanghai-balboa-weekend.md) |  |
-
-## 09
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 09-27 ~ 29 | [香港](2024/zh_HK/index.md) | [HK](2024/zh_HK/HK.md) | [Vasu & Xinru Balboa Weekend](2024/zh_HK/vasu-n-xinru-balboa-weekend.md) |  |
-| 09-27 ~ 29 | [泰国](2024/th_TH/index.md) | [曼谷](2024/th_TH/Bangkok.md) | [Diga Diga Doo](2024/th_TH/diga-diga-doo.md) |  |
-| 09-15 ~ 17 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Women's Jazzination](2024/zh_CN/womens-jazzination.md) | 爵了姐妹 |
-| 09-08 ~ 08 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Swing OWL](2024/ja_JP/swing-owl-08.md) |  |
-| 09-06 ~ 08 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Beijing Blues Bush](2024/zh_CN/beijing-blues-bush.md) |  |
-
-## 08
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 08-30 ~ 09-01 | [中国](2024/zh_CN/index.md) | [浙江](2024/zh_CN/Zhejiang.md) • 杭州 | [Westlake Swing Carnival](2024/zh_CN/westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
-| 08-12 ~ 12 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Swing Jack!](2024/ja_JP/swing-jack.md) |  |
-| 08-02 ~ 04 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Swing Feast](2024/zh_CN/swing-feast.md) | 摇摆盛宴 |
-
-## 07
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 07-28 ~ 31 | [瑞典](2024/sv_SE/index.md) | [吕勒奥](2024/sv_SE/Lulea.md) | [Heedman Dance Camp](2024/sv_SE/heedman-dance-camp.md) |  |
-| 07-27 ~ 27 | [韩国](2024/ko_KR/index.md) | [首尔](2024/ko_KR/Seoul.md) | [Champions Cup Korea](2024/ko_KR/champions-cup-korea.md) |  |
-| 07-27 ~ 27 | [日本](2024/ja_JP/index.md) | [横滨](2024/ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](2024/ja_JP/yokohama-cross-street-hop.md) |  |
-| 07-19 ~ 21 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Jazz Do It](2024/zh_CN/jazz-do-it.md) | 北京林迪舞交流节 |
-| 07-12 ~ 14 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Bal In Tokyo](2024/ja_JP/bal-in-tokyo.md) |  |
-| 07-06 ~ 26 | [瑞典](2024/sv_SE/index.md) | [斯德哥尔摩](2024/sv_SE/Stockholm.md) | [Herräng Dance Camp](2024/sv_SE/herrang-dance-camp.md) |  |
-| 07-06 ~ 06 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Chocolate Shake](2024/ja_JP/chocolate-shake-07.md) |  |
-| 07-05 ~ 07 | [中国](2024/zh_CN/index.md) | [湖南](2024/zh_CN/Hunan.md) • 长沙 | [Funs Swing Exchange](2024/zh_CN/funs-swing-exchange.md) |  |
-
-## 06
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 06-29 ~ 30 | [日本](2024/ja_JP/index.md) | [札幌](2024/ja_JP/Sapporo.md) | [Swingin' & Hoppin' Sapporp](2024/ja_JP/swingin-n-hoppin-sapporp.md) |  |
-| 07-27 ~ 27 | [日本](2024/ja_JP/index.md) | [横滨](2024/ja_JP/Yokohama.md) | [Yokohama Cross Street Hop](2024/ja_JP/yokohama-cross-street-hop.md) |  |
-| 06-28 ~ 30 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Balboa Festival](2024/zh_CN/balboa-festival.md) |  |
-| 06-28 ~ 28 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Tomodachi Swing](2024/ja_JP/tomodachi-swing.md) |  |
-| 06-23 ~ 23 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Swing OWL](2024/ja_JP/swing-owl-06.md) |  |
-| 06-22 ~ 22 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Chocolate Shake](2024/ja_JP/chocolate-shake-06.md) |  |
-| 06-21 ~ 23 | [韩国](2024/ko_KR/index.md) | [首尔](2024/ko_KR/Seoul.md) | [Rhythm Korea](2024/ko_KR/rhythm-korea.md) | 리듬코리아 |
-| 06-16 ~ 16 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Balboa Lab Tea Party](2024/ja_JP/balboa-lab-tea-party.md) |  |
-| 06-15 ~ 15 | [日本](2024/ja_JP/index.md) | [东京](2024/ja_JP/Tokyo.md) | [Chill Balboa Social](2024/ja_JP/chill-balboa-social.md) |  |
-| 06-14 ~ 16 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Jump for Joy](2024/zh_CN/jump-for-joy.md) |  |
-| 06-08 ~ 10 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Dragon Boat Swing Camp](2024/zh_CN/dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
-| 06-08 ~ 10 | [中国](2024/zh_CN/index.md) | [云南](2024/zh_CN/Yunnan.md) • 大理 | [Lalla & Sunny Workshop](2024/zh_CN/dali-lalla-n-sunny-workshop.md) | 摇摆端舞 |
-| 06-08 ~ 09 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Vasu & Nan Balboa Workshop](2024/zh_CN/vasu-n-nan-balboa-workshop.md) | 端午工作坊 |
-
-## 05
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 05-31 ~ 06-02 | [中国](2024/zh_CN/index.md) | [江苏](2024/zh_CN/Jiangsu.md) • 南京 | [Nanjing Lindy Festival](2024/zh_CN/nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
-| 05-18 ~ 19 | [中国](2024/zh_CN/index.md) | [福建](2024/zh_CN/Fujian.md) • 厦门 | [Kiki House African Dance Workshop](2024/zh_CN/xiamen-kiki-house-african-dance-workshop.md) | 木木之家非洲舞 Workshop |
-| 05-17 ~ 22 | [中国](2024/zh_CN/index.md) | [福建](2024/zh_CN/Fujian.md) • 福州 | [Awozi & Lis Fuzhou Workshop](2024/zh_CN/awozi-n-lis-fuzhou-workshop.md) |  |
-| 05-17 ~ 19 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Shanghai Blues Camp](2024/zh_CN/shanghai-blues-camp.md) |  |
-| 05-17 ~ 19 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Beijing Balboa Fever](2024/zh_CN/beijing-balboa-fever.md) | 北京巴尔博亚热旋风 |
-| 05-04 ~ 12 | [泰国](2024/th_TH/index.md) | [巴蜀府](2024/th_TH/Prachuap Khiri Khan.md) • 华欣 | [Breezy Balboa](2024/th_TH/breezy-balboa.md) |  |
-| 05-01 ~ 02 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Jumpin’ Swing](2024/zh_CN/jumping-swing.md) |  |
-
-## 04
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 04-19 ~ 23 | [中国](2024/zh_CN/index.md) | [上海](2024/zh_CN/Shanghai.md) | [Balboa Spring Camp](2024/zh_CN/balboa-spring-camp.md) |  |
-| 04-19 ~ 21 | [中国](2024/zh_CN/index.md) | [四川](2024/zh_CN/Sichuan.md) • 成都 | [Bouncy Chengdu](2024/zh_CN/bouncy-chengdu.md) | 妖艳儿摇摆节 |
-
-## 03
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 03-29 ~ 04-01 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Sharon Davis Workshop](2024/zh_CN/beijing-sharon-davis-workshop.md) | Sharon Davis 摇摆秘籍 |
-| 03-22 ~ 24 | [中国](2024/zh_CN/index.md) | [重庆](2024/zh_CN/Chongqing.md) | [Lindy Hotpot](2024/zh_CN/lindy-hotpot.md) |  |
-| 03-21 ~ 24 | [中国](2024/zh_CN/index.md) | [福建](2024/zh_CN/Fujian.md) • 厦门 | [Awozi & Lis Workshop](2024/zh_CN/xiamen-awozi-n-lis-workshop.md) |  |
-| 03-15 ~ 17 | [中国](2024/zh_CN/index.md) | [广东](2024/zh_CN/Guangdong.md) • 深圳 | [Groove the Blusy Bay](2024/zh_CN/groove-the-blusy-bay.md) | 湾区布鲁斯节 |
-| 03-15 ~ 17 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [All Balboa Exchange](2024/zh_CN/all-balboa-exchange.md) |  |
-| 03-01 ~ 03 | [中国](2024/zh_CN/index.md) | [福建](2024/zh_CN/Fujian.md) • 厦门 | [Jiaming & Wanyuan Workshop](2024/zh_CN/xiamen-jiaming-n-wanyuan-workshop.md) | 佳铭&婉圆「摇摆之旅」 |
-
-## 02
-
-| 日期 | 地区 | 城市 | 活动 | |
-| --- | --- | --- | --- | --- |
-| 02-02 ~ 04 | [香港](2024/zh_HK/index.md) | [HK](2024/zh_HK/HK.md) | [Harbourside Swing Fest](2024/zh_HK/harbourside-swing-fest.md) |  |
+## 2025
 
 ## 01
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 01-05 ~ 07 | [中国](2024/zh_CN/index.md) | [北京](2024/zh_CN/Beijing.md) | [Beijing Balboa Travel](2024/zh_CN/beijing-balboa-travel.md) | 北京巴尔博亚之旅 |
+| 01-16 ~ 19 | [土耳其](tr_TR/index.md) | [伊斯坦布尔](tr_TR/by_city.md#istanbul) | [Jumpin' at Istanbul](tr_TR/jumpin-at-istanbul-2025.md) |  |
+| 01-10 ~ 12 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest-2025.md) |  |
+
+---
+
+## 2024
+
+## 12
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 12-08 ~ 10 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Tokyo Balboa Weekend](ja_JP/tokyo-balboa-weekend-2024.md) |  |
+| 12-05 ~ 08 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Savoy Cup Asia](ko_KR/savoy-cup-asia-2024.md) |  |
+
+## 11
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 11-16 ~ 17 | [台湾](zh_TW/index.md) | [台北](zh_TW/by_city.md#taipei) | [What The PA!](zh_TW/what-the-pa-2024.md) |  |
+| 11-13 ~ 17 | [波兰](pl_PL/index.md) | [克拉科夫](pl_PL/by_city.md#krakow) | [Dragon Swing Festival](pl_PL/dragon-swing-festival-2024.md) |  |
+| 11-07 ~ 11 | [墨西哥](es_MX/index.md) | [坎昆](es_MX/by_city.md#cancun) | [Lindy & Balboa Maya Fest](es_MX/lindy-n-balboa-maya-fest-2024.md) |  |
+
+## 10
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 10-26 ~ 26 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL Halloween](ja_JP/swing-owl-halloween-2024.md) |  |
+| 10-03 ~ 06 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Balboa Weekend](zh_CN/shanghai-balboa-weekend-2024.md) |  |
+
+## 09
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 09-27 ~ 29 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Vasu & Xinru Balboa Weekend](zh_HK/vasu-n-xinru-balboa-weekend-2024.md) |  |
+| 09-27 ~ 29 | [泰国](th_TH/index.md) | [曼谷](th_TH/by_city.md#bangkok) | [Diga Diga Doo](th_TH/diga-diga-doo-2024.md) |  |
+| 09-15 ~ 17 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Women's Jazzination](zh_CN/womens-jazzination-2024.md) | 爵了姐妹 |
+| 09-08 ~ 08 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-08-2024.md) |  |
+| 09-06 ~ 08 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Blues Bush](zh_CN/beijing-blues-bush-2024.md) |  |
+
+## 08
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 08-30 ~ 09-01 | [中国](zh_CN/index.md) | [浙江](zh_CN/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](zh_CN/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
+| 08-12 ~ 12 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing Jack!](ja_JP/swing-jack-2024.md) |  |
+| 08-02 ~ 04 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Swing Feast](zh_CN/swing-feast-2024.md) | 摇摆盛宴 |
+
+## 07
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 07-28 ~ 31 | [瑞典](sv_SE/index.md) | [吕勒奥](sv_SE/by_city.md#lulea) | [Heedman Dance Camp](sv_SE/heedman-dance-camp-2024.md) |  |
+| 07-27 ~ 27 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Champions Cup Korea](ko_KR/champions-cup-korea-2024.md) |  |
+| 07-27 ~ 27 | [日本](ja_JP/index.md) | [横滨](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-07-2024.md) |  |
+| 07-19 ~ 21 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Jazz Do It](zh_CN/jazz-do-it-2024.md) | 北京林迪舞交流节 |
+| 07-12 ~ 14 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Bal In Tokyo](ja_JP/bal-in-tokyo-2024.md) |  |
+| 07-06 ~ 26 | [瑞典](sv_SE/index.md) | [斯德哥尔摩](sv_SE/by_city.md#stockholm) | [Herräng Dance Camp](sv_SE/herrang-dance-camp-2024.md) |  |
+| 07-06 ~ 06 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Chocolate Shake](ja_JP/chocolate-shake-07-2024.md) |  |
+| 07-05 ~ 07 | [中国](zh_CN/index.md) | [湖南](zh_CN/by_city.md#hunan) • 长沙 | [Funs Swing Exchange](zh_CN/funs-swing-exchange-2024.md) |  |
+| 07-03 ~ 08 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Bal In Beijing](zh_CN/bal-in-beijing-2024.md) |  |
+
+## 06
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 06-29 ~ 30 | [日本](ja_JP/index.md) | [札幌](ja_JP/by_city.md#sapporo) | [Swingin' & Hoppin' Sapporp](ja_JP/swingin-n-hoppin-sapporp-2024.md) |  |
+| 06-29 ~ 29 | [日本](ja_JP/index.md) | [横滨](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-06-2024.md) |  |
+| 06-28 ~ 30 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Balboa Festival](zh_CN/balboa-festival-2024.md) |  |
+| 06-28 ~ 28 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Tomodachi Swing](ja_JP/tomodachi-swing-2024.md) |  |
+| 06-23 ~ 23 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-06-2024.md) |  |
+| 06-22 ~ 22 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Chocolate Shake](ja_JP/chocolate-shake-06-2024.md) |  |
+| 06-21 ~ 23 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Rhythm Korea](ko_KR/rhythm-korea-2024.md) | 리듬코리아 |
+| 06-16 ~ 16 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Balboa Lab Tea Party](ja_JP/balboa-lab-tea-party-2024.md) |  |
+| 06-15 ~ 15 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Chill Balboa Social](ja_JP/chill-balboa-social-2024.md) |  |
+| 06-14 ~ 16 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Jump for Joy](zh_CN/jump-for-joy-2024.md) |  |
+| 06-08 ~ 10 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Dragon Boat Swing Camp](zh_CN/dragon-boat-swing-camp-2024.md) | 龙舟摇摆训练营 |
+| 06-08 ~ 10 | [中国](zh_CN/index.md) | [云南](zh_CN/by_city.md#yunnan) • 大理 | [Lalla & Sunny Workshop](zh_CN/dali-lalla-n-sunny-workshop-2024.md) | 摇摆端舞 |
+| 06-08 ~ 09 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Vasu & Nan Balboa Workshop](zh_CN/vasu-n-nan-balboa-workshop-2024.md) | 端午工作坊 |
+
+## 05
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 05-31 ~ 06-02 | [中国](zh_CN/index.md) | [江苏](zh_CN/by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](zh_CN/nanjing-lindy-festival-2024.md) | 爵对莱斯 • 南京林迪节 |
+| 05-18 ~ 19 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 厦门 | [Kiki House African Dance Workshop](zh_CN/xiamen-kiki-house-african-dance-workshop-2024.md) | 木木之家非洲舞 Workshop |
+| 05-17 ~ 22 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 福州 | [Awozi & Lis Fuzhou Workshop](zh_CN/awozi-n-lis-fuzhou-workshop-2024.md) |  |
+| 05-17 ~ 19 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Blues Camp](zh_CN/shanghai-blues-camp-2024.md) |  |
+| 05-17 ~ 19 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Balboa Fever](zh_CN/beijing-balboa-fever-2024.md) | 北京巴尔博亚热旋风 |
+| 05-04 ~ 12 | [泰国](th_TH/index.md) | [巴蜀府](th_TH/by_city.md#prachuap-khiri-khan) • 华欣 | [Breezy Balboa](th_TH/breezy-balboa-2024.md) |  |
+| 05-01 ~ 02 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Jumpin’ Swing](zh_CN/jumping-swing-2024.md) |  |
+
+## 04
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 04-19 ~ 23 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Balboa Spring Camp](zh_CN/balboa-spring-camp-2024.md) |  |
+| 04-19 ~ 21 | [中国](zh_CN/index.md) | [四川](zh_CN/by_city.md#sichuan) • 成都 | [Bouncy Chengdu](zh_CN/bouncy-chengdu-2024.md) | 妖艳儿摇摆节 |
+| 04-01 ~ 07 | [美国](en_US/index.md) | [纽约](en_US/by_city.md#new-york) | [Bal Week](en_US/bal-week-2024.md) |  |
+
+## 03
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 03-29 ~ 04-01 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Sharon Davis Workshop](zh_CN/beijing-sharon-davis-workshop-2024.md) | Sharon Davis 摇摆秘籍 |
+| 03-22 ~ 24 | [中国](zh_CN/index.md) | [重庆](zh_CN/by_city.md#chongqing) | [Lindy Hotpot](zh_CN/lindy-hotpot-2024.md) |  |
+| 03-21 ~ 24 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 厦门 | [Awozi & Lis Workshop](zh_CN/xiamen-awozi-n-lis-workshop-2024.md) |  |
+| 03-15 ~ 17 | [中国](zh_CN/index.md) | [广东](zh_CN/by_city.md#guangdong) • 深圳 | [Groove the Blusy Bay](zh_CN/groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
+| 03-15 ~ 17 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [All Balboa Exchange](zh_CN/all-balboa-exchange-2024.md) |  |
+| 03-01 ~ 03 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 厦门 | [Jiaming & Wanyuan Workshop](zh_CN/xiamen-jiaming-n-wanyuan-workshop-2024.md) | 佳铭&婉圆「摇摆之旅」 |
+
+## 02
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 02-02 ~ 04 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest-2024.md) |  |
+
+## 01
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 01-05 ~ 07 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Balboa Travel](zh_CN/beijing-balboa-travel-2024.md) | 北京巴尔博亚之旅 |
 
 ---
 

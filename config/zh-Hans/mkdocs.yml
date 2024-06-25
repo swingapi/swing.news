@@ -13,132 +13,148 @@ nav:
     - 时间线: index.md
     - 标签: tags.md
     - 存档:
-      - 2024: 2024/index.md
+      - 2025: 2025.md
+      - 2024: 2024.md
   - 地区:
-    - 所有: 2024/regions.md
+    - 所有: regions.md
     - 美洲:
+      - en_US • 美国:
+        - 时间线: en_US/index.md
+        - 按城市划分: en_US/by_city.md
+        - 主办城市: en_US/host_cities.md
+        - 已收录活动:
+          - en_US/bal-week-2024.md
+        - 存档:
+          - en_US/2024.md
       - es_MX • 墨西哥:
-        - 时间线: 2024/es_MX/index.md
-        - 按城市划分: 2024/es_MX/cities.md
-        - 今年所有主办城市:
-          - 2024/es_MX/Cancun.md
-        - 今年所有活动:
-          - 2024/es_MX/lindy-n-balboa-maya-fest.md
+        - 时间线: es_MX/index.md
+        - 按城市划分: es_MX/by_city.md
+        - 主办城市: es_MX/host_cities.md
+        - 已收录活动:
+          - es_MX/lindy-n-balboa-maya-fest-2024.md
+        - 存档:
+          - es_MX/2024.md
     - 亚洲:
       - ja_JP • 日本:
-        - 时间线: 2024/ja_JP/index.md
-        - 按城市划分: 2024/ja_JP/cities.md
-        - 今年所有主办城市:
-          - 2024/ja_JP/Sapporo.md
-          - 2024/ja_JP/Tokyo.md
-          - 2024/ja_JP/Yokohama.md
-        - 今年所有活动:
-          - 2024/ja_JP/tokyo-balboa-weekend.md
-          - 2024/ja_JP/swing-owl-halloween.md
-          - 2024/ja_JP/swing-owl-08.md
-          - 2024/ja_JP/swing-jack.md
-          - 2024/ja_JP/yokohama-cross-street-hop.md
-          - 2024/ja_JP/bal-in-tokyo.md
-          - 2024/ja_JP/chocolate-shake-07.md
-          - 2024/ja_JP/swingin-n-hoppin-sapporp.md
-          - 2024/ja_JP/yokohama-cross-street-hop.md
-          - 2024/ja_JP/tomodachi-swing.md
-          - 2024/ja_JP/swing-owl-06.md
-          - 2024/ja_JP/chocolate-shake-06.md
-          - 2024/ja_JP/balboa-lab-tea-party.md
-          - 2024/ja_JP/chill-balboa-social.md
+        - 时间线: ja_JP/index.md
+        - 按城市划分: ja_JP/by_city.md
+        - 主办城市: ja_JP/host_cities.md
+        - 已收录活动:
+          - ja_JP/tokyo-balboa-weekend-2024.md
+          - ja_JP/swing-owl-halloween-2024.md
+          - ja_JP/swing-owl-08-2024.md
+          - ja_JP/swing-jack-2024.md
+          - ja_JP/yokohama-cross-street-hop-07-2024.md
+          - ja_JP/bal-in-tokyo-2024.md
+          - ja_JP/chocolate-shake-07-2024.md
+          - ja_JP/swingin-n-hoppin-sapporp-2024.md
+          - ja_JP/yokohama-cross-street-hop-06-2024.md
+          - ja_JP/tomodachi-swing-2024.md
+          - ja_JP/swing-owl-06-2024.md
+          - ja_JP/chocolate-shake-06-2024.md
+          - ja_JP/balboa-lab-tea-party-2024.md
+          - ja_JP/chill-balboa-social-2024.md
+        - 存档:
+          - ja_JP/2024.md
       - ko_KR • 韩国:
-        - 时间线: 2024/ko_KR/index.md
-        - 按城市划分: 2024/ko_KR/cities.md
-        - 今年所有主办城市:
-          - 2024/ko_KR/Seoul.md
-        - 今年所有活动:
-          - 2024/ko_KR/savoy-cup-asia.md
-          - 2024/ko_KR/champions-cup-korea.md
-          - 2024/ko_KR/rhythm-korea.md
+        - 时间线: ko_KR/index.md
+        - 按城市划分: ko_KR/by_city.md
+        - 主办城市: ko_KR/host_cities.md
+        - 已收录活动:
+          - ko_KR/savoy-cup-asia-2024.md
+          - ko_KR/champions-cup-korea-2024.md
+          - ko_KR/rhythm-korea-2024.md
+        - 存档:
+          - ko_KR/2024.md
       - th_TH • 泰国:
-        - 时间线: 2024/th_TH/index.md
-        - 按城市划分: 2024/th_TH/cities.md
-        - 今年所有主办城市:
-          - 2024/th_TH/Bangkok.md
-          - 2024/th_TH/Prachuap Khiri Khan.md
-        - 今年所有活动:
-          - 2024/th_TH/diga-diga-doo.md
-          - 2024/th_TH/breezy-balboa.md
+        - 时间线: th_TH/index.md
+        - 按城市划分: th_TH/by_city.md
+        - 主办城市: th_TH/host_cities.md
+        - 已收录活动:
+          - th_TH/diga-diga-doo-2024.md
+          - th_TH/breezy-balboa-2024.md
+        - 存档:
+          - th_TH/2024.md
+      - tr_TR • 土耳其:
+        - 时间线: tr_TR/index.md
+        - 按城市划分: tr_TR/by_city.md
+        - 主办城市: tr_TR/host_cities.md
+        - 已收录活动:
+          - tr_TR/jumpin-at-istanbul-2025.md
+        - 存档:
+          - tr_TR/2025.md
       - zh_CN • 中国:
-        - 时间线: 2024/zh_CN/index.md
-        - 按城市划分: 2024/zh_CN/cities.md
-        - 今年所有主办城市:
-          - 2024/zh_CN/Beijing.md
-          - 2024/zh_CN/Chongqing.md
-          - 2024/zh_CN/Fujian.md
-          - 2024/zh_CN/Guangdong.md
-          - 2024/zh_CN/Hunan.md
-          - 2024/zh_CN/Jiangsu.md
-          - 2024/zh_CN/Shanghai.md
-          - 2024/zh_CN/Sichuan.md
-          - 2024/zh_CN/Yunnan.md
-          - 2024/zh_CN/Zhejiang.md
-        - 今年所有活动:
-          - 2024/zh_CN/shanghai-balboa-weekend.md
-          - 2024/zh_CN/womens-jazzination.md
-          - 2024/zh_CN/beijing-blues-bush.md
-          - 2024/zh_CN/westlake-swing-carnival.md
-          - 2024/zh_CN/swing-feast.md
-          - 2024/zh_CN/jazz-do-it.md
-          - 2024/zh_CN/funs-swing-exchange.md
-          - 2024/zh_CN/balboa-festival.md
-          - 2024/zh_CN/jump-for-joy.md
-          - 2024/zh_CN/dragon-boat-swing-camp.md
-          - 2024/zh_CN/dali-lalla-n-sunny-workshop.md
-          - 2024/zh_CN/vasu-n-nan-balboa-workshop.md
-          - 2024/zh_CN/nanjing-lindy-festival.md
-          - 2024/zh_CN/xiamen-kiki-house-african-dance-workshop.md
-          - 2024/zh_CN/awozi-n-lis-fuzhou-workshop.md
-          - 2024/zh_CN/shanghai-blues-camp.md
-          - 2024/zh_CN/beijing-balboa-fever.md
-          - 2024/zh_CN/jumping-swing.md
-          - 2024/zh_CN/balboa-spring-camp.md
-          - 2024/zh_CN/bouncy-chengdu.md
-          - 2024/zh_CN/beijing-sharon-davis-workshop.md
-          - 2024/zh_CN/lindy-hotpot.md
-          - 2024/zh_CN/xiamen-awozi-n-lis-workshop.md
-          - 2024/zh_CN/groove-the-blusy-bay.md
-          - 2024/zh_CN/all-balboa-exchange.md
-          - 2024/zh_CN/xiamen-jiaming-n-wanyuan-workshop.md
-          - 2024/zh_CN/beijing-balboa-travel.md
+        - 时间线: zh_CN/index.md
+        - 按城市划分: zh_CN/by_city.md
+        - 主办城市: zh_CN/host_cities.md
+        - 已收录活动:
+          - zh_CN/shanghai-balboa-weekend-2024.md
+          - zh_CN/womens-jazzination-2024.md
+          - zh_CN/beijing-blues-bush-2024.md
+          - zh_CN/westlake-swing-carnival-2024.md
+          - zh_CN/swing-feast-2024.md
+          - zh_CN/jazz-do-it-2024.md
+          - zh_CN/funs-swing-exchange-2024.md
+          - zh_CN/bal-in-beijing-2024.md
+          - zh_CN/balboa-festival-2024.md
+          - zh_CN/jump-for-joy-2024.md
+          - zh_CN/dragon-boat-swing-camp-2024.md
+          - zh_CN/dali-lalla-n-sunny-workshop-2024.md
+          - zh_CN/vasu-n-nan-balboa-workshop-2024.md
+          - zh_CN/nanjing-lindy-festival-2024.md
+          - zh_CN/xiamen-kiki-house-african-dance-workshop-2024.md
+          - zh_CN/awozi-n-lis-fuzhou-workshop-2024.md
+          - zh_CN/shanghai-blues-camp-2024.md
+          - zh_CN/beijing-balboa-fever-2024.md
+          - zh_CN/jumping-swing-2024.md
+          - zh_CN/balboa-spring-camp-2024.md
+          - zh_CN/bouncy-chengdu-2024.md
+          - zh_CN/beijing-sharon-davis-workshop-2024.md
+          - zh_CN/lindy-hotpot-2024.md
+          - zh_CN/xiamen-awozi-n-lis-workshop-2024.md
+          - zh_CN/groove-the-blusy-bay-2024.md
+          - zh_CN/all-balboa-exchange-2024.md
+          - zh_CN/xiamen-jiaming-n-wanyuan-workshop-2024.md
+          - zh_CN/beijing-balboa-travel-2024.md
+        - 存档:
+          - zh_CN/2024.md
       - zh_HK • 香港:
-        - 时间线: 2024/zh_HK/index.md
-        - 按城市划分: 2024/zh_HK/cities.md
-        - 今年所有主办城市:
-          - 2024/zh_HK/HK.md
-        - 今年所有活动:
-          - 2024/zh_HK/vasu-n-xinru-balboa-weekend.md
-          - 2024/zh_HK/harbourside-swing-fest.md
+        - 时间线: zh_HK/index.md
+        - 按城市划分: zh_HK/by_city.md
+        - 主办城市: zh_HK/host_cities.md
+        - 已收录活动:
+          - zh_HK/harbourside-swing-fest-2025.md
+          - zh_HK/vasu-n-xinru-balboa-weekend-2024.md
+          - zh_HK/harbourside-swing-fest-2024.md
+        - 存档:
+          - zh_HK/2025.md
+          - zh_HK/2024.md
       - zh_TW • 台湾:
-        - 时间线: 2024/zh_TW/index.md
-        - 按城市划分: 2024/zh_TW/cities.md
-        - 今年所有主办城市:
-          - 2024/zh_TW/Taipei.md
-        - 今年所有活动:
-          - 2024/zh_TW/what-the-pa.md
+        - 时间线: zh_TW/index.md
+        - 按城市划分: zh_TW/by_city.md
+        - 主办城市: zh_TW/host_cities.md
+        - 已收录活动:
+          - zh_TW/what-the-pa-2024.md
+        - 存档:
+          - zh_TW/2024.md
     - 欧洲:
       - pl_PL • 波兰:
-        - 时间线: 2024/pl_PL/index.md
-        - 按城市划分: 2024/pl_PL/cities.md
-        - 今年所有主办城市:
-          - 2024/pl_PL/Krakow.md
-        - 今年所有活动:
-          - 2024/pl_PL/dragon-swing-festival.md
+        - 时间线: pl_PL/index.md
+        - 按城市划分: pl_PL/by_city.md
+        - 主办城市: pl_PL/host_cities.md
+        - 已收录活动:
+          - pl_PL/dragon-swing-festival-2024.md
+        - 存档:
+          - pl_PL/2024.md
       - sv_SE • 瑞典:
-        - 时间线: 2024/sv_SE/index.md
-        - 按城市划分: 2024/sv_SE/cities.md
-        - 今年所有主办城市:
-          - 2024/sv_SE/Lulea.md
-          - 2024/sv_SE/Stockholm.md
-        - 今年所有活动:
-          - 2024/sv_SE/heedman-dance-camp.md
-          - 2024/sv_SE/herrang-dance-camp.md
+        - 时间线: sv_SE/index.md
+        - 按城市划分: sv_SE/by_city.md
+        - 主办城市: sv_SE/host_cities.md
+        - 已收录活动:
+          - sv_SE/heedman-dance-camp-2024.md
+          - sv_SE/herrang-dance-camp-2024.md
+        - 存档:
+          - sv_SE/2024.md
   - 组织: https://swing.kids
   - 更新日志: https://github.com/swingdance/events/commits/main/
   - 关于:

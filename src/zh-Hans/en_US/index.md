@@ -1,0 +1,17 @@
+---
+status: timeline
+---
+
+# 美国
+
+## 2024
+
+## 04
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 04-01 ~ 07 | [纽约](by_city.md#new-york) | [Bal Week](bal-week-2024.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fen_US%20%E2%80%A2%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2024-04-&date_ends=2024-04-)
+
+---
+
