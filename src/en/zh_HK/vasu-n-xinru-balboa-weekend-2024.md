@@ -13,7 +13,10 @@ tags:
 
 ## Contact
 
-:fontawesome-brands-instagram: [hongkongbalboa](http://instagram.com/hongkongbalboa)  
+
+---
+
+ [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/hongkongbalboa)
 
 ---
 

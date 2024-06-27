@@ -18,7 +18,10 @@ subtitle: WTP 2024
 
 ## Contact
 
-:fontawesome-brands-instagram: [whatthepa_tw](http://instagram.com/whatthepa_tw)  
+
+---
+
+ [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/whatthepa_tw)
 
 ---
 

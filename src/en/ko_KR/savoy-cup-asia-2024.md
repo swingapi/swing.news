@@ -16,9 +16,10 @@ title: Savoy Cup Asia
 
 :fontawesome-solid-envelope: <savoycupasia@gmail.com>  
 :fontawesome-solid-globe: <https://savoycupasia.com>  
-:fontawesome-brands-facebook-f: [id=100093296225921](https://www.facebook.com/profile.php?id=100093296225921)  
-:fontawesome-brands-instagram: [savoycupasia](http://instagram.com/savoycupasia)  
-:fontawesome-brands-youtube: [@SavoyCup](https://youtube.com/@SavoyCup)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=100093296225921) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/savoycupasia) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@SavoyCup)
 
 ---
 

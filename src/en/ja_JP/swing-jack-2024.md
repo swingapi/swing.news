@@ -12,7 +12,10 @@ title: Swing Jack!
 ## Contact
 
 :fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
-:fontawesome-brands-facebook-f: [events/s/swing-jack-vol188/7387342054655829](https://www.facebook.com/events/s/swing-jack-vol188/7387342054655829)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/s/swing-jack-vol188/7387342054655829)
 
 ---
 

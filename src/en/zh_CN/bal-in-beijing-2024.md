@@ -13,7 +13,7 @@ tags:
 
 ## Contact
 
-:fontawesome-brands-weixin: [https://mp.weixin.qq.com/s/T14Vj1A2fy2GrSXarKYgzw](https://mp.weixin.qq.com/s/T14Vj1A2fy2GrSXarKYgzw)  
+:fontawesome-brands-weixin: https://mp.weixin.qq.com/s/T14Vj1A2fy2GrSXarKYgzw  
 
 ---
 

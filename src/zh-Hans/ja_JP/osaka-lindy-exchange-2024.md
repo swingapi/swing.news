@@ -12,7 +12,10 @@ title: Osaka Lindy Exchange
 ## 联系
 
 :fontawesome-solid-globe: <https://osakalindyexchange.com>  
-:fontawesome-brands-facebook-f: [events/2524406597767653](https://www.facebook.com/events/2524406597767653)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/2524406597767653)
 
 ---
 

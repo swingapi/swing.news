@@ -21,9 +21,10 @@ subtitle: HDC 2024
 
 :fontawesome-solid-envelope: <info@herrang.com>  
 :fontawesome-solid-globe: <https://www.herrang.com>  
-:fontawesome-brands-facebook-f: [herrangdancecamp](https://www.facebook.com/herrangdancecamp)  
-:fontawesome-brands-instagram: [herrangdancecamp](http://instagram.com/herrangdancecamp)  
-:fontawesome-brands-youtube: [@herrangdancecamp](https://youtube.com/@herrangdancecamp)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/herrangdancecamp) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/herrangdancecamp) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@herrangdancecamp)
 
 ---
 

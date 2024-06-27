@@ -11,8 +11,10 @@ title: Diga Diga Doo
 ## Contact
 
 :fontawesome-solid-globe: <https://sites.google.com/view/diga-diga-doo>  
-:fontawesome-brands-facebook-f: [DigaDigaDooBKK](https://www.facebook.com/DigaDigaDooBKK)  
-:fontawesome-brands-instagram: [digadigadoo.bkk](http://instagram.com/digadigadoo.bkk)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/DigaDigaDooBKK) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/digadigadoo.bkk)
 
 ---
 

@@ -12,9 +12,10 @@ title: Dragon Swing Festival
 
 :fontawesome-solid-envelope: <info@dragonswing.pl>  
 :fontawesome-solid-globe: <https://dragonswing.pl>  
-:fontawesome-brands-facebook-f: [dragonswing.krakow](https://www.facebook.com/dragonswing.krakow)  
-:fontawesome-brands-instagram: [dragonswingfestival](http://instagram.com/dragonswingfestival)  
-:fontawesome-brands-youtube: [DragonSwingPL](https://youtube.com/DragonSwingPL)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/dragonswing.krakow) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/dragonswingfestival) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/DragonSwingPL)
 
 ---
 

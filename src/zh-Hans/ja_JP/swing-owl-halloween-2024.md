@@ -12,7 +12,10 @@ title: Swing OWL Halloween
 ## 联系
 
 :fontawesome-solid-envelope: <info@dancingbus.com>  
-:fontawesome-brands-facebook-f: [events/1158724445124864](https://www.facebook.com/events/1158724445124864)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/1158724445124864)
 
 ---
 

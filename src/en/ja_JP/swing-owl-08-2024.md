@@ -12,7 +12,10 @@ title: Swing OWL
 ## Contact
 
 :fontawesome-solid-envelope: <info@dancingbus.com>  
-:fontawesome-brands-facebook-f: [events/1629062034584812](https://www.facebook.com/events/1629062034584812)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/1629062034584812)
 
 ---
 

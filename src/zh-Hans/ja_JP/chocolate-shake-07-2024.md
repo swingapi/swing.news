@@ -12,7 +12,10 @@ title: Chocolate Shake
 ## 联系
 
 :fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
-:fontawesome-brands-facebook-f: [events/966662868308079](https://www.facebook.com/events/966662868308079)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/966662868308079)
 
 ---
 

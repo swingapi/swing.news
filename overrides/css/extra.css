@@ -112,3 +112,10 @@
   -webkit-mask-image: var(--md-admonition-icon--party);
           mask-image: var(--md-admonition-icon--party);
 }
+
+/* Social Links Icon */
+
+.ky_social_links_icon {
+  font-size: 40px;
+  padding: 8px;
+}

@@ -14,9 +14,10 @@ description: 리듬코리아 - 2024
 
 :fontawesome-solid-envelope: <rhythmkoreaevent@gmail.com>  
 :fontawesome-solid-globe: <https://www.rhythmkorea.com>  
-:fontawesome-brands-facebook-f: [RhythmKorea](https://www.facebook.com/RhythmKorea)  
-:fontawesome-brands-instagram: [rhythm.korea](http://instagram.com/rhythm.korea)  
-:fontawesome-brands-youtube: [@rhythmkorea](https://youtube.com/@rhythmkorea)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/RhythmKorea) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/rhythm.korea) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@rhythmkorea)
 
 ---
 

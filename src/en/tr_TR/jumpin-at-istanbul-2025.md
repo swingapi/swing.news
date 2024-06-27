@@ -10,8 +10,10 @@ title: Jumpin' at Istanbul
 
 ## Contact
 
-:fontawesome-brands-instagram: [jumpinatistanbul](http://instagram.com/jumpinatistanbul)  
-:fontawesome-brands-youtube: [@jumpinatistanbul](https://youtube.com/@jumpinatistanbul)  
+
+---
+
+ [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/jumpinatistanbul) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@jumpinatistanbul)
 
 ---
 

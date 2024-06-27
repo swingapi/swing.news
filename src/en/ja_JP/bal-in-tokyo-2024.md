@@ -14,7 +14,10 @@ tags:
 
 :fontawesome-solid-envelope: <balintokyo@gmail.com>  
 :fontawesome-solid-globe: <https://balintokyo2024.my.canva.site/home>  
-:fontawesome-brands-facebook-f: [events/944883577242753](https://www.facebook.com/events/944883577242753)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/944883577242753)
 
 ---
 

@@ -15,9 +15,10 @@ tags:
 
 :fontawesome-solid-envelope: <koreabalboaweekend2008@gmail.com>  
 :fontawesome-solid-globe: <https://www.koreabalboa.com>  
-:fontawesome-brands-facebook-f: [KoreaBalboaWeekend](https://www.facebook.com/KoreaBalboaWeekend)  
-:fontawesome-brands-instagram: [balboa_seoul](http://instagram.com/balboa_seoul)  
-:fontawesome-brands-youtube: [TheBalboaKorea](https://youtube.com/TheBalboaKorea)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/KoreaBalboaWeekend) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/balboa_seoul) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/TheBalboaKorea)
 
 ---
 

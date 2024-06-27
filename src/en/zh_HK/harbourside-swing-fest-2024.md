@@ -17,8 +17,10 @@ title: Harbourside Swing Fest
 
 :fontawesome-solid-envelope: <info@rhythmstudiohk.com>  
 :fontawesome-solid-globe: <https://rhythmstudiohk.com/harbour-side-swing-fest>  
-:fontawesome-brands-facebook-f: [id=61551775018028](https://www.facebook.com/profile.php?id=61551775018028)  
-:fontawesome-brands-instagram: [HarboursideSwingFest](http://instagram.com/HarboursideSwingFest)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest)
 
 ---
 

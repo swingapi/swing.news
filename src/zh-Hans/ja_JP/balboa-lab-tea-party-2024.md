@@ -13,7 +13,10 @@ tags:
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [events/2204984319839589](https://www.facebook.com/events/2204984319839589)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/2204984319839589)
 
 ---
 

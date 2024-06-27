@@ -15,7 +15,10 @@ tags:
 
 :fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
 :fontawesome-solid-globe: <http://www.swing-jack.com>  
-:fontawesome-brands-facebook-f: [id=100063004610645](https://www.facebook.com/profile.php?id=100063004610645)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=100063004610645)
 
 ---
 

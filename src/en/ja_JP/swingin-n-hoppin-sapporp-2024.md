@@ -11,7 +11,10 @@ title: Swingin' & Hoppin' Sapporp
 
 ## Contact
 
-:fontawesome-brands-facebook-f: [events/s/-save-the-date-swinginhoppin-2/919703829611473](https://www.facebook.com/events/s/-save-the-date-swinginhoppin-2/919703829611473)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/s/-save-the-date-swinginhoppin-2/919703829611473)
 
 ---
 

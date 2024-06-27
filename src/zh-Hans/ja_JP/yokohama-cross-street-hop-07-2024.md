@@ -11,7 +11,10 @@ title: Yokohama Cross Street Hop
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [events/695279786151861](https://www.facebook.com/events/695279786151861)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/695279786151861)
 
 ---
 

@@ -13,7 +13,10 @@ tags:
 
 ## Contact
 
-:fontawesome-brands-facebook-f: [events/s/chillboa-1st-anniversary/2214972315515991](https://www.facebook.com/events/s/chillboa-1st-anniversary/2214972315515991)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/s/chillboa-1st-anniversary/2214972315515991)
 
 ---
 

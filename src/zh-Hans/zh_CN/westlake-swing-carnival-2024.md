@@ -14,7 +14,7 @@ description: 西湖摇摆嘉年华 - 2024
 
 ## 联系
 
-:fontawesome-brands-weixin: [https://mp.weixin.qq.com/s/LGEJMf9IcckWGncdhohFiw](https://mp.weixin.qq.com/s/LGEJMf9IcckWGncdhohFiw)  
+:fontawesome-brands-weixin: https://mp.weixin.qq.com/s/LGEJMf9IcckWGncdhohFiw  
 
 ---
 

@@ -11,7 +11,10 @@ title: Tomodachi Swing
 
 ## Contact
 
-:fontawesome-brands-facebook-f: [events/s/tomodachi-swing-night-vol11/799046655482239](https://www.facebook.com/events/s/tomodachi-swing-night-vol11/799046655482239)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/s/tomodachi-swing-night-vol11/799046655482239)
 
 ---
 

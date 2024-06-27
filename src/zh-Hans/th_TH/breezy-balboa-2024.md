@@ -12,7 +12,10 @@ tags:
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [breezybalboacamp](https://www.facebook.com/breezybalboacamp)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/breezybalboacamp)
 
 ---
 

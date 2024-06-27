@@ -12,8 +12,10 @@ title: Heedman Dance Camp
 
 :fontawesome-solid-envelope: <info@heedman.com>  
 :fontawesome-solid-globe: <https://www.heedman.com>  
-:fontawesome-brands-facebook-f: [asadanielheedman](https://www.facebook.com/asadanielheedman)  
-:fontawesome-brands-youtube: [@asadanielheedman](https://youtube.com/@asadanielheedman)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/asadanielheedman) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@asadanielheedman)
 
 ---
 

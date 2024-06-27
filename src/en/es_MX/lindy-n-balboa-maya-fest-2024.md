@@ -12,8 +12,10 @@ title: Lindy & Balboa Maya Fest
 
 :fontawesome-solid-envelope: <lindymayafest@gmail.com>  
 :fontawesome-solid-globe: <https://www.lindymayafest.com>  
-:fontawesome-brands-facebook-f: [lindymayafest](https://www.facebook.com/lindymayafest)  
-:fontawesome-brands-instagram: [lindymayafest](http://instagram.com/lindymayafest)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/lindymayafest) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/lindymayafest)
 
 ---
 

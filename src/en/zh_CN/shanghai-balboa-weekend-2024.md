@@ -21,7 +21,10 @@ tags:
 
 :fontawesome-solid-envelope: <shbalboaweekend@gmail.com>  
 :fontawesome-solid-globe: <http://shanghaibalboaweekend.com>  
-:fontawesome-brands-youtube: [shanghaibalboaweekend](https://youtube.com/shanghaibalboaweekend)  
+
+---
+
+ [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/shanghaibalboaweekend)
 
 ---
 
