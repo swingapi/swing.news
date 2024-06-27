@@ -6,6 +6,13 @@ status: timeline
 
 ## 2024
 
+## 11
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 11-01 ~ 03 | [Beijing](by_city.md#beijing) | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-)
+
 ## 10
 
 | Date | City | Event | |

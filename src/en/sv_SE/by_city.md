@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=lulea></a>[Lulea](#lulea)
+## <a id=lulea></a>[Lulea](#lulea) { #lulea }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ status: city
 
 ---
 
-## <a id=stockholm></a>[Stockholm](#stockholm)
+## <a id=stockholm></a>[Stockholm](#stockholm) { #stockholm }
 
 | Date | Event | |
 | --- | --- | --- |

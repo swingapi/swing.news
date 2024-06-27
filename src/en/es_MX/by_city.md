@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=cancun></a>[Cancun](#cancun)
+## <a id=cancun></a>[Cancun](#cancun) { #cancun }
 
 | Date | Event | |
 | --- | --- | --- |

@@ -6,10 +6,11 @@ status: city
 
 ---
 
-## <a id=beijing></a>[北京](#beijing)
+## <a id=beijing></a>[北京](#beijing) { #beijing }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
 | 2024-09-06 ~ 08 | [Beijing Blues Bush](beijing-blues-bush-2024.md) |  |
 | 2024-07-19 ~ 21 | [Jazz Do It](jazz-do-it-2024.md) | 北京林迪舞交流节 |
 | 2024-07-03 ~ 08 | [Bal In Beijing](bal-in-beijing-2024.md) |  |
@@ -23,7 +24,7 @@ status: city
 
 ---
 
-## <a id=chongqing></a>[重庆](#chongqing)
+## <a id=chongqing></a>[重庆](#chongqing) { #chongqing }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -32,16 +33,16 @@ status: city
 
 ---
 
-## <a id=fujian></a>[福建](#fujian)
+## <a id=fujian></a>[福建](#fujian) { #fujian }
 
-### <a id=fuzhou></a>福州
+### <a id=fuzhou></a>福州 { #fuzhou }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-05-17 ~ 22 | [Awozi & Lis Fuzhou Workshop](awozi-n-lis-fuzhou-workshop-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Fujian&city=Fuzhou&org_id=&date_starts=2024-&date_ends=2024-)
 
-### <a id=xiamen></a>厦门
+### <a id=xiamen></a>厦门 { #xiamen }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -52,9 +53,9 @@ status: city
 
 ---
 
-## <a id=guangdong></a>[广东](#guangdong)
+## <a id=guangdong></a>[广东](#guangdong) { #guangdong }
 
-### <a id=shenzhen></a>深圳
+### <a id=shenzhen></a>深圳 { #shenzhen }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -63,9 +64,9 @@ status: city
 
 ---
 
-## <a id=hunan></a>[湖南](#hunan)
+## <a id=hunan></a>[湖南](#hunan) { #hunan }
 
-### <a id=changsha></a>长沙
+### <a id=changsha></a>长沙 { #changsha }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -74,9 +75,9 @@ status: city
 
 ---
 
-## <a id=jiangsu></a>[江苏](#jiangsu)
+## <a id=jiangsu></a>[江苏](#jiangsu) { #jiangsu }
 
-### <a id=nanjing></a>南京
+### <a id=nanjing></a>南京 { #nanjing }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -85,7 +86,7 @@ status: city
 
 ---
 
-## <a id=shanghai></a>[上海](#shanghai)
+## <a id=shanghai></a>[上海](#shanghai) { #shanghai }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -101,9 +102,9 @@ status: city
 
 ---
 
-## <a id=sichuan></a>[四川](#sichuan)
+## <a id=sichuan></a>[四川](#sichuan) { #sichuan }
 
-### <a id=chengdu></a>成都
+### <a id=chengdu></a>成都 { #chengdu }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -112,9 +113,9 @@ status: city
 
 ---
 
-## <a id=yunnan></a>[云南](#yunnan)
+## <a id=yunnan></a>[云南](#yunnan) { #yunnan }
 
-### <a id=dali></a>大理
+### <a id=dali></a>大理 { #dali }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -123,9 +124,9 @@ status: city
 
 ---
 
-## <a id=zhejiang></a>[浙江](#zhejiang)
+## <a id=zhejiang></a>[浙江](#zhejiang) { #zhejiang }
 
-### <a id=hangzhou></a>杭州
+### <a id=hangzhou></a>杭州 { #hangzhou }
 
 | 日期 | 活动 | |
 | --- | --- | --- |

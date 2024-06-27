@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=krakow></a>[克拉科夫](#krakow)
+## <a id=krakow></a>[克拉科夫](#krakow) { #krakow }
 
 | 日期 | 活动 | |
 | --- | --- | --- |

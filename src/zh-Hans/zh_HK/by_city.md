@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=hk></a>[HK](#hk)
+## <a id=hk></a>[HK](#hk) { #hk }
 
 | 日期 | 活动 | |
 | --- | --- | --- |

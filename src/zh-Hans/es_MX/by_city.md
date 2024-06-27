@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=cancun></a>[坎昆](#cancun)
+## <a id=cancun></a>[坎昆](#cancun) { #cancun }
 
 | 日期 | 活动 | |
 | --- | --- | --- |

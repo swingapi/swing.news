@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=istanbul></a>[Istanbul](#istanbul)
+## <a id=istanbul></a>[Istanbul](#istanbul) { #istanbul }
 
 | Date | Event | |
 | --- | --- | --- |

@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=lulea></a>[吕勒奥](#lulea)
+## <a id=lulea></a>[吕勒奥](#lulea) { #lulea }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ status: city
 
 ---
 
-## <a id=stockholm></a>[斯德哥尔摩](#stockholm)
+## <a id=stockholm></a>[斯德哥尔摩](#stockholm) { #stockholm }
 
 | 日期 | 活动 | |
 | --- | --- | --- |

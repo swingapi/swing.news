@@ -6,7 +6,16 @@ status: city
 
 ---
 
-## <a id=sapporo></a>[Sapporo](#sapporo)
+## <a id=osaka></a>[Osaka](#osaka) { #osaka }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-10-11 ~ 13 | [Osaka Lindy Exchange](osaka-lindy-exchange-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20%3CName%3E&region=ja_JP&province=Osaka&city=Osaka&org_id=&date_starts=2024-&date_ends=2024-)
+
+---
+
+## <a id=sapporo></a>[Sapporo](#sapporo) { #sapporo }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -15,7 +24,7 @@ status: city
 
 ---
 
-## <a id=tokyo></a>[Tokyo](#tokyo)
+## <a id=tokyo></a>[Tokyo](#tokyo) { #tokyo }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -34,7 +43,7 @@ status: city
 
 ---
 
-## <a id=yokohama></a>[Yokohama](#yokohama)
+## <a id=yokohama></a>[Yokohama](#yokohama) { #yokohama }
 
 | Date | Event | |
 | --- | --- | --- |

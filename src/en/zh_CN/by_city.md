@@ -6,10 +6,11 @@ status: city
 
 ---
 
-## <a id=beijing></a>[Beijing](#beijing)
+## <a id=beijing></a>[Beijing](#beijing) { #beijing }
 
 | Date | Event | |
 | --- | --- | --- |
+| 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
 | 2024-09-06 ~ 08 | [Beijing Blues Bush](beijing-blues-bush-2024.md) |  |
 | 2024-07-19 ~ 21 | [Jazz Do It](jazz-do-it-2024.md) | 北京林迪舞交流节 |
 | 2024-07-03 ~ 08 | [Bal In Beijing](bal-in-beijing-2024.md) |  |
@@ -23,7 +24,7 @@ status: city
 
 ---
 
-## <a id=chongqing></a>[Chongqing](#chongqing)
+## <a id=chongqing></a>[Chongqing](#chongqing) { #chongqing }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -32,16 +33,16 @@ status: city
 
 ---
 
-## <a id=fujian></a>[Fujian](#fujian)
+## <a id=fujian></a>[Fujian](#fujian) { #fujian }
 
-### <a id=fuzhou></a>Fuzhou
+### <a id=fuzhou></a>Fuzhou { #fuzhou }
 
 | Date | Event | |
 | --- | --- | --- |
 | 2024-05-17 ~ 22 | [Awozi & Lis Fuzhou Workshop](awozi-n-lis-fuzhou-workshop-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Fujian&city=Fuzhou&org_id=&date_starts=2024-&date_ends=2024-)
 
-### <a id=xiamen></a>Xiamen
+### <a id=xiamen></a>Xiamen { #xiamen }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -52,9 +53,9 @@ status: city
 
 ---
 
-## <a id=guangdong></a>[Guangdong](#guangdong)
+## <a id=guangdong></a>[Guangdong](#guangdong) { #guangdong }
 
-### <a id=shenzhen></a>Shenzhen
+### <a id=shenzhen></a>Shenzhen { #shenzhen }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -63,9 +64,9 @@ status: city
 
 ---
 
-## <a id=hunan></a>[Hunan](#hunan)
+## <a id=hunan></a>[Hunan](#hunan) { #hunan }
 
-### <a id=changsha></a>Changsha
+### <a id=changsha></a>Changsha { #changsha }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -74,9 +75,9 @@ status: city
 
 ---
 
-## <a id=jiangsu></a>[Jiangsu](#jiangsu)
+## <a id=jiangsu></a>[Jiangsu](#jiangsu) { #jiangsu }
 
-### <a id=nanjing></a>Nanjing
+### <a id=nanjing></a>Nanjing { #nanjing }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -85,7 +86,7 @@ status: city
 
 ---
 
-## <a id=shanghai></a>[Shanghai](#shanghai)
+## <a id=shanghai></a>[Shanghai](#shanghai) { #shanghai }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -101,9 +102,9 @@ status: city
 
 ---
 
-## <a id=sichuan></a>[Sichuan](#sichuan)
+## <a id=sichuan></a>[Sichuan](#sichuan) { #sichuan }
 
-### <a id=chengdu></a>Chengdu
+### <a id=chengdu></a>Chengdu { #chengdu }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -112,9 +113,9 @@ status: city
 
 ---
 
-## <a id=yunnan></a>[Yunnan](#yunnan)
+## <a id=yunnan></a>[Yunnan](#yunnan) { #yunnan }
 
-### <a id=dali></a>Dali
+### <a id=dali></a>Dali { #dali }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -123,9 +124,9 @@ status: city
 
 ---
 
-## <a id=zhejiang></a>[Zhejiang](#zhejiang)
+## <a id=zhejiang></a>[Zhejiang](#zhejiang) { #zhejiang }
 
-### <a id=hangzhou></a>Hangzhou
+### <a id=hangzhou></a>Hangzhou { #hangzhou }
 
 | Date | Event | |
 | --- | --- | --- |

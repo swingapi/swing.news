@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=bangkok></a>[曼谷](#bangkok)
+## <a id=bangkok></a>[曼谷](#bangkok) { #bangkok }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
@@ -15,9 +15,9 @@ status: city
 
 ---
 
-## <a id=prachuap-khiri-khan></a>[巴蜀府](#prachuap-khiri-khan)
+## <a id=prachuap-khiri-khan></a>[巴蜀府](#prachuap-khiri-khan) { #prachuap-khiri-khan }
 
-### <a id=hua-hin></a>华欣
+### <a id=hua-hin></a>华欣 { #hua-hin }
 
 | 日期 | 活动 | |
 | --- | --- | --- |

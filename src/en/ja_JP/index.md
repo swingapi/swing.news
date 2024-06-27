@@ -18,6 +18,7 @@ status: timeline
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 10-26 ~ 26 | [Tokyo](by_city.md#tokyo) | [Swing OWL Halloween](swing-owl-halloween-2024.md) |  |
+| 10-11 ~ 13 | [Osaka](by_city.md#osaka) | [Osaka Lindy Exchange](osaka-lindy-exchange-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-)
 
 ## 09

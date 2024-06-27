@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=bangkok></a>[Bangkok](#bangkok)
+## <a id=bangkok></a>[Bangkok](#bangkok) { #bangkok }
 
 | Date | Event | |
 | --- | --- | --- |
@@ -15,9 +15,9 @@ status: city
 
 ---
 
-## <a id=prachuap-khiri-khan></a>[Prachuap Khiri Khan](#prachuap-khiri-khan)
+## <a id=prachuap-khiri-khan></a>[Prachuap Khiri Khan](#prachuap-khiri-khan) { #prachuap-khiri-khan }
 
-### <a id=hua-hin></a>Hua Hin
+### <a id=hua-hin></a>Hua Hin { #hua-hin }
 
 | Date | Event | |
 | --- | --- | --- |

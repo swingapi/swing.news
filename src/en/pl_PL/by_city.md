@@ -6,7 +6,7 @@ status: city
 
 ---
 
-## <a id=krakow></a>[Krakow](#krakow)
+## <a id=krakow></a>[Krakow](#krakow) { #krakow }
 
 | Date | Event | |
 | --- | --- | --- |
