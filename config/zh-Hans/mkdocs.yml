@@ -143,6 +143,15 @@ nav:
         - 存档:
           - zh_TW/2024.md
     - 欧洲:
+      - cs_CZ • 捷克:
+        - 时间线: cs_CZ/index.md
+        - 按城市划分: cs_CZ/by_city.md
+        - 主办城市: cs_CZ/host_cities.md
+        - 已收录活动:
+          - cs_CZ/slow-bal-love-2024.md
+          - cs_CZ/bal-love-2024.md
+        - 存档:
+          - cs_CZ/2024.md
       - pl_PL • 波兰:
         - 时间线: pl_PL/index.md
         - 按城市划分: pl_PL/by_city.md

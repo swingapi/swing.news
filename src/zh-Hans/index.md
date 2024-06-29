@@ -43,6 +43,7 @@ status: timeline
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 | 10-26 ~ 26 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL Halloween](ja_JP/swing-owl-halloween-2024.md) |  |
+| 10-13 ~ 20 | [捷克](cs_CZ/index.md) | [布拉格](cs_CZ/by_city.md#prague) | [Slow Bal Love](cs_CZ/slow-bal-love-2024.md) |  |
 | 10-11 ~ 13 | [日本](ja_JP/index.md) | [大阪](ja_JP/by_city.md#osaka) | [Osaka Lindy Exchange](ja_JP/osaka-lindy-exchange-2024.md) |  |
 | 10-03 ~ 06 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Balboa Weekend](zh_CN/shanghai-balboa-weekend-2024.md) |  |
 
@@ -62,6 +63,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 08-30 ~ 09-01 | [中国](zh_CN/index.md) | [浙江](zh_CN/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](zh_CN/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
 | 08-12 ~ 12 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing Jack!](ja_JP/swing-jack-2024.md) |  |
+| 08-04 ~ 17 | [捷克](cs_CZ/index.md) | [布拉格](cs_CZ/by_city.md#prague) | [Bal Love](cs_CZ/bal-love-2024.md) |  |
 | 08-02 ~ 04 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Swing Feast](zh_CN/swing-feast-2024.md) | 摇摆盛宴 |
 
 ## 07

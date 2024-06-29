@@ -23,5 +23,6 @@
 
 | 地区编码 | 地区名称 |
 | --- | --- |
+| cs_CZ | [捷克](cs_CZ/index.md) | 
 | pl_PL | [波兰](pl_PL/index.md) | 
 | sv_SE | [瑞典](sv_SE/index.md) | 

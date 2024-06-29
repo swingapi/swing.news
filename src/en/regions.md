@@ -23,5 +23,6 @@
 
 | Region Code | Region Name |
 | --- | --- |
+| cs_CZ | [Czechia](cs_CZ/index.md) | 
 | pl_PL | [Poland](pl_PL/index.md) | 
 | sv_SE | [Sweden](sv_SE/index.md) | 

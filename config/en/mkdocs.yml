@@ -143,6 +143,15 @@ nav:
         - Archives:
           - zh_TW/2024.md
     - Europe:
+      - cs_CZ • Czechia:
+        - Timeline: cs_CZ/index.md
+        - Events by City: cs_CZ/by_city.md
+        - Host Cities: cs_CZ/host_cities.md
+        - Collected Events:
+          - cs_CZ/slow-bal-love-2024.md
+          - cs_CZ/bal-love-2024.md
+        - Archives:
+          - cs_CZ/2024.md
       - pl_PL • Poland:
         - Timeline: pl_PL/index.md
         - Events by City: pl_PL/by_city.md
