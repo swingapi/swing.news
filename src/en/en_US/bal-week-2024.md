@@ -9,7 +9,6 @@ tags:
 :fontawesome-solid-calendar-days: 2024-04-01 ~ 2024-04-07  
 :fontawesome-solid-location-dot: New York  
 
-
 ## Contact
 
 :fontawesome-solid-envelope: <balweekny@gmail.com>  

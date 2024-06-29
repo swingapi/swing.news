@@ -7,8 +7,10 @@ subtitle: HRH 2025
 
 :fontawesome-solid-calendar-days: 2025-02-14 ~ 2025-02-16  
 :fontawesome-solid-location-dot: Austin  
-:fontawesome-solid-user-group: [Hot Rhythm Foundation | ""](https://swing.kids/en_US/hot-rhythm-foundation)  
 
+!!! info "Organizer"
+
+    [Hot Rhythm Foundation](https://swing.kids/en_US/hot-rhythm-foundation)  
 
 ## Contact
 

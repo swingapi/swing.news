@@ -7,7 +7,6 @@ title: Champions Cup Korea
 :fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-07-27  
 :fontawesome-solid-location-dot: 首尔  
 
-
 ## 联系
 
 :fontawesome-solid-globe: <https://www.facebook.com/events/935804484856969>  

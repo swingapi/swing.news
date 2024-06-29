@@ -7,7 +7,6 @@ title: Dragon Swing Festival
 :fontawesome-solid-calendar-days: 2024-11-13 ~ 2024-11-17  
 :fontawesome-solid-location-dot: Krakow  
 
-
 ## Contact
 
 :fontawesome-solid-envelope: <info@dragonswing.pl>  

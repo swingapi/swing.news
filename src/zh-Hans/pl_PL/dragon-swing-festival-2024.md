@@ -7,7 +7,6 @@ title: Dragon Swing Festival
 :fontawesome-solid-calendar-days: 2024-11-13 ~ 2024-11-17  
 :fontawesome-solid-location-dot: 克拉科夫  
 
-
 ## 联系
 
 :fontawesome-solid-envelope: <info@dragonswing.pl>  

@@ -8,8 +8,10 @@ tags:
 
 :fontawesome-solid-calendar-days: 2024-06-15 ~ 2024-06-15  
 :fontawesome-solid-location-dot: Tokyo  
-:fontawesome-solid-user-group: [Chillboa | ""](https://swing.kids/ja_JP/chillboa)  
 
+!!! info "Organizer"
+
+    [Chillboa](https://swing.kids/ja_JP/chillboa)  
 
 ## Contact
 

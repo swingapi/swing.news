@@ -10,7 +10,6 @@ tags:
 :fontawesome-solid-calendar-days: 2024-11-15 ~ 2024-11-17  
 :fontawesome-solid-location-dot: Seoul  
 
-
 ## Contact
 
 :fontawesome-solid-envelope: <koreabalboaweekend2008@gmail.com>  

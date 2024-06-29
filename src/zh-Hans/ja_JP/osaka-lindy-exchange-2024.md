@@ -6,8 +6,11 @@ title: Osaka Lindy Exchange
 
 :fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
 :fontawesome-solid-location-dot: 大阪  
-:fontawesome-solid-user-group: [Osaka Swing | 大阪スイング](https://swing.kids/ja_JP/osaka-swing)  
 
+!!! info "组织者"
+
+    [Osaka Swing](https://swing.kids/ja_JP/osaka-swing)  
+    大阪スイング  
 
 ## 联系
 

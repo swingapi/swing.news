@@ -7,7 +7,6 @@ title: Lindy & Balboa Maya Fest
 :fontawesome-solid-calendar-days: 2024-11-07 ~ 2024-11-11  
 :fontawesome-solid-location-dot: Cancun  
 
-
 ## Contact
 
 :fontawesome-solid-envelope: <lindymayafest@gmail.com>  

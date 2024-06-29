@@ -7,7 +7,6 @@ title: Savoy Cup Asia
 :fontawesome-solid-calendar-days: 2024-12-05 ~ 2024-12-08  
 :fontawesome-solid-location-dot: Seoul  
 
-
 ???+ venue "Venue"
 
     36, Janghan-ro 2-gil, Dongdaemun-gu, Seoul  

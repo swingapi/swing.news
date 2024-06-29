@@ -7,7 +7,6 @@ title: Diga Diga Doo
 :fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
 :fontawesome-solid-location-dot: 曼谷  
 
-
 ## 联系
 
 :fontawesome-solid-globe: <https://sites.google.com/view/diga-diga-doo>  

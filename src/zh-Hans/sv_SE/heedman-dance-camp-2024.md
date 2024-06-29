@@ -7,7 +7,6 @@ title: Heedman Dance Camp
 :fontawesome-solid-calendar-days: 2024-07-28 ~ 2024-07-31  
 :fontawesome-solid-location-dot: 吕勒奥  
 
-
 ## 联系
 
 :fontawesome-solid-envelope: <info@heedman.com>  

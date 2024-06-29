@@ -6,8 +6,10 @@ title: Yokohama Cross Street Hop
 
 :fontawesome-solid-calendar-days: 2024-06-29 ~ 2024-06-29  
 :fontawesome-solid-location-dot: Yokohama  
-:fontawesome-solid-user-group: [Swingin Barrelhouse Records | ""](https://swing.kids/ja_JP/swingin-barrelhouse-records)  
 
+!!! info "Organizer"
+
+    [Swingin Barrelhouse Records](https://swing.kids/ja_JP/swingin-barrelhouse-records)  
 
 ## Contact
 

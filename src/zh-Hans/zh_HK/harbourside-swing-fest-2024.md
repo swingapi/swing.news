@@ -6,8 +6,10 @@ title: Harbourside Swing Fest
 
 :fontawesome-solid-calendar-days: 2024-02-02 ~ 2024-02-04  
 :fontawesome-solid-location-dot: HK  
-:fontawesome-solid-user-group: [Rhythm Studio | ""](https://swing.kids/zh_HK/rhythm-studio)  
 
+!!! info "组织者"
+
+    [Rhythm Studio](https://swing.kids/zh_HK/rhythm-studio)  
 
 ???+ venue "场地"
 

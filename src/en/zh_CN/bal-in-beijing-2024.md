@@ -8,12 +8,18 @@ tags:
 
 :fontawesome-solid-calendar-days: 2024-07-03 ~ 2024-07-08  
 :fontawesome-solid-location-dot: Beijing  
-:fontawesome-solid-user-group: [Swing Beijing | 摇摆北京](https://swing.kids/zh_CN/swing-beijing)  
 
+!!! info "Organizer"
+
+    [Swing Beijing](https://swing.kids/zh_CN/swing-beijing)  
+    摇摆北京  
 
 ## Contact
 
-:fontawesome-brands-weixin: https://mp.weixin.qq.com/s/T14Vj1A2fy2GrSXarKYgzw  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/T14Vj1A2fy2GrSXarKYgzw)
 
 ---
 

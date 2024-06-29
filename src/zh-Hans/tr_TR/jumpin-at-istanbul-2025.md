@@ -7,7 +7,6 @@ title: Jumpin' at Istanbul
 :fontawesome-solid-calendar-days: 2025-01-16 ~ 2025-01-19  
 :fontawesome-solid-location-dot: 伊斯坦布尔  
 
-
 ## 联系
 
 

@@ -6,8 +6,10 @@ title: Chocolate Shake
 
 :fontawesome-solid-calendar-days: 2024-06-22 ~ 2024-06-22  
 :fontawesome-solid-location-dot: Tokyo  
-:fontawesome-solid-user-group: [Swing Gigolo | ""](https://swing.kids/ja_JP/swing-gigolo)  
 
+!!! info "Organizer"
+
+    [Swing Gigolo](https://swing.kids/ja_JP/swing-gigolo)  
 
 ## Contact
 

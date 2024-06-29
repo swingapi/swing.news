@@ -7,8 +7,10 @@ subtitle: BBB 2024
 
 :fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
 :fontawesome-solid-location-dot: 北京  
-:fontawesome-solid-user-group: [Blues Beijing | ""](https://swing.kids/zh_CN/blues-beijing)  
 
+!!! info "组织者"
+
+    [Blues Beijing](https://swing.kids/zh_CN/blues-beijing)  
 
 ---
 

@@ -7,8 +7,11 @@ subtitle: WTP 2024
 
 :fontawesome-solid-calendar-days: 2024-11-16 ~ 2024-11-17  
 :fontawesome-solid-location-dot: Taipei  
-:fontawesome-solid-user-group: [Naughty Swing | Naughty Swing 搖擺舞團](https://swing.kids/zh_TW/naughty-swing)  
 
+!!! info "Organizer"
+
+    [Naughty Swing](https://swing.kids/zh_TW/naughty-swing)  
+    Naughty Swing 搖擺舞團  
 
 ???+ venue "Venue"
 

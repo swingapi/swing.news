@@ -6,8 +6,11 @@ title: Awozi & Lis Fuzhou Workshop
 
 :fontawesome-solid-calendar-days: 2024-05-17 ~ 2024-05-22  
 :fontawesome-solid-location-dot: Fuzhou  
-:fontawesome-solid-user-group: [Swing Fuzhou | 榕城摇摆](https://swing.kids/zh_CN/swing-fu-zhou)  
 
+!!! info "Organizer"
+
+    [Swing Fuzhou](https://swing.kids/zh_CN/swing-fu-zhou)  
+    榕城摇摆  
 
 ---
 

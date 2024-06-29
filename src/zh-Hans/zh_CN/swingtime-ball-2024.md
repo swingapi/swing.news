@@ -9,8 +9,11 @@ description: 摇擺盛典 - 2024
 摇擺盛典  
 :fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
 :fontawesome-solid-location-dot: 北京  
-:fontawesome-solid-user-group: [Cat's Corner Studio | 猫角工作室](https://swing.kids/zh_CN/cats-corner-studio)  
 
+!!! info "组织者"
+
+    [Cat's Corner Studio](https://swing.kids/zh_CN/cats-corner-studio)  
+    猫角工作室  
 
 ???+ venue "场地"
 

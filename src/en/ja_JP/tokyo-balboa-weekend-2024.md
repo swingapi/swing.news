@@ -8,8 +8,10 @@ tags:
 
 :fontawesome-solid-calendar-days: 2024-12-08 ~ 2024-12-10  
 :fontawesome-solid-location-dot: Tokyo  
-:fontawesome-solid-user-group: [Swing Gigolo | ""](https://swing.kids/ja_JP/swing-gigolo)  
 
+!!! info "Organizer"
+
+    [Swing Gigolo](https://swing.kids/ja_JP/swing-gigolo)  
 
 ## Contact
 

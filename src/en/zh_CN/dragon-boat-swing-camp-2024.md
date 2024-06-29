@@ -8,8 +8,11 @@ description: 龙舟摇摆训练营 - 2024
 龙舟摇摆训练营  
 :fontawesome-solid-calendar-days: 2024-06-08 ~ 2024-06-10  
 :fontawesome-solid-location-dot: Beijing  
-:fontawesome-solid-user-group: [Cat's Corner Studio | 猫角工作室](https://swing.kids/zh_CN/cats-corner-studio)  
 
+!!! info "Organizer"
+
+    [Cat's Corner Studio](https://swing.kids/zh_CN/cats-corner-studio)  
+    猫角工作室  
 
 ---
 

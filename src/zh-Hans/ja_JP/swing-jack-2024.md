@@ -6,8 +6,10 @@ title: Swing Jack!
 
 :fontawesome-solid-calendar-days: 2024-08-12 ~ 2024-08-12  
 :fontawesome-solid-location-dot: 东京  
-:fontawesome-solid-user-group: [Swing Gigolo | ""](https://swing.kids/ja_JP/swing-gigolo)  
 
+!!! info "组织者"
+
+    [Swing Gigolo](https://swing.kids/ja_JP/swing-gigolo)  
 
 ## 联系
 

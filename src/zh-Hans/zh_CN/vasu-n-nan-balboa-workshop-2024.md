@@ -8,8 +8,11 @@ description: 端午工作坊 - 2024
 端午工作坊  
 :fontawesome-solid-calendar-days: 2024-06-08 ~ 2024-06-09  
 :fontawesome-solid-location-dot: 北京  
-:fontawesome-solid-user-group: [Swing Land | 摇摆乐园](https://swing.kids/zh_CN/swing-land)  
 
+!!! info "组织者"
+
+    [Swing Land](https://swing.kids/zh_CN/swing-land)  
+    摇摆乐园  
 
 ---
 

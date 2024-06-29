@@ -6,8 +6,10 @@ title: Swing OWL
 
 :fontawesome-solid-calendar-days: 2024-06-23 ~ 2024-06-23  
 :fontawesome-solid-location-dot: 东京  
-:fontawesome-solid-user-group: [Dancing Bus | ""](https://swing.kids/ja_JP/dancing-bus)  
 
+!!! info "组织者"
+
+    [Dancing Bus](https://swing.kids/ja_JP/dancing-bus)  
 
 ## 联系
 

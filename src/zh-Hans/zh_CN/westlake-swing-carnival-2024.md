@@ -9,12 +9,18 @@ description: 西湖摇摆嘉年华 - 2024
 西湖摇摆嘉年华  
 :fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-01  
 :fontawesome-solid-location-dot: 杭州  
-:fontawesome-solid-user-group: [Seriously! Swing Studio | SSS认真摇摆工作室](https://swing.kids/zh_CN/seriously-swing-studio)  
 
+!!! info "组织者"
+
+    [Seriously! Swing Studio](https://swing.kids/zh_CN/seriously-swing-studio)  
+    SSS认真摇摆工作室  
 
 ## 联系
 
-:fontawesome-brands-weixin: https://mp.weixin.qq.com/s/LGEJMf9IcckWGncdhohFiw  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/LGEJMf9IcckWGncdhohFiw)
 
 ---
 

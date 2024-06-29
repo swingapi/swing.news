@@ -11,8 +11,11 @@ tags:
 北京巴尔博亚之旅  
 :fontawesome-solid-calendar-days: 2024-01-05 ~ 2024-01-07  
 :fontawesome-solid-location-dot: Beijing  
-:fontawesome-solid-user-group: [Swing Travels | 摇摆之旅](https://swing.kids/zh_CN/swing-travels)  
 
+!!! info "Organizer"
+
+    [Swing Travels](https://swing.kids/zh_CN/swing-travels)  
+    摇摆之旅  
 
 ---
 

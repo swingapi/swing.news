@@ -9,7 +9,6 @@ tags:
 :fontawesome-solid-calendar-days: 2024-07-12 ~ 2024-07-14  
 :fontawesome-solid-location-dot: Tokyo  
 
-
 ## Contact
 
 :fontawesome-solid-envelope: <balintokyo@gmail.com>  

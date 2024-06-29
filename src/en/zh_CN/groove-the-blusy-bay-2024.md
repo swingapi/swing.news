@@ -11,8 +11,10 @@ tags:
 湾区布鲁斯节  
 :fontawesome-solid-calendar-days: 2024-03-15 ~ 2024-03-17  
 :fontawesome-solid-location-dot: Shenzhen  
-:fontawesome-solid-user-group: [Groove Blues Swing | ""](https://swing.kids/zh_CN/groove-blues-swing)  
 
+!!! info "Organizer"
+
+    [Groove Blues Swing](https://swing.kids/zh_CN/groove-blues-swing)  
 
 ---
 

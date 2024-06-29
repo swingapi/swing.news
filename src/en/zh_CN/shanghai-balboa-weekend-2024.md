@@ -9,8 +9,11 @@ tags:
 
 :fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
 :fontawesome-solid-location-dot: Shanghai  
-:fontawesome-solid-user-group: [Tabby The Cat | Tabby The Cat 摇摆舞工作室](https://swing.kids/zh_CN/tabby-the-cat)  
 
+!!! info "Organizer"
+
+    [Tabby The Cat](https://swing.kids/zh_CN/tabby-the-cat)  
+    Tabby The Cat 摇摆舞工作室  
 
 ???+ venue "Venue"
 

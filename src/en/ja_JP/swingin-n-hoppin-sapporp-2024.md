@@ -6,8 +6,10 @@ title: Swingin' & Hoppin' Sapporp
 
 :fontawesome-solid-calendar-days: 2024-06-29 ~ 2024-06-30  
 :fontawesome-solid-location-dot: Sapporo  
-:fontawesome-solid-user-group: [Sapporo Swing Dance | ""](https://swing.kids/ja_JP/sapporo-swing-dance)  
 
+!!! info "Organizer"
+
+    [Sapporo Swing Dance](https://swing.kids/ja_JP/sapporo-swing-dance)  
 
 ## Contact
 

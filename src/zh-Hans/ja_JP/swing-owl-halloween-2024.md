@@ -6,8 +6,10 @@ title: Swing OWL Halloween
 
 :fontawesome-solid-calendar-days: 2024-10-26 ~ 2024-10-26  
 :fontawesome-solid-location-dot: 东京  
-:fontawesome-solid-user-group: [Dancing Bus | ""](https://swing.kids/ja_JP/dancing-bus)  
 
+!!! info "组织者"
+
+    [Dancing Bus](https://swing.kids/ja_JP/dancing-bus)  
 
 ## 联系
 

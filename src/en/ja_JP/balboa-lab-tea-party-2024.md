@@ -8,8 +8,10 @@ tags:
 
 :fontawesome-solid-calendar-days: 2024-06-16 ~ 2024-06-16  
 :fontawesome-solid-location-dot: Tokyo  
-:fontawesome-solid-user-group: [Kawasaki Swing | ""](https://swing.kids/ja_JP/kawasaki-swing)  
 
+!!! info "Organizer"
+
+    [Kawasaki Swing](https://swing.kids/ja_JP/kawasaki-swing)  
 
 ## Contact
 

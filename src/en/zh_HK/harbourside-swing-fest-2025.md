@@ -6,8 +6,10 @@ title: Harbourside Swing Fest
 
 :fontawesome-solid-calendar-days: 2025-01-10 ~ 2025-01-12  
 :fontawesome-solid-location-dot: HK  
-:fontawesome-solid-user-group: [Rhythm Studio | ""](https://swing.kids/zh_HK/rhythm-studio)  
 
+!!! info "Organizer"
+
+    [Rhythm Studio](https://swing.kids/zh_HK/rhythm-studio)  
 
 ## Contact
 

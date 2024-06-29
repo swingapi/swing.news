@@ -8,8 +8,11 @@ description: 摇摆盛宴 - 2024
 摇摆盛宴  
 :fontawesome-solid-calendar-days: 2024-08-02 ~ 2024-08-04  
 :fontawesome-solid-location-dot: 上海  
-:fontawesome-solid-user-group: [Downtown Swing | Downtown Swing 上海摇摆](https://swing.kids/zh_CN/downtown-swing)  
 
+!!! info "组织者"
+
+    [Downtown Swing](https://swing.kids/zh_CN/downtown-swing)  
+    Downtown Swing 上海摇摆  
 
 ---
 
