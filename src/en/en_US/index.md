@@ -17,6 +17,13 @@ status: timeline
 
 ## 2024
 
+## 09
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 09-27 ~ 29 | [Illinois](by_city.md#illinois) • Chicago | [Breat Lakes Balboa Escape](breat-lakes-balboa-escape-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fen_US%20%E2%80%A2%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
+
 ## 04
 
 | Date | City | Event | |

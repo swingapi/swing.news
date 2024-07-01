@@ -25,6 +25,7 @@ status: timeline
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 12-26 ~ 31 | [Sweden](sv_SE/index.md) | [Stockholm](sv_SE/by_city.md#stockholm) | [The Snowball](sv_SE/the-snowball-2024.md) |  |
 | 12-08 ~ 10 | [Japan](ja_JP/index.md) | [Tokyo](ja_JP/by_city.md#tokyo) | [Tokyo Balboa Weekend](ja_JP/tokyo-balboa-weekend-2024.md) |  |
 | 12-05 ~ 08 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/by_city.md#seoul) | [Savoy Cup Asia](ko_KR/savoy-cup-asia-2024.md) |  |
 
@@ -53,6 +54,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 09-27 ~ 29 | [Hong Kong](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Vasu & Xinru Balboa Weekend](zh_HK/vasu-n-xinru-balboa-weekend-2024.md) |  |
 | 09-27 ~ 29 | [Thailand](th_TH/index.md) | [Bangkok](th_TH/by_city.md#bangkok) | [Diga Diga Doo](th_TH/diga-diga-doo-2024.md) |  |
+| 09-27 ~ 29 | [America](en_US/index.md) | [Illinois](en_US/by_city.md#illinois) • Chicago | [Breat Lakes Balboa Escape](en_US/breat-lakes-balboa-escape-2024.md) |  |
 | 09-15 ~ 17 | [China](zh_CN/index.md) | [Shanghai](zh_CN/by_city.md#shanghai) | [Women's Jazzination](zh_CN/womens-jazzination-2024.md) | 爵了姐妹 |
 | 09-08 ~ 08 | [Japan](ja_JP/index.md) | [Tokyo](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-08-2024.md) |  |
 | 09-06 ~ 08 | [China](zh_CN/index.md) | [Beijing](zh_CN/by_city.md#beijing) | [Beijing Blues Bush](zh_CN/beijing-blues-bush-2024.md) |  |
@@ -62,6 +64,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 08-30 ~ 09-01 | [China](zh_CN/index.md) | [Zhejiang](zh_CN/by_city.md#zhejiang) • Hangzhou | [Westlake Swing Carnival](zh_CN/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
+| 08-14 ~ 18 | [China](zh_CN/index.md) | [Shanghai](zh_CN/by_city.md#shanghai) | [Blues Heat](zh_CN/blues-heat-2024.md) | 热能蓝调文化节 |
 | 08-12 ~ 12 | [Japan](ja_JP/index.md) | [Tokyo](ja_JP/by_city.md#tokyo) | [Swing Jack!](ja_JP/swing-jack-2024.md) |  |
 | 08-04 ~ 17 | [Czechia](cs_CZ/index.md) | [Prague](cs_CZ/by_city.md#prague) | [Bal Love](cs_CZ/bal-love-2024.md) |  |
 | 08-02 ~ 04 | [China](zh_CN/index.md) | [Shanghai](zh_CN/by_city.md#shanghai) | [Swing Feast](zh_CN/swing-feast-2024.md) | 摇摆盛宴 |

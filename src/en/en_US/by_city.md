@@ -6,6 +6,17 @@ status: city
 
 ---
 
+## <a id=illinois></a>[Illinois](#illinois) { #illinois }
+
+### <a id=chicago></a>Chicago { #chicago }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-09-27 ~ 29 | [Breat Lakes Balboa Escape](breat-lakes-balboa-escape-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fen_US%20%E2%80%A2%20%3CName%3E&region=en_US&province=Illinois&city=Chicago&org_id=&date_starts=2024-&date_ends=2024-)
+
+---
+
 ## <a id=new-york></a>[New York](#new-york) { #new-york }
 
 | Date | Event | |

@@ -92,6 +92,7 @@ status: city
 | --- | --- | --- |
 | 2024-10-03 ~ 06 | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2024.md) |  |
 | 2024-09-15 ~ 17 | [Women's Jazzination](womens-jazzination-2024.md) | 爵了姐妹 |
+| 2024-08-14 ~ 18 | [Blues Heat](blues-heat-2024.md) | 热能蓝调文化节 |
 | 2024-08-02 ~ 04 | [Swing Feast](swing-feast-2024.md) | 摇摆盛宴 |
 | 2024-06-28 ~ 30 | [Balboa Festival](balboa-festival-2024.md) |  |
 | 2024-06-14 ~ 16 | [Jump for Joy](jump-for-joy-2024.md) |  |
