@@ -18,8 +18,8 @@ nav:
     - Timeline: index.md
     - Tags: tags.md
     - Archives:
-      - 2025: 2025.md
-      - 2024: 2024.md
+      - '2025': 2025.md
+      - '2024': 2024.md
   - Regions:
     - All: regions.md
     - America:
