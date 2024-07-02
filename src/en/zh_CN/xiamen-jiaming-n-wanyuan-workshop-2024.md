@@ -1,6 +1,6 @@
 ---
 title: Jiaming & Wanyuan Workshop
-description: 佳铭&婉圆「摇摆之旅」 - 2024
+description: 2024-03-01 ~ 2024-03-03
 ---
 
 # Jiaming & Wanyuan Workshop 

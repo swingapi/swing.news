@@ -1,5 +1,6 @@
 ---
 title: Awozi & Lis Fuzhou Workshop
+description: 2024-05-17 ~ 2024-05-22
 ---
 
 # Awozi & Lis Fuzhou Workshop 

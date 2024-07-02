@@ -1,6 +1,7 @@
 ---
 title: Herräng Dance Camp
 subtitle: HDC 2024
+description: 2024-07-06 ~ 2024-07-26
 ---
 
 # Herräng Dance Camp 

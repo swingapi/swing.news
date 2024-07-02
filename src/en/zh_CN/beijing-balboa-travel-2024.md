@@ -1,7 +1,7 @@
 ---
 title: Beijing Balboa Travel
 subtitle: BBT 2024
-description: 北京巴尔博亚之旅 - 2024
+description: 2024-01-05 ~ 2024-01-07
 tags:
   - Balboa
 ---

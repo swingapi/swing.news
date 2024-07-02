@@ -1,6 +1,7 @@
 ---
 title: Beijing Blues Bush
 subtitle: BBB 2024
+description: 2024-09-06 ~ 2024-09-08
 ---
 
 # Beijing Blues Bush 

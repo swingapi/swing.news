@@ -1,6 +1,6 @@
 ---
 title: Bouncy Chengdu
-description: 妖艳儿摇摆节 - 2024
+description: 2024-04-19 ~ 2024-04-21
 ---
 
 # Bouncy Chengdu 

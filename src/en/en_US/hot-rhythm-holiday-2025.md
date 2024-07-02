@@ -1,6 +1,7 @@
 ---
 title: Hot Rhythm Holiday
 subtitle: HRH 2025
+description: 2025-02-14 ~ 2025-02-16
 ---
 
 # Hot Rhythm Holiday 

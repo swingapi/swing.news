@@ -1,6 +1,7 @@
 ---
 title: Shanghai Balboa Weekend
 subtitle: SBW 2024
+description: 2024-10-03 ~ 2024-10-06
 tags:
   - Balboa
 ---

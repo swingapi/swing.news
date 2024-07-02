@@ -1,5 +1,6 @@
 ---
 title: Slow Bal Love
+description: 2024-10-13 ~ 2024-10-20
 tags:
   - Balboa
 ---

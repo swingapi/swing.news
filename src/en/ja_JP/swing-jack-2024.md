@@ -1,5 +1,6 @@
 ---
 title: Swing Jack!
+description: 2024-08-12
 ---
 
 # Swing Jack! 

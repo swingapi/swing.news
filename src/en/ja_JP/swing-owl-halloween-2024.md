@@ -1,5 +1,6 @@
 ---
 title: Swing OWL Halloween
+description: 2024-10-26
 ---
 
 # Swing OWL Halloween 

@@ -1,5 +1,6 @@
 ---
 title: Yokohama Cross Street Hop
+description: 2024-06-29
 ---
 
 # Yokohama Cross Street Hop 

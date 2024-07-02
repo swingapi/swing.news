@@ -1,5 +1,6 @@
 ---
 title: Bal In Tokyo
+description: 2024-07-12 ~ 2024-07-14
 tags:
   - Balboa
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jazz Do It
-description: 北京林迪舞交流节 - 2024
+description: 2024-07-19 ~ 2024-07-21
 ---
 
 # Jazz Do It 

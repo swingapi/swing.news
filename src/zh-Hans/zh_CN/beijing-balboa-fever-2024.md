@@ -1,6 +1,6 @@
 ---
 title: Beijing Balboa Fever
-description: 北京巴尔博亚热旋风 - 2024
+description: 2024-05-17 ~ 2024-05-19
 tags:
   - Balboa
 ---

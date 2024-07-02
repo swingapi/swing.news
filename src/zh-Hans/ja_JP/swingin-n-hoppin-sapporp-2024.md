@@ -1,5 +1,6 @@
 ---
 title: Swingin' & Hoppin' Sapporp
+description: 2024-06-29 ~ 2024-06-30
 ---
 
 # Swingin' & Hoppin' Sapporp 

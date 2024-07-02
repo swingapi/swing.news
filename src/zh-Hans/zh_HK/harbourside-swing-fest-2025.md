@@ -1,5 +1,6 @@
 ---
 title: Harbourside Swing Fest
+description: 2025-01-10 ~ 2025-01-12
 ---
 
 # Harbourside Swing Fest 

@@ -1,5 +1,6 @@
 ---
 title: Chill Balboa Social
+description: 2024-06-15
 tags:
   - Balboa
 ---

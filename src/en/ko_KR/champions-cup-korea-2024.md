@@ -1,5 +1,6 @@
 ---
 title: Champions Cup Korea
+description: 2024-07-27
 ---
 
 # Champions Cup Korea 

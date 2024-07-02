@@ -1,6 +1,6 @@
 ---
 title: Blues Heat
-description: 热能蓝调文化节 - 2024
+description: 2024-08-14 ~ 2024-08-18
 tags:
   - Blues
 ---

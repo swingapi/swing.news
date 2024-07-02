@@ -1,7 +1,7 @@
 ---
 title: Women's Jazzination
 subtitle: WJN 2024
-description: 爵了姐妹 - 2024
+description: 2024-09-15 ~ 2024-09-17
 ---
 
 # Women's Jazzination ^1^

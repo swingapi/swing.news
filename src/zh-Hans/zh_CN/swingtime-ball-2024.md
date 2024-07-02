@@ -1,7 +1,7 @@
 ---
 title: Swingtime Ball
 subtitle: STB 2024
-description: 摇擺盛典 - 2024
+description: 2024-11-01 ~ 2024-11-03
 ---
 
 # Swingtime Ball 
