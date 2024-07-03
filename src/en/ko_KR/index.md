@@ -6,9 +6,6 @@ description: "Swing Dance events in South Korea (Timeline)."
 # South Korea
 
 ## 2024
----
-description: "Archive of Swing Dance events in South Korea (2024)."
----
 
 ## 12
 

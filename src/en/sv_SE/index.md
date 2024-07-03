@@ -6,9 +6,6 @@ description: "Swing Dance events in Sweden (Timeline)."
 # Sweden
 
 ## 2024
----
-description: "Archive of Swing Dance events in Sweden (2024)."
----
 
 ## 12
 

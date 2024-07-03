@@ -6,9 +6,6 @@ description: "Swing Dance events in Turkey (Timeline)."
 # Turkey
 
 ## 2025
----
-description: "Archive of Swing Dance events in Turkey (2025)."
----
 
 ## 01
 

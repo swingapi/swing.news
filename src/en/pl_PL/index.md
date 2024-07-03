@@ -6,9 +6,6 @@ description: "Swing Dance events in Poland (Timeline)."
 # Poland
 
 ## 2024
----
-description: "Archive of Swing Dance events in Poland (2024)."
----
 
 ## 11
 

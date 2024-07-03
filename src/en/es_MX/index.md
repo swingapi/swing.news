@@ -6,9 +6,6 @@ description: "Swing Dance events in Mexico (Timeline)."
 # Mexico
 
 ## 2024
----
-description: "Archive of Swing Dance events in Mexico (2024)."
----
 
 ## 11
 

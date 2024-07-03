@@ -6,9 +6,6 @@ description: "Swing Dance events in Hong Kong (Timeline)."
 # Hong Kong
 
 ## 2025
----
-description: "Archive of Swing Dance events in Hong Kong (2025)."
----
 
 ## 01
 
@@ -20,9 +17,6 @@ description: "Archive of Swing Dance events in Hong Kong (2025)."
 ---
 
 ## 2024
----
-description: "Archive of Swing Dance events in Hong Kong (2024)."
----
 
 ## 09
 
