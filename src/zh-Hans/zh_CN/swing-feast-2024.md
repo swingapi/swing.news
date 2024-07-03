@@ -1,6 +1,6 @@
 ---
 title: Swing Feast
-description: 2024-08-02 ~ 2024-08-04
+description: "2024-08-02 ~ 2024-08-04"
 ---
 
 # Swing Feast 

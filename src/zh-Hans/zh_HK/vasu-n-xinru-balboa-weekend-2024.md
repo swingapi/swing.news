@@ -1,6 +1,6 @@
 ---
 title: Vasu & Xinru Balboa Weekend
-description: 2024-09-27 ~ 2024-09-29
+description: "2024-09-27 ~ 2024-09-29"
 tags:
   - Balboa
 ---

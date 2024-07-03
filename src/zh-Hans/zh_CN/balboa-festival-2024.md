@@ -1,7 +1,7 @@
 ---
 title: Balboa Festival
 subtitle: BF 2024
-description: 2024-06-28 ~ 2024-06-30
+description: "2024-06-28 ~ 2024-06-30"
 tags:
   - Balboa
 ---

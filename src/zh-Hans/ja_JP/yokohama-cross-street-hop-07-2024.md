@@ -1,6 +1,6 @@
 ---
 title: Yokohama Cross Street Hop
-description: 2024-07-27
+description: "2024-07-27"
 ---
 
 # Yokohama Cross Street Hop 

@@ -1,6 +1,6 @@
 ---
 title: Swing OWL
-description: 2024-06-23
+description: "2024-06-23"
 ---
 
 # Swing OWL 

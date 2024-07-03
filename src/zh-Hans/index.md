@@ -3,6 +3,9 @@ status: timeline
 ---
 
 ## 2025
+---
+description: "2025年举办的摇摆舞活动存档。"
+---
 
 ## 02
 
@@ -20,6 +23,9 @@ status: timeline
 ---
 
 ## 2024
+---
+description: "2024年举办的摇摆舞活动存档。"
+---
 
 ## 12
 

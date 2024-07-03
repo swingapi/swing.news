@@ -1,6 +1,6 @@
 ---
 title: Chocolate Shake
-description: 2024-06-22
+description: "2024-06-22"
 ---
 
 # Chocolate Shake 

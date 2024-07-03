@@ -1,10 +1,14 @@
 ---
 status: timeline
+description: "Swing Dance events in America (Timeline)."
 ---
 
 # America
 
 ## 2025
+---
+description: "Archive of Swing Dance events in America (2025)."
+---
 
 ## 02
 
@@ -16,6 +20,9 @@ status: timeline
 ---
 
 ## 2024
+---
+description: "Archive of Swing Dance events in America (2024)."
+---
 
 ## 09
 

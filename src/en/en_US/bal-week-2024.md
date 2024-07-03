@@ -1,6 +1,6 @@
 ---
 title: Bal Week
-description: 2024-04-01 ~ 2024-04-07
+description: "2024-04-01 ~ 2024-04-07"
 tags:
   - Balboa
 ---

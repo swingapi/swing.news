@@ -1,6 +1,6 @@
 ---
 title: Bal Love
-description: 2024-08-04 ~ 2024-08-17
+description: "2024-08-04 ~ 2024-08-17"
 tags:
   - Balboa
 ---

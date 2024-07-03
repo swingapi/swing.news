@@ -1,10 +1,14 @@
 ---
 status: timeline
+description: "Swing Dance events in Czechia (Timeline)."
 ---
 
 # Czechia
 
 ## 2024
+---
+description: "Archive of Swing Dance events in Czechia (2024)."
+---
 
 ## 10
 

@@ -1,6 +1,6 @@
 ---
 title: Tokyo Balboa Weekend
-description: 2024-12-08 ~ 2024-12-10
+description: "2024-12-08 ~ 2024-12-10"
 tags:
   - Balboa
 ---

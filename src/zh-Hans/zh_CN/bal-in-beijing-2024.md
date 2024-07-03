@@ -1,6 +1,6 @@
 ---
 title: Bal In Beijing
-description: 2024-07-03 ~ 2024-07-08
+description: "2024-07-03 ~ 2024-07-08"
 tags:
   - Balboa
 ---

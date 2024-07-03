@@ -1,6 +1,6 @@
 ---
 title: Lindy & Balboa Maya Fest
-description: 2024-11-07 ~ 2024-11-11
+description: "2024-11-07 ~ 2024-11-11"
 ---
 
 # Lindy & Balboa Maya Fest 

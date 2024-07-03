@@ -1,7 +1,7 @@
 ---
 title: Korean Balboa Weekend
 subtitle: KBW 2024
-description: 2024-11-15 ~ 2024-11-17
+description: "2024-11-15 ~ 2024-11-17"
 tags:
   - Balboa
 ---

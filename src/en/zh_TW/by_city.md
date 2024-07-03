@@ -1,5 +1,6 @@
 ---
 status: city
+description: "Swing Dance events in Taiwan (Grouped by City)."
 ---
 
 # Events by City

@@ -1,6 +1,6 @@
 ---
 title: Jiaming & Wanyuan Workshop
-description: 2024-03-01 ~ 2024-03-03
+description: "2024-03-01 ~ 2024-03-03"
 ---
 
 # Jiaming & Wanyuan Workshop 

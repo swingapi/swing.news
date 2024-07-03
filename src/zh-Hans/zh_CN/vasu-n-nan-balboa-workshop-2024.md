@@ -1,6 +1,6 @@
 ---
 title: Vasu & Nan Balboa Workshop
-description: 2024-06-08 ~ 2024-06-09
+description: "2024-06-08 ~ 2024-06-09"
 ---
 
 # Vasu & Nan Balboa Workshop 

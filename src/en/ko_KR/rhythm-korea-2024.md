@@ -1,6 +1,6 @@
 ---
 title: Rhythm Korea
-description: 2024-06-21 ~ 2024-06-23
+description: "2024-06-21 ~ 2024-06-23"
 ---
 
 # Rhythm Korea 

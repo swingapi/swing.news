@@ -1,6 +1,6 @@
 ---
 title: Kiki House African Dance Workshop
-description: 2024-05-18 ~ 2024-05-19
+description: "2024-05-18 ~ 2024-05-19"
 ---
 
 # Kiki House African Dance Workshop 

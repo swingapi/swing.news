@@ -1,6 +1,6 @@
 ---
 title: Jump for Joy
-description: 2024-06-14 ~ 2024-06-16
+description: "2024-06-14 ~ 2024-06-16"
 ---
 
 # Jump for Joy 

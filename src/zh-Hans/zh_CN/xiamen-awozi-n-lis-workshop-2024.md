@@ -1,6 +1,6 @@
 ---
 title: Awozi & Lis Workshop
-description: 2024-03-21 ~ 2024-03-24
+description: "2024-03-21 ~ 2024-03-24"
 ---
 
 # Awozi & Lis Workshop 

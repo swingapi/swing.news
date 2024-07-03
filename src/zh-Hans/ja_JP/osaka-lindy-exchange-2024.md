@@ -1,6 +1,6 @@
 ---
 title: Osaka Lindy Exchange
-description: 2024-10-11 ~ 2024-10-13
+description: "2024-10-11 ~ 2024-10-13"
 ---
 
 # Osaka Lindy Exchange ^18^

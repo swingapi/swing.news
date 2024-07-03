@@ -1,6 +1,6 @@
 ---
 title: Savoy Cup Asia
-description: 2024-12-05 ~ 2024-12-08
+description: "2024-12-05 ~ 2024-12-08"
 ---
 
 # Savoy Cup Asia 

@@ -1,6 +1,6 @@
 ---
 title: Funs Swing Exchange
-description: 2024-07-05 ~ 2024-07-07
+description: "2024-07-05 ~ 2024-07-07"
 ---
 
 # Funs Swing Exchange 

@@ -1,6 +1,6 @@
 ---
 title: Tomodachi Swing
-description: 2024-06-28
+description: "2024-06-28"
 ---
 
 # Tomodachi Swing 

@@ -3,6 +3,9 @@ status: timeline
 ---
 
 ## 2025
+---
+description: "Archive of Swing Dance Events in 2025."
+---
 
 ## 02
 
@@ -20,6 +23,9 @@ status: timeline
 ---
 
 ## 2024
+---
+description: "Archive of Swing Dance Events in 2024."
+---
 
 ## 12
 

@@ -1,7 +1,7 @@
 ---
 title: Westlake Swing Carnival
 subtitle: WSC 2024
-description: 2024-08-30 ~ 2024-09-01
+description: "2024-08-30 ~ 2024-09-01"
 ---
 
 # Westlake Swing Carnival 

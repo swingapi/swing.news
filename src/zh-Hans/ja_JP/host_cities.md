@@ -1,3 +1,7 @@
+---
+description: "日本一些举办摇摆舞活动的城市。"
+---
+
 | 省份 | 城市 | | |
 | --- | --- | --- | --- |
 | [大阪](by_city.md#osaka) | | [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ja_JP%20%E2%80%A2%20%3CName%3E&region=ja_JP&province=Osaka&city=Osaka) | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20%3CName%3E&region=ja_JP&province=Osaka&city=Osaka&org_id=&date_starts=2024-&date_ends=2024-) |

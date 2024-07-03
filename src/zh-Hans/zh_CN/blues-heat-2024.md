@@ -1,6 +1,6 @@
 ---
 title: Blues Heat
-description: 2024-08-14 ~ 2024-08-18
+description: "2024-08-14 ~ 2024-08-18"
 tags:
   - Blues
 ---

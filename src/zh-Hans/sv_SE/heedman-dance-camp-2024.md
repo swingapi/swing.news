@@ -1,6 +1,6 @@
 ---
 title: Heedman Dance Camp
-description: 2024-07-28 ~ 2024-07-31
+description: "2024-07-28 ~ 2024-07-31"
 ---
 
 # Heedman Dance Camp 

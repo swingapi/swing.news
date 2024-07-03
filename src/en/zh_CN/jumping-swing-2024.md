@@ -1,6 +1,6 @@
 ---
 title: Jumpin’ Swing
-description: 2024-05-01 ~ 2024-05-02
+description: "2024-05-01 ~ 2024-05-02"
 ---
 
 # Jumpin’ Swing 

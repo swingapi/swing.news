@@ -1,5 +1,6 @@
 ---
 status: city
+description: "Swing Dance events in Sweden (Grouped by City)."
 ---
 
 # Events by City

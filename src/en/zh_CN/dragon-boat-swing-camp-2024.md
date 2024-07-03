@@ -1,6 +1,6 @@
 ---
 title: Dragon Boat Swing Camp
-description: 2024-06-08 ~ 2024-06-10
+description: "2024-06-08 ~ 2024-06-10"
 ---
 
 # Dragon Boat Swing Camp 

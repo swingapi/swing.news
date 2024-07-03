@@ -1,6 +1,6 @@
 ---
 title: Balboa Spring Camp
-description: 2024-04-19 ~ 2024-04-23
+description: "2024-04-19 ~ 2024-04-23"
 ---
 
 # Balboa Spring Camp 

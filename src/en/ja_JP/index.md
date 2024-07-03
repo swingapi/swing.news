@@ -1,10 +1,14 @@
 ---
 status: timeline
+description: "Swing Dance events in Japan (Timeline)."
 ---
 
 # Japan
 
 ## 2024
+---
+description: "Archive of Swing Dance events in Japan (2024)."
+---
 
 ## 12
 

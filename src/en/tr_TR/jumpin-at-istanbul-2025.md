@@ -1,6 +1,6 @@
 ---
 title: Jumpin' at Istanbul
-description: 2025-01-16 ~ 2025-01-19
+description: "2025-01-16 ~ 2025-01-19"
 ---
 
 # Jumpin' at Istanbul 

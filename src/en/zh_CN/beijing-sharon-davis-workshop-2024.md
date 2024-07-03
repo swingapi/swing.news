@@ -1,6 +1,6 @@
 ---
 title: Sharon Davis Workshop
-description: 2024-03-29 ~ 2024-04-01
+description: "2024-03-29 ~ 2024-04-01"
 ---
 
 # Sharon Davis Workshop 

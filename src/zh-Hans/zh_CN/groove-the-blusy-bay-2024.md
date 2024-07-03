@@ -1,7 +1,7 @@
 ---
 title: Groove the Blusy Bay
 subtitle: GBB 2024
-description: 2024-03-15 ~ 2024-03-17
+description: "2024-03-15 ~ 2024-03-17"
 tags:
   - Blues
 ---

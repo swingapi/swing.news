@@ -1,7 +1,7 @@
 ---
 title: Nanjing Lindy Festival
 subtitle: NLF 2024
-description: 2024-05-31 ~ 2024-06-02
+description: "2024-05-31 ~ 2024-06-02"
 ---
 
 # Nanjing Lindy Festival 

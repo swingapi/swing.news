@@ -1,6 +1,6 @@
 ---
 title: Harbourside Swing Fest
-description: 2024-02-02 ~ 2024-02-04
+description: "2024-02-02 ~ 2024-02-04"
 ---
 
 # Harbourside Swing Fest 

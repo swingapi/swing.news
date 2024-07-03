@@ -1,5 +1,6 @@
 ---
 status: city
+description: "Swing Dance events in Turkey (Grouped by City)."
 ---
 
 # Events by City

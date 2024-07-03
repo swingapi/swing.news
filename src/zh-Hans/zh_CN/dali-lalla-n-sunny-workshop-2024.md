@@ -1,6 +1,6 @@
 ---
 title: Lalla & Sunny Workshop
-description: 2024-06-08 ~ 2024-06-10
+description: "2024-06-08 ~ 2024-06-10"
 ---
 
 # Lalla & Sunny Workshop 
