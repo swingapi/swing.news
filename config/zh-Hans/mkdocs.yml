@@ -27,7 +27,7 @@ nav:
   - 地区:
     - 所有: regions.md
     - 美洲:
-      - en_US • 美国:
+      - 美国:
         - 时间线: en_US/index.md
         - 按城市划分: en_US/by_city.md
         - 主办城市: en_US/host_cities.md
@@ -38,7 +38,7 @@ nav:
         - 存档:
           - en_US/2025.md
           - en_US/2024.md
-      - es_MX • 墨西哥:
+      - 墨西哥:
         - 时间线: es_MX/index.md
         - 按城市划分: es_MX/by_city.md
         - 主办城市: es_MX/host_cities.md
@@ -47,7 +47,7 @@ nav:
         - 存档:
           - es_MX/2024.md
     - 亚洲:
-      - ja_JP • 日本:
+      - 日本:
         - 时间线: ja_JP/index.md
         - 按城市划分: ja_JP/by_city.md
         - 主办城市: ja_JP/host_cities.md
@@ -69,7 +69,7 @@ nav:
           - ja_JP/chill-balboa-social-2024.md
         - 存档:
           - ja_JP/2024.md
-      - ko_KR • 韩国:
+      - 韩国:
         - 时间线: ko_KR/index.md
         - 按城市划分: ko_KR/by_city.md
         - 主办城市: ko_KR/host_cities.md
@@ -80,7 +80,7 @@ nav:
           - ko_KR/rhythm-korea-2024.md
         - 存档:
           - ko_KR/2024.md
-      - th_TH • 泰国:
+      - 泰国:
         - 时间线: th_TH/index.md
         - 按城市划分: th_TH/by_city.md
         - 主办城市: th_TH/host_cities.md
@@ -89,7 +89,7 @@ nav:
           - th_TH/breezy-balboa-2024.md
         - 存档:
           - th_TH/2024.md
-      - tr_TR • 土耳其:
+      - 土耳其:
         - 时间线: tr_TR/index.md
         - 按城市划分: tr_TR/by_city.md
         - 主办城市: tr_TR/host_cities.md
@@ -97,7 +97,7 @@ nav:
           - tr_TR/jumpin-at-istanbul-2025.md
         - 存档:
           - tr_TR/2025.md
-      - zh_CN • 中国:
+      - 中国:
         - 时间线: zh_CN/index.md
         - 按城市划分: zh_CN/by_city.md
         - 主办城市: zh_CN/host_cities.md
@@ -134,7 +134,7 @@ nav:
           - zh_CN/beijing-balboa-travel-2024.md
         - 存档:
           - zh_CN/2024.md
-      - zh_HK • 香港:
+      - 香港:
         - 时间线: zh_HK/index.md
         - 按城市划分: zh_HK/by_city.md
         - 主办城市: zh_HK/host_cities.md
@@ -145,7 +145,7 @@ nav:
         - 存档:
           - zh_HK/2025.md
           - zh_HK/2024.md
-      - zh_TW • 台湾:
+      - 台湾:
         - 时间线: zh_TW/index.md
         - 按城市划分: zh_TW/by_city.md
         - 主办城市: zh_TW/host_cities.md
@@ -154,7 +154,7 @@ nav:
         - 存档:
           - zh_TW/2024.md
     - 欧洲:
-      - cs_CZ • 捷克:
+      - 捷克:
         - 时间线: cs_CZ/index.md
         - 按城市划分: cs_CZ/by_city.md
         - 主办城市: cs_CZ/host_cities.md
@@ -163,7 +163,7 @@ nav:
           - cs_CZ/bal-love-2024.md
         - 存档:
           - cs_CZ/2024.md
-      - pl_PL • 波兰:
+      - 波兰:
         - 时间线: pl_PL/index.md
         - 按城市划分: pl_PL/by_city.md
         - 主办城市: pl_PL/host_cities.md
@@ -171,7 +171,7 @@ nav:
           - pl_PL/dragon-swing-festival-2024.md
         - 存档:
           - pl_PL/2024.md
-      - sv_SE • 瑞典:
+      - 瑞典:
         - 时间线: sv_SE/index.md
         - 按城市划分: sv_SE/by_city.md
         - 主办城市: sv_SE/host_cities.md

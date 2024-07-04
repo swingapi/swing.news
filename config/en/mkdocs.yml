@@ -26,7 +26,7 @@ nav:
   - Regions:
     - All: regions.md
     - America:
-      - en_US • America:
+      - America:
         - Timeline: en_US/index.md
         - Events by City: en_US/by_city.md
         - Host Cities: en_US/host_cities.md
@@ -37,7 +37,7 @@ nav:
         - Archives:
           - en_US/2025.md
           - en_US/2024.md
-      - es_MX • Mexico:
+      - Mexico:
         - Timeline: es_MX/index.md
         - Events by City: es_MX/by_city.md
         - Host Cities: es_MX/host_cities.md
@@ -46,7 +46,7 @@ nav:
         - Archives:
           - es_MX/2024.md
     - Asia:
-      - ja_JP • Japan:
+      - Japan:
         - Timeline: ja_JP/index.md
         - Events by City: ja_JP/by_city.md
         - Host Cities: ja_JP/host_cities.md
@@ -68,7 +68,7 @@ nav:
           - ja_JP/chill-balboa-social-2024.md
         - Archives:
           - ja_JP/2024.md
-      - ko_KR • South Korea:
+      - South Korea:
         - Timeline: ko_KR/index.md
         - Events by City: ko_KR/by_city.md
         - Host Cities: ko_KR/host_cities.md
@@ -79,7 +79,7 @@ nav:
           - ko_KR/rhythm-korea-2024.md
         - Archives:
           - ko_KR/2024.md
-      - th_TH • Thailand:
+      - Thailand:
         - Timeline: th_TH/index.md
         - Events by City: th_TH/by_city.md
         - Host Cities: th_TH/host_cities.md
@@ -88,7 +88,7 @@ nav:
           - th_TH/breezy-balboa-2024.md
         - Archives:
           - th_TH/2024.md
-      - tr_TR • Turkey:
+      - Turkey:
         - Timeline: tr_TR/index.md
         - Events by City: tr_TR/by_city.md
         - Host Cities: tr_TR/host_cities.md
@@ -96,7 +96,7 @@ nav:
           - tr_TR/jumpin-at-istanbul-2025.md
         - Archives:
           - tr_TR/2025.md
-      - zh_CN • China:
+      - China:
         - Timeline: zh_CN/index.md
         - Events by City: zh_CN/by_city.md
         - Host Cities: zh_CN/host_cities.md
@@ -133,7 +133,7 @@ nav:
           - zh_CN/beijing-balboa-travel-2024.md
         - Archives:
           - zh_CN/2024.md
-      - zh_HK • Hong Kong:
+      - Hong Kong:
         - Timeline: zh_HK/index.md
         - Events by City: zh_HK/by_city.md
         - Host Cities: zh_HK/host_cities.md
@@ -144,7 +144,7 @@ nav:
         - Archives:
           - zh_HK/2025.md
           - zh_HK/2024.md
-      - zh_TW • Taiwan:
+      - Taiwan:
         - Timeline: zh_TW/index.md
         - Events by City: zh_TW/by_city.md
         - Host Cities: zh_TW/host_cities.md
@@ -153,7 +153,7 @@ nav:
         - Archives:
           - zh_TW/2024.md
     - Europe:
-      - cs_CZ • Czechia:
+      - Czechia:
         - Timeline: cs_CZ/index.md
         - Events by City: cs_CZ/by_city.md
         - Host Cities: cs_CZ/host_cities.md
@@ -162,7 +162,7 @@ nav:
           - cs_CZ/bal-love-2024.md
         - Archives:
           - cs_CZ/2024.md
-      - pl_PL • Poland:
+      - Poland:
         - Timeline: pl_PL/index.md
         - Events by City: pl_PL/by_city.md
         - Host Cities: pl_PL/host_cities.md
@@ -170,7 +170,7 @@ nav:
           - pl_PL/dragon-swing-festival-2024.md
         - Archives:
           - pl_PL/2024.md
-      - sv_SE • Sweden:
+      - Sweden:
         - Timeline: sv_SE/index.md
         - Events by City: sv_SE/by_city.md
         - Host Cities: sv_SE/host_cities.md
