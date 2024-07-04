@@ -23,4 +23,17 @@ tags:
 
 ---
 
-:fontawesome-solid-pen-to-square: [Edit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20Chill%20Balboa%20Social&region=ja_JP&year=2024&id=chill-balboa-social-2024&name=Chill%20Balboa%20Social&org_id=chillboa)
+<div class="ky_page_footer" markdown>
+<div class="ky_page_footer_trailing" markdown="span">
+[:material-file-eye-outline:][view-raw-source-file]
+[:material-file-edit-outline:][edit-info]
+</div>
+<div class="ky_page_footer_leading" markdown="span">
+[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button }
+</div>
+</div>
+
+[view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/chill-balboa-social-2024.json "View Raw Source File"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20Chill%20Balboa%20Social&region=ja_JP&year=2024&id=chill-balboa-social-2024&name=Chill%20Balboa%20Social&org_id=chillboa "Edit Info"
+
+[view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/chill-balboa-social-2024.json "View Edit History"

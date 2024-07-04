@@ -16,4 +16,17 @@ Sharon Davis 摇摆秘籍
 
 ---
 
-:fontawesome-solid-pen-to-square: [Edit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20Sharon%20Davis%20Workshop&region=zh_CN&year=2024&id=beijing-sharon-davis-workshop-2024&name=Sharon%20Davis%20Workshop&org_id=a-frame)
+<div class="ky_page_footer" markdown>
+<div class="ky_page_footer_trailing" markdown="span">
+[:material-file-eye-outline:][view-raw-source-file]
+[:material-file-edit-outline:][edit-info]
+</div>
+<div class="ky_page_footer_leading" markdown="span">
+[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button }
+</div>
+</div>
+
+[view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/beijing-sharon-davis-workshop-2024.json "View Raw Source File"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20Sharon%20Davis%20Workshop&region=zh_CN&year=2024&id=beijing-sharon-davis-workshop-2024&name=Sharon%20Davis%20Workshop&org_id=a-frame "Edit Info"
+
+[view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/beijing-sharon-davis-workshop-2024.json "View Edit History"
