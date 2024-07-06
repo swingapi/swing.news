@@ -11,6 +11,8 @@
 
 | Region Code | Region Name |
 | --- | --- |
+| hy_AM | [Armenia](hy_AM/index.md) | 
+| id_ID | [Indonesia](id_ID/index.md) | 
 | ja_JP | [Japan](ja_JP/index.md) | 
 | ko_KR | [South Korea](ko_KR/index.md) | 
 | th_TH | [Thailand](th_TH/index.md) | 
@@ -24,5 +26,6 @@
 | Region Code | Region Name |
 | --- | --- |
 | cs_CZ | [Czechia](cs_CZ/index.md) | 
+| es_ES | [Spain](es_ES/index.md) | 
 | pl_PL | [Poland](pl_PL/index.md) | 
 | sv_SE | [Sweden](sv_SE/index.md) | 

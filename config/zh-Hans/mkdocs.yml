@@ -47,6 +47,22 @@ nav:
         - 存档:
           - es_MX/2024.md
     - 亚洲:
+      - 亚美尼亚:
+        - 时间线: hy_AM/index.md
+        - 按城市划分: hy_AM/by_city.md
+        - 主办城市: hy_AM/host_cities.md
+        - 已收录活动:
+          - hy_AM/swing-road-armenia-2024.md
+        - 存档:
+          - hy_AM/2024.md
+      - 印尼:
+        - 时间线: id_ID/index.md
+        - 按城市划分: id_ID/by_city.md
+        - 主办城市: id_ID/host_cities.md
+        - 已收录活动:
+          - id_ID/bali-lindy-exchange-2024.md
+        - 存档:
+          - id_ID/2024.md
       - 日本:
         - 时间线: ja_JP/index.md
         - 按城市划分: ja_JP/by_city.md
@@ -76,6 +92,8 @@ nav:
         - 已收录活动:
           - ko_KR/savoy-cup-asia-2024.md
           - ko_KR/korean-balboa-weekend-2024.md
+          - ko_KR/seoul-lindy-fest-2024.md
+          - ko_KR/bal-hop-2024.md
           - ko_KR/champions-cup-korea-2024.md
           - ko_KR/rhythm-korea-2024.md
         - 存档:
@@ -86,6 +104,7 @@ nav:
         - 主办城市: th_TH/host_cities.md
         - 已收录活动:
           - th_TH/diga-diga-doo-2024.md
+          - th_TH/swing-era-2024.md
           - th_TH/breezy-balboa-2024.md
         - 存档:
           - th_TH/2024.md
@@ -163,6 +182,33 @@ nav:
           - cs_CZ/bal-love-2024.md
         - 存档:
           - cs_CZ/2024.md
+      - 西班牙:
+        - 时间线: es_ES/index.md
+        - 按城市划分: es_ES/by_city.md
+        - 主办城市: es_ES/host_cities.md
+        - 已收录活动:
+          - es_ES/barcelona-balboa-festival-2024.md
+          - es_ES/espanish-blues-festival-2024.md
+          - es_ES/mojo-swing-tropical-fest-2024.md
+          - es_ES/swing-fest-malaga-2024.md
+          - es_ES/swing-ciudad-real-2024.md
+          - es_ES/donosti-belle-swing-festival-2024.md
+          - es_ES/cadiz-swing-festival-2024.md
+          - es_ES/stomp-your-feet-2024.md
+          - es_ES/calpe-swing-fiesta-2024.md
+          - es_ES/swing-a-esgaya-2024.md
+          - es_ES/barcelona-shag-festival-2024.md
+          - es_ES/the-jump-2024.md
+          - es_ES/barcelona-lindy-exchange-2024.md
+          - es_ES/swim-out-costa-brava-2024.md
+          - es_ES/morella-swing-weekend-2024.md
+          - es_ES/jazz-n-swing-gasteiz-festival-2024.md
+          - es_ES/festival-swing-monachil-2024.md
+          - es_ES/metropoli-fest-2024.md
+          - es_ES/sevilla-swing-festival-2024.md
+          - es_ES/move-your-bottom-2024.md
+        - 存档:
+          - es_ES/2024.md
       - 波兰:
         - 时间线: pl_PL/index.md
         - 按城市划分: pl_PL/by_city.md

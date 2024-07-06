@@ -46,6 +46,22 @@ nav:
         - Archives:
           - es_MX/2024.md
     - Asia:
+      - Armenia:
+        - Timeline: hy_AM/index.md
+        - Events by City: hy_AM/by_city.md
+        - Host Cities: hy_AM/host_cities.md
+        - Collected Events:
+          - hy_AM/swing-road-armenia-2024.md
+        - Archives:
+          - hy_AM/2024.md
+      - Indonesia:
+        - Timeline: id_ID/index.md
+        - Events by City: id_ID/by_city.md
+        - Host Cities: id_ID/host_cities.md
+        - Collected Events:
+          - id_ID/bali-lindy-exchange-2024.md
+        - Archives:
+          - id_ID/2024.md
       - Japan:
         - Timeline: ja_JP/index.md
         - Events by City: ja_JP/by_city.md
@@ -75,6 +91,8 @@ nav:
         - Collected Events:
           - ko_KR/savoy-cup-asia-2024.md
           - ko_KR/korean-balboa-weekend-2024.md
+          - ko_KR/seoul-lindy-fest-2024.md
+          - ko_KR/bal-hop-2024.md
           - ko_KR/champions-cup-korea-2024.md
           - ko_KR/rhythm-korea-2024.md
         - Archives:
@@ -85,6 +103,7 @@ nav:
         - Host Cities: th_TH/host_cities.md
         - Collected Events:
           - th_TH/diga-diga-doo-2024.md
+          - th_TH/swing-era-2024.md
           - th_TH/breezy-balboa-2024.md
         - Archives:
           - th_TH/2024.md
@@ -162,6 +181,33 @@ nav:
           - cs_CZ/bal-love-2024.md
         - Archives:
           - cs_CZ/2024.md
+      - Spain:
+        - Timeline: es_ES/index.md
+        - Events by City: es_ES/by_city.md
+        - Host Cities: es_ES/host_cities.md
+        - Collected Events:
+          - es_ES/barcelona-balboa-festival-2024.md
+          - es_ES/espanish-blues-festival-2024.md
+          - es_ES/mojo-swing-tropical-fest-2024.md
+          - es_ES/swing-fest-malaga-2024.md
+          - es_ES/swing-ciudad-real-2024.md
+          - es_ES/donosti-belle-swing-festival-2024.md
+          - es_ES/cadiz-swing-festival-2024.md
+          - es_ES/stomp-your-feet-2024.md
+          - es_ES/calpe-swing-fiesta-2024.md
+          - es_ES/swing-a-esgaya-2024.md
+          - es_ES/barcelona-shag-festival-2024.md
+          - es_ES/the-jump-2024.md
+          - es_ES/barcelona-lindy-exchange-2024.md
+          - es_ES/swim-out-costa-brava-2024.md
+          - es_ES/morella-swing-weekend-2024.md
+          - es_ES/jazz-n-swing-gasteiz-festival-2024.md
+          - es_ES/festival-swing-monachil-2024.md
+          - es_ES/metropoli-fest-2024.md
+          - es_ES/sevilla-swing-festival-2024.md
+          - es_ES/move-your-bottom-2024.md
+        - Archives:
+          - es_ES/2024.md
       - Poland:
         - Timeline: pl_PL/index.md
         - Events by City: pl_PL/by_city.md

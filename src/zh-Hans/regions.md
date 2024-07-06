@@ -11,6 +11,8 @@
 
 | 地区编码 | 地区名称 |
 | --- | --- |
+| hy_AM | [亚美尼亚](hy_AM/index.md) | 
+| id_ID | [印尼](id_ID/index.md) | 
 | ja_JP | [日本](ja_JP/index.md) | 
 | ko_KR | [韩国](ko_KR/index.md) | 
 | th_TH | [泰国](th_TH/index.md) | 
@@ -24,5 +26,6 @@
 | 地区编码 | 地区名称 |
 | --- | --- |
 | cs_CZ | [捷克](cs_CZ/index.md) | 
+| es_ES | [西班牙](es_ES/index.md) | 
 | pl_PL | [波兰](pl_PL/index.md) | 
 | sv_SE | [瑞典](sv_SE/index.md) | 
