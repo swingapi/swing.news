@@ -25,6 +25,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 09-20 ~ 22 | [Shanghai](by_city.md#shanghai) | [Swing Paramount](swing-paramount-2024.md) | 摇摆百乐门 |
 | 09-15 ~ 17 | [Shanghai](by_city.md#shanghai) | [Women's Jazzination](womens-jazzination-2024.md) | 爵了姐妹 |
 | 09-06 ~ 08 | [Beijing](by_city.md#beijing) | [Beijing Blues Bush](beijing-blues-bush-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)

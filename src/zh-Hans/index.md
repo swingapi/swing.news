@@ -66,6 +66,7 @@ status: timeline
 | 09-27 ~ 29 | [泰国](th_TH/index.md) | [曼谷](th_TH/by_city.md#bangkok) | [Diga Diga Doo](th_TH/diga-diga-doo-2024.md) |  |
 | 09-27 ~ 29 | [西班牙](es_ES/index.md) | [卡尔佩](es_ES/by_city.md#calpe) | [Calpe Swing Fiesta](es_ES/calpe-swing-fiesta-2024.md) |  |
 | 09-27 ~ 29 | [美国](en_US/index.md) | [伊利诺伊州](en_US/by_city.md#illinois) • 芝加哥 | [Breat Lakes Balboa Escape](en_US/breat-lakes-balboa-escape-2024.md) |  |
+| 09-20 ~ 22 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Swing Paramount](zh_CN/swing-paramount-2024.md) | 摇摆百乐门 |
 | 09-20 ~ 22 | [西班牙](es_ES/index.md) | [希洪](es_ES/by_city.md#gijon) | [Swing A Esgaya](es_ES/swing-a-esgaya-2024.md) |  |
 | 09-20 ~ 22 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Barcelona Shag Festival](es_ES/barcelona-shag-festival-2024.md) |  |
 | 09-15 ~ 17 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Women's Jazzination](zh_CN/womens-jazzination-2024.md) | 爵了姐妹 |
