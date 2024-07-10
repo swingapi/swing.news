@@ -12,7 +12,7 @@ description: "Swing Dance events in Hong Kong (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 01-10 ~ 12 | [HK](by_city.md#hk) | [Harbourside Swing Fest](harbourside-swing-fest-2025.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202025%2Fzh_HK%20%E2%80%A2%20%3CName%3E&region=zh_HK&province=&city=&org_id=&date_starts=2025-01-&date_ends=2025-01-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fzh_HK%5D%20Add%20Event%3A%20%3CName%3E&region=zh_HK&province=&city=&org_id=&date_starts=2025-01-&date_ends=2025-01-)
 
 ---
 
@@ -23,14 +23,14 @@ description: "Swing Dance events in Hong Kong (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 09-27 ~ 29 | [HK](by_city.md#hk) | [Vasu & Xinru Balboa Weekend](vasu-n-xinru-balboa-weekend-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fzh_HK%20%E2%80%A2%20%3CName%3E&region=zh_HK&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_HK%5D%20Add%20Event%3A%20%3CName%3E&region=zh_HK&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
 
 ## 02
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 02-02 ~ 04 | [HK](by_city.md#hk) | [Harbourside Swing Fest](harbourside-swing-fest-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%202024%2Fzh_HK%20%E2%80%A2%20%3CName%3E&region=zh_HK&province=&city=&org_id=&date_starts=2024-02-&date_ends=2024-02-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_HK%5D%20Add%20Event%3A%20%3CName%3E&region=zh_HK&province=&city=&org_id=&date_starts=2024-02-&date_ends=2024-02-)
 
 ---
 

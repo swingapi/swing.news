@@ -34,6 +34,6 @@ description: "2024-10-11 ~ 2024-10-13"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/osaka-lindy-exchange-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20Osaka%20Lindy%20Exchange&region=ja_JP&year=2024&id=osaka-lindy-exchange-2024&name=Osaka%20Lindy%20Exchange&org_id=osaka-swing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Osaka%20Lindy%20Exchange&region=ja_JP&year=2024&id=osaka-lindy-exchange-2024&name=Osaka%20Lindy%20Exchange&org_id=osaka-swing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/osaka-lindy-exchange-2024.json "View Edit History"

@@ -29,6 +29,6 @@ description: "2024-07-19 ~ 2024-07-21"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/es_ES/jazz-n-swing-gasteiz-festival-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fes_ES%20%E2%80%A2%20Jazz%20%26%20Swing%20Gasteiz%20Festival&region=es_ES&year=2024&id=jazz-n-swing-gasteiz-festival-2024&name=Jazz%20%26%20Swing%20Gasteiz%20Festival&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fes_ES%5D%20Update%20Event%3A%20Jazz%20%26%20Swing%20Gasteiz%20Festival&region=es_ES&year=2024&id=jazz-n-swing-gasteiz-festival-2024&name=Jazz%20%26%20Swing%20Gasteiz%20Festival&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/es_ES/jazz-n-swing-gasteiz-festival-2024.json "查看编辑历史"

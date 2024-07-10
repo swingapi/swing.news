@@ -29,6 +29,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/all-balboa-exchange-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20All%20Balboa%20Exchange&region=zh_CN&year=2024&id=all-balboa-exchange-2024&name=All%20Balboa%20Exchange&org_id=swing-land "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20All%20Balboa%20Exchange&region=zh_CN&year=2024&id=all-balboa-exchange-2024&name=All%20Balboa%20Exchange&org_id=swing-land "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/all-balboa-exchange-2024.json "查看编辑历史"

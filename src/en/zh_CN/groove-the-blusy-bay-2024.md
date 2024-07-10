@@ -29,6 +29,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/groove-the-blusy-bay-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20Groove%20the%20Blusy%20Bay&region=zh_CN&year=2024&id=groove-the-blusy-bay-2024&name=Groove%20the%20Blusy%20Bay&org_id=groove-blues-swing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Groove%20the%20Blusy%20Bay&region=zh_CN&year=2024&id=groove-the-blusy-bay-2024&name=Groove%20the%20Blusy%20Bay&org_id=groove-blues-swing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/groove-the-blusy-bay-2024.json "View Edit History"

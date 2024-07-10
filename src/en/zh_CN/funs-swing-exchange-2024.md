@@ -26,6 +26,6 @@ description: "2024-07-05 ~ 2024-07-07"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/funs-swing-exchange-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fzh_CN%20%E2%80%A2%20Funs%20Swing%20Exchange&region=zh_CN&year=2024&id=funs-swing-exchange-2024&name=Funs%20Swing%20Exchange&org_id=swing-chang-sha "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Funs%20Swing%20Exchange&region=zh_CN&year=2024&id=funs-swing-exchange-2024&name=Funs%20Swing%20Exchange&org_id=swing-chang-sha "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/funs-swing-exchange-2024.json "View Edit History"

@@ -32,6 +32,6 @@ description: "2024-06-28"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/tomodachi-swing-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20Tomodachi%20Swing&region=ja_JP&year=2024&id=tomodachi-swing-2024&name=Tomodachi%20Swing&org_id=kawasaki-swing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Tomodachi%20Swing&region=ja_JP&year=2024&id=tomodachi-swing-2024&name=Tomodachi%20Swing&org_id=kawasaki-swing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/tomodachi-swing-2024.json "View Edit History"

@@ -30,6 +30,6 @@ description: "2024-12-26 ~ 2024-12-31"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/sv_SE/the-snowball-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fsv_SE%20%E2%80%A2%20The%20Snowball&region=sv_SE&year=2024&id=the-snowball-2024&name=The%20Snowball&org_id= "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fsv_SE%5D%20Update%20Event%3A%20The%20Snowball&region=sv_SE&year=2024&id=the-snowball-2024&name=The%20Snowball&org_id= "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/sv_SE/the-snowball-2024.json "View Edit History"

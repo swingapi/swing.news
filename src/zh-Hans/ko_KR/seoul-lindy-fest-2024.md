@@ -30,6 +30,6 @@ description: "2024-10-03 ~ 2024-10-06"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ko_KR/seoul-lindy-fest-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fko_KR%20%E2%80%A2%20Seoul%20Lindy%20Fest&region=ko_KR&year=2024&id=seoul-lindy-fest-2024&name=Seoul%20Lindy%20Fest&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fko_KR%5D%20Update%20Event%3A%20Seoul%20Lindy%20Fest&region=ko_KR&year=2024&id=seoul-lindy-fest-2024&name=Seoul%20Lindy%20Fest&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ko_KR/seoul-lindy-fest-2024.json "查看编辑历史"

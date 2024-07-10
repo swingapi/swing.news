@@ -30,6 +30,6 @@ description: "2024-10-11 ~ 2024-10-13"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/es_ES/cadiz-swing-festival-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fes_ES%20%E2%80%A2%20Cadiz%20Swing%20Festival&region=es_ES&year=2024&id=cadiz-swing-festival-2024&name=Cadiz%20Swing%20Festival&org_id= "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fes_ES%5D%20Update%20Event%3A%20Cadiz%20Swing%20Festival&region=es_ES&year=2024&id=cadiz-swing-festival-2024&name=Cadiz%20Swing%20Festival&org_id= "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/es_ES/cadiz-swing-festival-2024.json "View Edit History"

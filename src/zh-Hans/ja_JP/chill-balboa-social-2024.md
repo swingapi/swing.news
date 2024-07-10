@@ -34,6 +34,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/chill-balboa-social-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fja_JP%20%E2%80%A2%20Chill%20Balboa%20Social&region=ja_JP&year=2024&id=chill-balboa-social-2024&name=Chill%20Balboa%20Social&org_id=chillboa "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Chill%20Balboa%20Social&region=ja_JP&year=2024&id=chill-balboa-social-2024&name=Chill%20Balboa%20Social&org_id=chillboa "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/chill-balboa-social-2024.json "查看编辑历史"

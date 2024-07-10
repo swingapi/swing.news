@@ -35,6 +35,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_HK/vasu-n-xinru-balboa-weekend-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fzh_HK%20%E2%80%A2%20Vasu%20%26%20Xinru%20Balboa%20Weekend&region=zh_HK&year=2024&id=vasu-n-xinru-balboa-weekend-2024&name=Vasu%20%26%20Xinru%20Balboa%20Weekend&org_id=hong-kong-balboa "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_HK%5D%20Update%20Event%3A%20Vasu%20%26%20Xinru%20Balboa%20Weekend&region=zh_HK&year=2024&id=vasu-n-xinru-balboa-weekend-2024&name=Vasu%20%26%20Xinru%20Balboa%20Weekend&org_id=hong-kong-balboa "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_HK/vasu-n-xinru-balboa-weekend-2024.json "View Edit History"

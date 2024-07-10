@@ -30,6 +30,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/th_TH/breezy-balboa-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=Update%20Event%3A%202024%2Fth_TH%20%E2%80%A2%20Breezy%20Balboa&region=th_TH&year=2024&id=breezy-balboa-2024&name=Breezy%20Balboa&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fth_TH%5D%20Update%20Event%3A%20Breezy%20Balboa&region=th_TH&year=2024&id=breezy-balboa-2024&name=Breezy%20Balboa&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/th_TH/breezy-balboa-2024.json "查看编辑历史"
