@@ -71,8 +71,10 @@ status: timeline
 | 09-20 ~ 22 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Barcelona Shag Festival](es_ES/barcelona-shag-festival-2024.md) |  |
 | 09-15 ~ 17 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Women's Jazzination](zh_CN/womens-jazzination-2024.md) | 爵了姐妹 |
 | 09-13 ~ 20 | [西班牙](es_ES/index.md) | [瓦伦西亚](es_ES/by_city.md#valencia) | [The Jump](es_ES/the-jump-2024.md) |  |
+| 09-13 ~ 15 | [俄罗斯](ru_RU/index.md) | [莫斯科](ru_RU/by_city.md#moscow) | [Moscow Comes Around](ru_RU/moscow-comes-around-2024.md) |  |
 | 09-12 ~ 15 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Barcelona Lindy Exchange](es_ES/barcelona-lindy-exchange-2024.md) |  |
 | 09-08 ~ 08 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-08-2024.md) |  |
+| 09-06 ~ 09 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Claudia & Coline Workshop](zh_CN/claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
 | 09-06 ~ 08 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Blues Bush](zh_CN/beijing-blues-bush-2024.md) |  |
 | 09-05 ~ 08 | [西班牙](es_ES/index.md) | [雅弗郎其](es_ES/by_city.md#llafranc) | [Swim Out Costa Brava](es_ES/swim-out-costa-brava-2024.md) |  |
 
@@ -96,6 +98,7 @@ status: timeline
 | 07-27 ~ 27 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Champions Cup Korea](ko_KR/champions-cup-korea-2024.md) |  |
 | 07-27 ~ 27 | [日本](ja_JP/index.md) | [横滨](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-07-2024.md) |  |
 | 07-26 ~ 28 | [西班牙](es_ES/index.md) | [莫雷利亚](es_ES/by_city.md#morella) | [Morella Swing Weekend](es_ES/morella-swing-weekend-2024.md) |  |
+| 07-20 ~ 21 | [中国](zh_CN/index.md) | [广东](zh_CN/by_city.md#guangdong) • 深圳 | [Blues Workshop with Taehyeon](zh_CN/blues-workshop-with-taehyeon-2024.md) |  |
 | 07-19 ~ 21 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Jazz Do It](zh_CN/jazz-do-it-2024.md) | 北京林迪舞交流节 |
 | 07-19 ~ 21 | [西班牙](es_ES/index.md) | [维多利亚](es_ES/by_city.md#vitoria) | [Jazz & Swing Gasteiz Festival](es_ES/jazz-n-swing-gasteiz-festival-2024.md) |  |
 | 07-19 ~ 21 | [西班牙](es_ES/index.md) | [莫纳奇尔](es_ES/by_city.md#monachil) | [Festival Swing Monachil](es_ES/festival-swing-monachil-2024.md) |  |

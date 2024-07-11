@@ -27,6 +27,7 @@ description: "Swing Dance events in China (Timeline)."
 | --- | --- | --- | --- |
 | 09-20 ~ 22 | [Shanghai](by_city.md#shanghai) | [Swing Paramount](swing-paramount-2024.md) | 摇摆百乐门 |
 | 09-15 ~ 17 | [Shanghai](by_city.md#shanghai) | [Women's Jazzination](womens-jazzination-2024.md) | 爵了姐妹 |
+| 09-06 ~ 09 | [Beijing](by_city.md#beijing) | [Claudia & Coline Workshop](claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
 | 09-06 ~ 08 | [Beijing](by_city.md#beijing) | [Beijing Blues Bush](beijing-blues-bush-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
 
@@ -43,6 +44,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 07-20 ~ 21 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
 | 07-19 ~ 21 | [Beijing](by_city.md#beijing) | [Jazz Do It](jazz-do-it-2024.md) | 北京林迪舞交流节 |
 | 07-05 ~ 07 | [Hunan](by_city.md#hunan) • Changsha | [Funs Swing Exchange](funs-swing-exchange-2024.md) |  |
 | 07-03 ~ 08 | [Beijing](by_city.md#beijing) | [Bal In Beijing](bal-in-beijing-2024.md) |  |

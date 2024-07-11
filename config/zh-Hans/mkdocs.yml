@@ -125,10 +125,12 @@ nav:
           - zh_CN/shanghai-balboa-weekend-2024.md
           - zh_CN/swing-paramount-2024.md
           - zh_CN/womens-jazzination-2024.md
+          - zh_CN/claudia-n-coline-workshop-2024.md
           - zh_CN/beijing-blues-bush-2024.md
           - zh_CN/westlake-swing-carnival-2024.md
           - zh_CN/blues-heat-2024.md
           - zh_CN/swing-feast-2024.md
+          - zh_CN/blues-workshop-with-taehyeon-2024.md
           - zh_CN/jazz-do-it-2024.md
           - zh_CN/funs-swing-exchange-2024.md
           - zh_CN/bal-in-beijing-2024.md
@@ -218,6 +220,14 @@ nav:
           - pl_PL/dragon-swing-festival-2024.md
         - 存档:
           - pl_PL/2024.md
+      - 俄罗斯:
+        - 时间线: ru_RU/index.md
+        - 按城市划分: ru_RU/by_city.md
+        - 主办城市: ru_RU/host_cities.md
+        - 已收录活动:
+          - ru_RU/moscow-comes-around-2024.md
+        - 存档:
+          - ru_RU/2024.md
       - 瑞典:
         - 时间线: sv_SE/index.md
         - 按城市划分: sv_SE/by_city.md

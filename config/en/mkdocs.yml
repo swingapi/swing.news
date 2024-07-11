@@ -124,10 +124,12 @@ nav:
           - zh_CN/shanghai-balboa-weekend-2024.md
           - zh_CN/swing-paramount-2024.md
           - zh_CN/womens-jazzination-2024.md
+          - zh_CN/claudia-n-coline-workshop-2024.md
           - zh_CN/beijing-blues-bush-2024.md
           - zh_CN/westlake-swing-carnival-2024.md
           - zh_CN/blues-heat-2024.md
           - zh_CN/swing-feast-2024.md
+          - zh_CN/blues-workshop-with-taehyeon-2024.md
           - zh_CN/jazz-do-it-2024.md
           - zh_CN/funs-swing-exchange-2024.md
           - zh_CN/bal-in-beijing-2024.md
@@ -217,6 +219,14 @@ nav:
           - pl_PL/dragon-swing-festival-2024.md
         - Archives:
           - pl_PL/2024.md
+      - Russia:
+        - Timeline: ru_RU/index.md
+        - Events by City: ru_RU/by_city.md
+        - Host Cities: ru_RU/host_cities.md
+        - Collected Events:
+          - ru_RU/moscow-comes-around-2024.md
+        - Archives:
+          - ru_RU/2024.md
       - Sweden:
         - Timeline: sv_SE/index.md
         - Events by City: sv_SE/by_city.md

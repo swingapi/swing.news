@@ -12,6 +12,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
+| 2024-09-06 ~ 09 | [Claudia & Coline Workshop](claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
 | 2024-09-06 ~ 08 | [Beijing Blues Bush](beijing-blues-bush-2024.md) |  |
 | 2024-07-19 ~ 21 | [Jazz Do It](jazz-do-it-2024.md) | 北京林迪舞交流节 |
 | 2024-07-03 ~ 08 | [Bal In Beijing](bal-in-beijing-2024.md) |  |
@@ -60,6 +61,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2024-07-20 ~ 21 | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
 | 2024-03-15 ~ 17 | [Groove the Blusy Bay](groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen&org_id=&date_starts=2024-&date_ends=2024-)
 

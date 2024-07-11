@@ -1,0 +1,37 @@
+---
+title: Blues Workshop with Taehyeon
+description: "2024-07-20 ~ 2024-07-21"
+---
+
+# Blues Workshop with Taehyeon 
+
+:fontawesome-solid-calendar-days: 2024-07-20 ~ 2024-07-21  
+:fontawesome-solid-location-dot: 深圳  
+
+!!! info "组织者"
+
+    [Walking the Blues](https://swing.kids/zh_CN/walking-the-blues)  
+
+## 联系
+
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/qd6VmCGYlOyJIiF1T8lQSA)
+
+---
+
+<div class="ky_page_footer" markdown>
+<div class="ky_page_footer_trailing" markdown="span">
+[:material-file-eye-outline:][view-raw-source-file]
+[:material-file-edit-outline:][edit-info]
+</div>
+<div class="ky_page_footer_leading" markdown="span">
+[:material-clock-edit-outline: 2024-07-10 14:36 UTC][view-edit-history]{ .ky_page_footer_history_button }
+</div>
+</div>
+
+[view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/blues-workshop-with-taehyeon-2024.json "查看原始源文件"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Blues%20Workshop%20with%20Taehyeon&region=zh_CN&year=2024&id=blues-workshop-with-taehyeon-2024&name=Blues%20Workshop%20with%20Taehyeon&org_id=walking-the-blues "编辑信息"
+
+[view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/blues-workshop-with-taehyeon-2024.json "查看编辑历史"

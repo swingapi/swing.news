@@ -28,4 +28,5 @@
 | cs_CZ | [Czechia](cs_CZ/index.md) | 
 | es_ES | [Spain](es_ES/index.md) | 
 | pl_PL | [Poland](pl_PL/index.md) | 
+| ru_RU | [Russia](ru_RU/index.md) | 
 | sv_SE | [Sweden](sv_SE/index.md) | 

@@ -28,4 +28,5 @@
 | cs_CZ | [捷克](cs_CZ/index.md) | 
 | es_ES | [西班牙](es_ES/index.md) | 
 | pl_PL | [波兰](pl_PL/index.md) | 
+| ru_RU | [俄罗斯](ru_RU/index.md) | 
 | sv_SE | [瑞典](sv_SE/index.md) | 
