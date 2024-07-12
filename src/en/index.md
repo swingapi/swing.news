@@ -95,7 +95,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 07-28 ~ 31 | [Sweden](sv_SE/index.md) | [Lulea](sv_SE/by_city.md#lulea) | [Heedman Dance Camp](sv_SE/heedman-dance-camp-2024.md) |  |
-| 07-27 ~ 28 | [China](zh_CN/index.md) | [Guangdong](zh_CN/by_city.md#guangdong) • Shenzhen | [Greater Bay Workshop](zh_CN/balboa-greater-bay-workshop-2024.md) |  |
+| 07-27 ~ 28 | [China](zh_CN/index.md) | [Guangdong](zh_CN/by_city.md#guangdong) • Shenzhen | [Balboa Greater Bay Workshop](zh_CN/balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 07-27 ~ 27 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/by_city.md#seoul) | [Champions Cup Korea](ko_KR/champions-cup-korea-2024.md) |  |
 | 07-27 ~ 27 | [Japan](ja_JP/index.md) | [Yokohama](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-07-2024.md) |  |
 | 07-26 ~ 28 | [Spain](es_ES/index.md) | [Morella](es_ES/by_city.md#morella) | [Morella Swing Weekend](es_ES/morella-swing-weekend-2024.md) |  |

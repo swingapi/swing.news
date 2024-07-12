@@ -44,7 +44,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-| 07-27 ~ 28 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) |  |
+| 07-27 ~ 28 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Balboa Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 07-20 ~ 21 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
 | 07-19 ~ 21 | [Beijing](by_city.md#beijing) | [Jazz Do It](jazz-do-it-2024.md) | 北京林迪舞交流节 |
 | 07-05 ~ 07 | [Hunan](by_city.md#hunan) • Changsha | [Funs Swing Exchange](funs-swing-exchange-2024.md) |  |

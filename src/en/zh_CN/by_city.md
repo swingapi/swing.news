@@ -61,7 +61,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-07-27 ~ 28 | [Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) |  |
+| 2024-07-27 ~ 28 | [Balboa Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 2024-07-20 ~ 21 | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
 | 2024-03-15 ~ 17 | [Groove the Blusy Bay](groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen&org_id=&date_starts=2024-&date_ends=2024-)
