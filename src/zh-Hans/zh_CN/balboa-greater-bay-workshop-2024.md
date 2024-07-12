@@ -1,0 +1,33 @@
+---
+title: Greater Bay Workshop
+subtitle: Bal 浪湾区 2024
+description: "2024-07-27 ~ 2024-07-28"
+tags:
+  - Balboa
+---
+
+# Greater Bay Workshop 
+
+:fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-07-28  
+:fontawesome-solid-location-dot: 深圳  
+
+!!! info "组织者"
+
+    [Balboa Shenzhen](https://swing.kids/zh_CN/balboa-shenzhen)  
+
+---
+
+<div class="ky_page_footer" markdown>
+<div class="ky_page_footer_trailing" markdown="span">
+[:material-file-eye-outline:][view-raw-source-file]
+[:material-file-edit-outline:][edit-info]
+</div>
+<div class="ky_page_footer_leading" markdown="span">
+[:material-clock-edit-outline: 2024-07-12 03:27 UTC][view-edit-history]{ .ky_page_footer_history_button }
+</div>
+</div>
+
+[view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/balboa-greater-bay-workshop-2024.json "查看原始源文件"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Greater%20Bay%20Workshop&region=zh_CN&year=2024&id=balboa-greater-bay-workshop-2024&name=Greater%20Bay%20Workshop&org_id=balboa-shenzhen "编辑信息"
+
+[view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/balboa-greater-bay-workshop-2024.json "查看编辑历史"
