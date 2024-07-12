@@ -17,21 +17,21 @@ tags:
 ## 联系
 
 :fontawesome-solid-envelope: <balloveinc@gmail.com>  
-:fontawesome-solid-globe: <https://www.bal-love.com>  
+:fontawesome-solid-globe: <https://www.bal-love.com>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/179491102635312)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/179491102635312){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

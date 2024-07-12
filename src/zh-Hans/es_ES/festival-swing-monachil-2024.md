@@ -11,21 +11,21 @@ description: "2024-07-19 ~ 2024-07-21"
 ## 联系
 
 :fontawesome-solid-envelope: <festivalswingmonachil@gmail.com>  
-:fontawesome-solid-globe: <https://www.festivalinternacionalswing.monachil.es>  
+:fontawesome-solid-globe: <https://www.festivalinternacionalswing.monachil.es>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/FestivaldeSwingMonachil)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/FestivaldeSwingMonachil){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 07:33 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 07:33 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -10,17 +10,17 @@ description: "2024-10-31 ~ 2024-11-03"
 
 ## 联系
 
-:fontawesome-solid-globe: <https://mojoswingcanarias.com/en/eventos/mojo-swing-tropical-fest-2024>  
+:fontawesome-solid-globe: <https://mojoswingcanarias.com/en/eventos/mojo-swing-tropical-fest-2024>{ target='_blank' }  
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -13,17 +13,17 @@ description: "2024-07-06 ~ 2024-07-07"
 
 ---
 
- [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swing4asturias)
+ [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swing4asturias){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 07:28 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 07:28 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

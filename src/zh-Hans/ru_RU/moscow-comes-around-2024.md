@@ -14,21 +14,21 @@ tags:
 ## 联系
 
 :fontawesome-solid-envelope: <moscowcomesaround@gmail.com>  
-:fontawesome-solid-globe: <https://moscowcomesaround.ru>  
+:fontawesome-solid-globe: <https://moscowcomesaround.ru>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/moscowcomesaround) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/moscowcomesaround)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/moscowcomesaround){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/moscowcomesaround){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-11 13:35 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-11 13:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

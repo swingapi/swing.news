@@ -10,21 +10,21 @@ description: "2024-10-25 ~ 2024-10-27"
 
 ## Contact
 
-:fontawesome-solid-globe: <https://swingfestmalaga.webador.es/>  
+:fontawesome-solid-globe: <https://swingfestmalaga.webador.es/>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingfestmalaga)
+ [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingfestmalaga){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -10,21 +10,21 @@ description: "2024-07-19 ~ 2024-07-21"
 
 ## 联系
 
-:fontawesome-solid-globe: <https://swingverguenza.com/2024/03/09/save-the-data-jazzswing/>  
+:fontawesome-solid-globe: <https://swingverguenza.com/2024/03/09/save-the-data-jazzswing/>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/3544885612389987)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/events/3544885612389987){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -19,21 +19,21 @@ description: "2024-02-02 ~ 2024-02-04"
 ## Contact
 
 :fontawesome-solid-envelope: <info@rhythmstudiohk.com>  
-:fontawesome-solid-globe: <https://rhythmstudiohk.com/harbour-side-swing-fest>  
+:fontawesome-solid-globe: <https://rhythmstudiohk.com/harbour-side-swing-fest>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

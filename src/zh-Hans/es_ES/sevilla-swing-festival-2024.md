@@ -11,21 +11,21 @@ description: "2024-04-25 ~ 2024-04-28"
 ## 联系
 
 :fontawesome-solid-envelope: <sevillaswing@gmail.com>  
-:fontawesome-solid-globe: <https://sevillaswingfestival.com>  
+:fontawesome-solid-globe: <https://sevillaswingfestival.com>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/SevillaSwingFestival) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/sevillaswing) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@sevillaswingfestival691)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/SevillaSwingFestival){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/sevillaswing){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@sevillaswingfestival691){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-05 06:54 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-05 06:54 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

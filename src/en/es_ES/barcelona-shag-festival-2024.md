@@ -11,21 +11,21 @@ description: "2024-09-20 ~ 2024-09-22"
 ## Contact
 
 :fontawesome-solid-envelope: <shagbcn@gmail.com>  
-:fontawesome-solid-globe: <https://bcn.shag.cat>  
+:fontawesome-solid-globe: <https://bcn.shag.cat>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/bcnshagfestival) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/bcnshagfestival) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@ShagBCN)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/bcnshagfestival){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/bcnshagfestival){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@ShagBCN){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 07:40 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

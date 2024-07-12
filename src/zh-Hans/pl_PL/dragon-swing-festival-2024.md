@@ -11,21 +11,21 @@ description: "2024-11-13 ~ 2024-11-17"
 ## 联系
 
 :fontawesome-solid-envelope: <info@dragonswing.pl>  
-:fontawesome-solid-globe: <https://dragonswing.pl>  
+:fontawesome-solid-globe: <https://dragonswing.pl>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/dragonswing.krakow) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/dragonswingfestival) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/DragonSwingPL)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/dragonswing.krakow){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/dragonswingfestival){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/DragonSwingPL){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -11,21 +11,21 @@ description: "2024-08-16 ~ 2024-08-18"
 ## Contact
 
 :fontawesome-solid-envelope: <balnhop.kr@gmail.com>  
-:fontawesome-solid-globe: <https://balnhop2024.modoo.at>  
+:fontawesome-solid-globe: <https://balnhop2024.modoo.at>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/balnhop.kr) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/balnhop.kr)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/balnhop.kr){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/balnhop.kr){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-06 03:49 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-07-06 03:49 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
