@@ -18,7 +18,7 @@ description: "2024-07-19 ~ 2024-07-21"
 
 ---
 
-[添加到日历](https://swing.news/ics/2024/es_ES/jazz-n-swing-gasteiz-festival-2024){ .md-button }
+[添加到日历](https://swing.news/ics/zh-Hans/2024/es_ES/jazz-n-swing-gasteiz-festival-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

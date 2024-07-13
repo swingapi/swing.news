@@ -32,7 +32,7 @@ description: "2024-05-31 ~ 2024-06-02"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/zh_CN/nanjing-lindy-festival-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/zh_CN/nanjing-lindy-festival-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

@@ -23,7 +23,7 @@ tags:
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/ja_JP/chill-balboa-social-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/ja_JP/chill-balboa-social-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

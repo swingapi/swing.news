@@ -23,7 +23,7 @@ description: "2025-01-10 ~ 2025-01-12"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2025/zh_HK/harbourside-swing-fest-2025){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2025/zh_HK/harbourside-swing-fest-2025.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

@@ -20,7 +20,7 @@ tags:
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/en_US/breat-lakes-balboa-escape-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/en_US/breat-lakes-balboa-escape-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

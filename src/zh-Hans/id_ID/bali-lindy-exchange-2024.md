@@ -20,7 +20,7 @@ description: "2024-07-11 ~ 2024-07-14"
 
 ---
 
-[添加到日历](https://swing.news/ics/2024/id_ID/bali-lindy-exchange-2024){ .md-button }
+[添加到日历](https://swing.news/ics/zh-Hans/2024/id_ID/bali-lindy-exchange-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

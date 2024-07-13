@@ -19,7 +19,7 @@ description: "2024-08-21 ~ 2024-08-24"
 
 ---
 
-[添加到日历](https://swing.news/ics/2024/th_TH/swing-era-2024){ .md-button }
+[添加到日历](https://swing.news/ics/zh-Hans/2024/th_TH/swing-era-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

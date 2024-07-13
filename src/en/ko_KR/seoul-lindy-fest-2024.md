@@ -19,7 +19,7 @@ description: "2024-10-03 ~ 2024-10-06"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/ko_KR/seoul-lindy-fest-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/ko_KR/seoul-lindy-fest-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

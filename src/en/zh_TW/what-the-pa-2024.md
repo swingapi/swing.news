@@ -29,7 +29,7 @@ description: "2024-11-16 ~ 2024-11-17"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/zh_TW/what-the-pa-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/zh_TW/what-the-pa-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

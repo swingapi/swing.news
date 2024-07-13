@@ -20,7 +20,7 @@ description: "2024-07-11 ~ 2024-07-14"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/id_ID/bali-lindy-exchange-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/id_ID/bali-lindy-exchange-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

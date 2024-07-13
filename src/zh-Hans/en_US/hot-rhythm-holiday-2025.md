@@ -24,7 +24,7 @@ description: "2025-02-14 ~ 2025-02-16"
 
 ---
 
-[添加到日历](https://swing.news/ics/2025/en_US/hot-rhythm-holiday-2025){ .md-button }
+[添加到日历](https://swing.news/ics/zh-Hans/2025/en_US/hot-rhythm-holiday-2025.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

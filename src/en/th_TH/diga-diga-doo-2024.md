@@ -18,7 +18,7 @@ description: "2024-09-27 ~ 2024-09-29"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/th_TH/diga-diga-doo-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/th_TH/diga-diga-doo-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

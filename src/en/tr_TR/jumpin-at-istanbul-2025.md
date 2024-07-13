@@ -17,7 +17,7 @@ description: "2025-01-16 ~ 2025-01-19"
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2025/tr_TR/jumpin-at-istanbul-2025){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2025/tr_TR/jumpin-at-istanbul-2025.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

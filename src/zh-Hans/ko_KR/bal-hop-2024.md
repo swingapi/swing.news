@@ -19,7 +19,7 @@ description: "2024-08-16 ~ 2024-08-18"
 
 ---
 
-[添加到日历](https://swing.news/ics/2024/ko_KR/bal-hop-2024){ .md-button }
+[添加到日历](https://swing.news/ics/zh-Hans/2024/ko_KR/bal-hop-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

@@ -23,7 +23,7 @@ C&C 大师工作坊
 
 ---
 
-[Add to Calendar](https://swing.news/ics/2024/zh_CN/claudia-n-coline-workshop-2024){ .md-button }
+[Add to Calendar](https://swing.news/ics/en/2024/zh_CN/claudia-n-coline-workshop-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">

@@ -12,7 +12,7 @@ description: "2024-09-15 ~ 2024-09-17"
 
 ---
 
-[添加到日历](https://swing.news/ics/2024/zh_CN/womens-jazzination-2024){ .md-button }
+[添加到日历](https://swing.news/ics/zh-Hans/2024/zh_CN/womens-jazzination-2024.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
