@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_es_ES_festival-swing-monachil-2024
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240721
+SUMMARY:Festival Swing Monachil
+URL:https://swing.news/es_ES/festival-swing-monachil-2024
+LOCATION:Monachil
+END:VEVENT
+END:VCALENDAR

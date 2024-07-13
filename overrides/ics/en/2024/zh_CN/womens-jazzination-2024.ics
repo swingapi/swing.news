@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh_CN_womens-jazzination-2024
+DTSTART;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240917
+SUMMARY:[WJN 2024] Women's Jazzination • 爵了姐妹
+URL:https://swing.news/zh_CN/womens-jazzination-2024
+LOCATION:Shanghai
+END:VEVENT
+END:VCALENDAR

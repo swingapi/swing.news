@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh_CN_all-balboa-exchange-2024
+DTSTART;VALUE=DATE:20240315
+DTEND;VALUE=DATE:20240317
+SUMMARY:[ABX 2024] All Balboa Exchange
+URL:https://swing.news/zh-Hans/zh_CN/all-balboa-exchange-2024
+LOCATION:Beijing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_es_ES_swim-out-costa-brava-2024
+DTSTART;VALUE=DATE:20240905
+DTEND;VALUE=DATE:20240908
+SUMMARY:Swim Out Costa Brava
+URL:https://swing.news/zh-Hans/es_ES/swim-out-costa-brava-2024
+LOCATION:Llafranc
+END:VEVENT
+END:VCALENDAR

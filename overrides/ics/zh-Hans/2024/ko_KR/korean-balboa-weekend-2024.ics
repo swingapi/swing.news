@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_ko_KR_korean-balboa-weekend-2024
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241117
+SUMMARY:[KBW 2024] Korean Balboa Weekend
+URL:https://swing.news/zh-Hans/ko_KR/korean-balboa-weekend-2024
+LOCATION:Seoul
+END:VEVENT
+END:VCALENDAR

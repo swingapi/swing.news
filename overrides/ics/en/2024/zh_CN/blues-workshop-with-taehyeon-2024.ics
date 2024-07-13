@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh_CN_blues-workshop-with-taehyeon-2024
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:Blues Workshop with Taehyeon
+URL:https://swing.news/zh_CN/blues-workshop-with-taehyeon-2024
+LOCATION:Shenzhen
+END:VEVENT
+END:VCALENDAR
