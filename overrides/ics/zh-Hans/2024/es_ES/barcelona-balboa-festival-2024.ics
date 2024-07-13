@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_es_ES_barcelona-balboa-festival-2024
 DTSTART;VALUE=DATE:20241129
-DTEND;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241202
 SUMMARY:Barcelona Balboa Festival
 URL:https://swing.news/zh-Hans/es_ES/barcelona-balboa-festival-2024
 LOCATION:Barcelona

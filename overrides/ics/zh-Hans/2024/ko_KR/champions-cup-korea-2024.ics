@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_ko_KR_champions-cup-korea-2024
 DTSTART;VALUE=DATE:20240727
-DTEND;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240728
 SUMMARY:Champions Cup Korea
 URL:https://swing.news/zh-Hans/ko_KR/champions-cup-korea-2024
 LOCATION:Seoul

@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_es_ES_swing-ciudad-real-2024
 DTSTART;VALUE=DATE:20241025
-DTEND;VALUE=DATE:20241027
+DTEND;VALUE=DATE:20241028
 SUMMARY:Swing Ciudad Real
 URL:https://swing.news/zh-Hans/es_ES/swing-ciudad-real-2024
 LOCATION:Ciudad Real

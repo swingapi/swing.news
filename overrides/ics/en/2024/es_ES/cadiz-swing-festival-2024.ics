@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_es_ES_cadiz-swing-festival-2024
 DTSTART;VALUE=DATE:20241011
-DTEND;VALUE=DATE:20241013
+DTEND;VALUE=DATE:20241014
 SUMMARY:Cadiz Swing Festival
 URL:https://swing.news/es_ES/cadiz-swing-festival-2024
 LOCATION:Cadiz

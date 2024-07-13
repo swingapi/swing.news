@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_ja_JP_yokohama-cross-street-hop-06-2024
 DTSTART;VALUE=DATE:20240629
-DTEND;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
 SUMMARY:Yokohama Cross Street Hop
 URL:https://swing.news/ja_JP/yokohama-cross-street-hop-06-2024
 LOCATION:Yokohama

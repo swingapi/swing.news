@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_ja_JP_tokyo-balboa-weekend-2024
 DTSTART;VALUE=DATE:20241208
-DTEND;VALUE=DATE:20241210
+DTEND;VALUE=DATE:20241211
 SUMMARY:Tokyo Balboa Weekend
 URL:https://swing.news/zh-Hans/ja_JP/tokyo-balboa-weekend-2024
 LOCATION:Tokyo

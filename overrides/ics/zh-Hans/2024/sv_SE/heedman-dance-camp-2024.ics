@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_sv_SE_heedman-dance-camp-2024
 DTSTART;VALUE=DATE:20240728
-DTEND;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240801
 SUMMARY:Heedman Dance Camp
 URL:https://swing.news/zh-Hans/sv_SE/heedman-dance-camp-2024
 LOCATION:Lulea

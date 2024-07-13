@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_es_ES_barcelona-lindy-exchange-2024
 DTSTART;VALUE=DATE:20240912
-DTEND;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240916
 SUMMARY:[BLE 2024] Barcelona Lindy Exchange
 URL:https://swing.news/es_ES/barcelona-lindy-exchange-2024
 LOCATION:Barcelona

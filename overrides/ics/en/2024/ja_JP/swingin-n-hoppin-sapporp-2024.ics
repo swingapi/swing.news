@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_ja_JP_swingin-n-hoppin-sapporp-2024
 DTSTART;VALUE=DATE:20240629
-DTEND;VALUE=DATE:20240630
+DTEND;VALUE=DATE:20240701
 SUMMARY:Swingin' & Hoppin' Sapporp
 URL:https://swing.news/ja_JP/swingin-n-hoppin-sapporp-2024
 LOCATION:Sapporo

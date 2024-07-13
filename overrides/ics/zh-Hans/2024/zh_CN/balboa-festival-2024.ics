@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_zh_CN_balboa-festival-2024
 DTSTART;VALUE=DATE:20240628
-DTEND;VALUE=DATE:20240630
+DTEND;VALUE=DATE:20240701
 SUMMARY:[BF 2024] Balboa Festival
 URL:https://swing.news/zh-Hans/zh_CN/balboa-festival-2024
 LOCATION:Shanghai

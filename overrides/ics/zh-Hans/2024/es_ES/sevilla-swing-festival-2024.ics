@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_es_ES_sevilla-swing-festival-2024
 DTSTART;VALUE=DATE:20240425
-DTEND;VALUE=DATE:20240428
+DTEND;VALUE=DATE:20240429
 SUMMARY:Sevilla Swing Festival
 URL:https://swing.news/zh-Hans/es_ES/sevilla-swing-festival-2024
 LOCATION:Sevilla

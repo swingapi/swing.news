@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_es_ES_espanish-blues-festival-2024
 DTSTART;VALUE=DATE:20241122
-DTEND;VALUE=DATE:20241124
+DTEND;VALUE=DATE:20241125
 SUMMARY:[ESBF 2024] ESpanish Blues Festival
 URL:https://swing.news/zh-Hans/es_ES/espanish-blues-festival-2024
 LOCATION:Madrid

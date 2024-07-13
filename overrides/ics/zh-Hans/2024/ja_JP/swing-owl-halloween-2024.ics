@@ -3,7 +3,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:swing-news_ja_JP_swing-owl-halloween-2024
 DTSTART;VALUE=DATE:20241026
-DTEND;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
 SUMMARY:Swing OWL Halloween
 URL:https://swing.news/zh-Hans/ja_JP/swing-owl-halloween-2024
 LOCATION:Tokyo
