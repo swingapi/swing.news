@@ -19,6 +19,8 @@ description: "2024-10-03 ~ 2024-10-06"
 
 ---
 
+[添加到日历](https://swing.news/ics/2024/ko_KR/seoul-lindy-fest-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

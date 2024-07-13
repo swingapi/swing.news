@@ -19,6 +19,8 @@ description: "2024-10-25 ~ 2024-10-27"
 
 ---
 
+[Add to Calendar](https://swing.news/ics/2024/es_ES/donosti-belle-swing-festival-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

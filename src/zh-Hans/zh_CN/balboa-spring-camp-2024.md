@@ -15,6 +15,8 @@ description: "2024-04-19 ~ 2024-04-23"
 
 ---
 
+[添加到日历](https://swing.news/ics/2024/zh_CN/balboa-spring-camp-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

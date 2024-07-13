@@ -16,6 +16,8 @@ description: "2024-06-08 ~ 2024-06-10"
 
 ---
 
+[Add to Calendar](https://swing.news/ics/2024/zh_CN/dali-lalla-n-sunny-workshop-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

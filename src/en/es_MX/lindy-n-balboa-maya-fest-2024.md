@@ -19,6 +19,8 @@ description: "2024-11-07 ~ 2024-11-11"
 
 ---
 
+[Add to Calendar](https://swing.news/ics/2024/es_MX/lindy-n-balboa-maya-fest-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

@@ -21,6 +21,8 @@ description: "2024-07-20 ~ 2024-07-21"
 
 ---
 
+[Add to Calendar](https://swing.news/ics/2024/zh_CN/blues-workshop-with-taehyeon-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

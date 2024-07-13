@@ -19,6 +19,8 @@ description: "2024-07-28 ~ 2024-07-31"
 
 ---
 
+[Add to Calendar](https://swing.news/ics/2024/sv_SE/heedman-dance-camp-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

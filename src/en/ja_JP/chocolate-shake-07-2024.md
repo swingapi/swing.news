@@ -22,6 +22,8 @@ description: "2024-07-06"
 
 ---
 
+[Add to Calendar](https://swing.news/ics/2024/ja_JP/chocolate-shake-07-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

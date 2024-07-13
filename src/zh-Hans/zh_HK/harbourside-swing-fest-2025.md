@@ -23,6 +23,8 @@ description: "2025-01-10 ~ 2025-01-12"
 
 ---
 
+[添加到日历](https://swing.news/ics/2025/zh_HK/harbourside-swing-fest-2025){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }

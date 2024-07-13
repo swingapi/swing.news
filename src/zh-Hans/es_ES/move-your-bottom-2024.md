@@ -20,6 +20,8 @@ description: "2024-02-29 ~ 2024-03-03"
 
 ---
 
+[添加到日历](https://swing.news/ics/2024/es_ES/move-your-bottom-2024){ .md-button }
+
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
 [:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
