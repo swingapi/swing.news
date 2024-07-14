@@ -12,7 +12,7 @@ description: "Swing Dance events in Indonesia (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 07-11 ~ 14 | [Bali](by_city.md#bali) | [Bali Lindy Exchange](bali-lindy-exchange-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fid_ID%5D%20%3CName%3E&region=id_ID&province=&city=&org_id=&date_starts=2024-07-&date_ends=2024-07-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fid_ID%5D%20%3CName%3E&region=id_ID&province=&city=&org_id=&date_starts=2024-07-&date_ends=2024-07-){ target='_blank' }
 
 ---
 

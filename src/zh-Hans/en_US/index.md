@@ -12,7 +12,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 02-14 ~ 16 | [德克萨斯州](by_city.md#texas) • 奥斯汀 | [Hot Rhythm Holiday](hot-rhythm-holiday-2025.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fen_US%5D%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2025-02-&date_ends=2025-02-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fen_US%5D%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2025-02-&date_ends=2025-02-){ target='_blank' }
 
 ---
 
@@ -23,14 +23,14 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 09-27 ~ 29 | [伊利诺伊州](by_city.md#illinois) • 芝加哥 | [Breat Lakes Balboa Escape](breat-lakes-balboa-escape-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fen_US%5D%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fen_US%5D%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-){ target='_blank' }
 
 ## 04
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 04-01 ~ 07 | [纽约](by_city.md#new-york) | [Bal Week](bal-week-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fen_US%5D%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2024-04-&date_ends=2024-04-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fen_US%5D%20%3CName%3E&region=en_US&province=&city=&org_id=&date_starts=2024-04-&date_ends=2024-04-){ target='_blank' }
 
 ---
 

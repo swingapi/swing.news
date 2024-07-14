@@ -22,7 +22,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 2024-03-29 ~ 04-01 | [Sharon Davis Workshop](beijing-sharon-davis-workshop-2024.md) | Sharon Davis 摇摆秘籍 |
 | 2024-03-15 ~ 17 | [All Balboa Exchange](all-balboa-exchange-2024.md) |  |
 | 2024-01-05 ~ 07 | [Beijing Balboa Travel](beijing-balboa-travel-2024.md) | 北京巴尔博亚之旅 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -31,7 +31,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-03-22 ~ 24 | [Lindy Hotpot](lindy-hotpot-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Chongqing&city=Chongqing&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Chongqing&city=Chongqing&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -42,7 +42,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-05-17 ~ 22 | [Awozi & Lis Fuzhou Workshop](awozi-n-lis-fuzhou-workshop-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Fujian&city=Fuzhou&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Fujian&city=Fuzhou&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ### <a id=xiamen></a>厦门 { #xiamen }
 
@@ -51,7 +51,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 2024-05-18 ~ 19 | [Kiki House African Dance Workshop](xiamen-kiki-house-african-dance-workshop-2024.md) | 木木之家非洲舞 Workshop |
 | 2024-03-21 ~ 24 | [Awozi & Lis Workshop](xiamen-awozi-n-lis-workshop-2024.md) |  |
 | 2024-03-01 ~ 03 | [Jiaming & Wanyuan Workshop](xiamen-jiaming-n-wanyuan-workshop-2024.md) | 佳铭&婉圆「摇摆之旅」 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Fujian&city=Xiamen&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Fujian&city=Xiamen&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -64,7 +64,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 2024-07-27 ~ 28 | [Balboa Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 2024-07-20 ~ 21 | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
 | 2024-03-15 ~ 17 | [Groove the Blusy Bay](groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -75,7 +75,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-07-05 ~ 07 | [Funs Swing Exchange](funs-swing-exchange-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Hunan&city=Changsha&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Hunan&city=Changsha&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -86,7 +86,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-05-31 ~ 06-02 | [Nanjing Lindy Festival](nanjing-lindy-festival-2024.md) | 爵对莱斯 • 南京林迪节 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Jiangsu&city=Nanjing&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Jiangsu&city=Nanjing&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -104,7 +104,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 2024-05-17 ~ 19 | [Shanghai Blues Camp](shanghai-blues-camp-2024.md) |  |
 | 2024-05-01 ~ 02 | [Jumpin’ Swing](jumping-swing-2024.md) |  |
 | 2024-04-19 ~ 23 | [Balboa Spring Camp](balboa-spring-camp-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Shanghai&city=Shanghai&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Shanghai&city=Shanghai&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -115,7 +115,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-04-19 ~ 21 | [Bouncy Chengdu](bouncy-chengdu-2024.md) | 妖艳儿摇摆节 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Sichuan&city=Chengdu&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Sichuan&city=Chengdu&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -126,7 +126,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-06-08 ~ 10 | [Lalla & Sunny Workshop](dali-lalla-n-sunny-workshop-2024.md) | 摇摆端舞 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Yunnan&city=Dali&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Yunnan&city=Dali&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -137,8 +137,8 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-08-30 ~ 09-01 | [Westlake Swing Carnival](westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Hangzhou&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Hangzhou&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
-[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=&city=&org_id=2024){ .md-button }
+[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=&city=&org_id=2024){ .md-button target='_blank' }
