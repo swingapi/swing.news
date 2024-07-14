@@ -12,7 +12,7 @@ description: "Swing Dance events in Mexico (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 11-07 ~ 11 | [Cancun](by_city.md#cancun) | [Lindy & Balboa Maya Fest](lindy-n-balboa-maya-fest-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fes_MX%5D%20Add%20Event%3A%20%3CName%3E&region=es_MX&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fes_MX%5D%20%3CName%3E&region=es_MX&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-)
 
 ---
 

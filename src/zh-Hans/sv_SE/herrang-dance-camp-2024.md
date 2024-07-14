@@ -41,6 +41,6 @@ description: "2024-07-06 ~ 2024-07-26"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/sv_SE/herrang-dance-camp-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fsv_SE%5D%20Update%20Event%3A%20Herr%C3%A4ng%20Dance%20Camp&region=sv_SE&year=2024&id=herrang-dance-camp-2024&name=Herr%C3%A4ng%20Dance%20Camp&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fsv_SE%5D%20Herr%C3%A4ng%20Dance%20Camp&region=sv_SE&year=2024&id=herrang-dance-camp-2024&name=Herr%C3%A4ng%20Dance%20Camp&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/sv_SE/herrang-dance-camp-2024.json "查看编辑历史"

@@ -35,6 +35,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ru_RU/moscow-comes-around-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fru_RU%5D%20Update%20Event%3A%20Moscow%20Comes%20Around&region=ru_RU&year=2024&id=moscow-comes-around-2024&name=Moscow%20Comes%20Around&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fru_RU%5D%20Moscow%20Comes%20Around&region=ru_RU&year=2024&id=moscow-comes-around-2024&name=Moscow%20Comes%20Around&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ru_RU/moscow-comes-around-2024.json "查看编辑历史"

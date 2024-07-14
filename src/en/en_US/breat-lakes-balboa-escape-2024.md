@@ -33,6 +33,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/en_US/breat-lakes-balboa-escape-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fen_US%5D%20Update%20Event%3A%20Breat%20Lakes%20Balboa%20Escape&region=en_US&year=2024&id=breat-lakes-balboa-escape-2024&name=Breat%20Lakes%20Balboa%20Escape&org_id= "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fen_US%5D%20Breat%20Lakes%20Balboa%20Escape&region=en_US&year=2024&id=breat-lakes-balboa-escape-2024&name=Breat%20Lakes%20Balboa%20Escape&org_id= "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/en_US/breat-lakes-balboa-escape-2024.json "View Edit History"

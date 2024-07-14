@@ -38,6 +38,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/cs_CZ/slow-bal-love-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fcs_CZ%5D%20Update%20Event%3A%20Slow%20Bal%20Love&region=cs_CZ&year=2024&id=slow-bal-love-2024&name=Slow%20Bal%20Love&org_id= "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fcs_CZ%5D%20Slow%20Bal%20Love&region=cs_CZ&year=2024&id=slow-bal-love-2024&name=Slow%20Bal%20Love&org_id= "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/cs_CZ/slow-bal-love-2024.json "View Edit History"

@@ -17,8 +17,8 @@ description: "在韩国举办的摇摆舞活动（以城市划分）。"
 | 2024-08-16 ~ 18 | [BAL & HOP](bal-hop-2024.md) |  |
 | 2024-07-27 ~ 27 | [Champions Cup Korea](champions-cup-korea-2024.md) |  |
 | 2024-06-21 ~ 23 | [Rhythm Korea](rhythm-korea-2024.md) | 리듬코리아 |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fko_KR%5D%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=&date_starts=2024-&date_ends=2024-)
 
 ---
 
-[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=&city=&org_id=2024){ .md-button }
+[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20%3CName%3E&region=ko_KR&province=&city=&org_id=2024){ .md-button }

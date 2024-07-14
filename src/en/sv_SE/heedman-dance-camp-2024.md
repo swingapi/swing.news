@@ -32,6 +32,6 @@ description: "2024-07-28 ~ 2024-07-31"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/sv_SE/heedman-dance-camp-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fsv_SE%5D%20Update%20Event%3A%20Heedman%20Dance%20Camp&region=sv_SE&year=2024&id=heedman-dance-camp-2024&name=Heedman%20Dance%20Camp&org_id= "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fsv_SE%5D%20Heedman%20Dance%20Camp&region=sv_SE&year=2024&id=heedman-dance-camp-2024&name=Heedman%20Dance%20Camp&org_id= "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/sv_SE/heedman-dance-camp-2024.json "View Edit History"

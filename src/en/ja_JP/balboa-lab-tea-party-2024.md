@@ -36,6 +36,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/balboa-lab-tea-party-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Balboa%20Lab%20Tea%20Party&region=ja_JP&year=2024&id=balboa-lab-tea-party-2024&name=Balboa%20Lab%20Tea%20Party&org_id=kawasaki-swing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Balboa%20Lab%20Tea%20Party&region=ja_JP&year=2024&id=balboa-lab-tea-party-2024&name=Balboa%20Lab%20Tea%20Party&org_id=kawasaki-swing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/balboa-lab-tea-party-2024.json "View Edit History"

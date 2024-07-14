@@ -42,6 +42,6 @@ description: "2024-11-16 ~ 2024-11-17"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_TW/what-the-pa-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_TW%5D%20Update%20Event%3A%20What%20The%20PA%21&region=zh_TW&year=2024&id=what-the-pa-2024&name=What%20The%20PA%21&org_id=naughty-swing "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_TW%5D%20What%20The%20PA%21&region=zh_TW&year=2024&id=what-the-pa-2024&name=What%20The%20PA%21&org_id=naughty-swing "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_TW/what-the-pa-2024.json "查看编辑历史"

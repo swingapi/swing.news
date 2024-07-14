@@ -33,6 +33,6 @@ description: "2024-07-11 ~ 2024-07-14"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/id_ID/bali-lindy-exchange-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fid_ID%5D%20Update%20Event%3A%20Bali%20Lindy%20Exchange&region=id_ID&year=2024&id=bali-lindy-exchange-2024&name=Bali%20Lindy%20Exchange&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fid_ID%5D%20Bali%20Lindy%20Exchange&region=id_ID&year=2024&id=bali-lindy-exchange-2024&name=Bali%20Lindy%20Exchange&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/id_ID/bali-lindy-exchange-2024.json "查看编辑历史"

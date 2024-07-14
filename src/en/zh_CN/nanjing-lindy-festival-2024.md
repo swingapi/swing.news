@@ -45,6 +45,6 @@ description: "2024-05-31 ~ 2024-06-02"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/nanjing-lindy-festival-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Nanjing%20Lindy%20Festival&region=zh_CN&year=2024&id=nanjing-lindy-festival-2024&name=Nanjing%20Lindy%20Festival&org_id=laisi-swing-studio "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Nanjing%20Lindy%20Festival&region=zh_CN&year=2024&id=nanjing-lindy-festival-2024&name=Nanjing%20Lindy%20Festival&org_id=laisi-swing-studio "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/nanjing-lindy-festival-2024.json "View Edit History"

@@ -28,6 +28,6 @@ description: "2024-03-22 ~ 2024-03-24"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/lindy-hotpot-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Lindy%20Hotpot&region=zh_CN&year=2024&id=lindy-hotpot-2024&name=Lindy%20Hotpot&org_id=swing-chong-qing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Lindy%20Hotpot&region=zh_CN&year=2024&id=lindy-hotpot-2024&name=Lindy%20Hotpot&org_id=swing-chong-qing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/lindy-hotpot-2024.json "View Edit History"

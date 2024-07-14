@@ -28,6 +28,6 @@ description: "2024-09-06 ~ 2024-09-08"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/beijing-blues-bush-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Beijing%20Blues%20Bush&region=zh_CN&year=2024&id=beijing-blues-bush-2024&name=Beijing%20Blues%20Bush&org_id=blues-beijing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Beijing%20Blues%20Bush&region=zh_CN&year=2024&id=beijing-blues-bush-2024&name=Beijing%20Blues%20Bush&org_id=blues-beijing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/beijing-blues-bush-2024.json "View Edit History"

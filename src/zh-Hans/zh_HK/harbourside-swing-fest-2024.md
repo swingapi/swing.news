@@ -40,6 +40,6 @@ description: "2024-02-02 ~ 2024-02-04"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_HK/harbourside-swing-fest-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_HK%5D%20Update%20Event%3A%20Harbourside%20Swing%20Fest&region=zh_HK&year=2024&id=harbourside-swing-fest-2024&name=Harbourside%20Swing%20Fest&org_id=rhythm-studio "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_HK%5D%20Harbourside%20Swing%20Fest&region=zh_HK&year=2024&id=harbourside-swing-fest-2024&name=Harbourside%20Swing%20Fest&org_id=rhythm-studio "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_HK/harbourside-swing-fest-2024.json "查看编辑历史"

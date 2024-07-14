@@ -34,6 +34,6 @@ description: "2024-07-20 ~ 2024-07-21"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/blues-workshop-with-taehyeon-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Blues%20Workshop%20with%20Taehyeon&region=zh_CN&year=2024&id=blues-workshop-with-taehyeon-2024&name=Blues%20Workshop%20with%20Taehyeon&org_id=walking-the-blues "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Blues%20Workshop%20with%20Taehyeon&region=zh_CN&year=2024&id=blues-workshop-with-taehyeon-2024&name=Blues%20Workshop%20with%20Taehyeon&org_id=walking-the-blues "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/blues-workshop-with-taehyeon-2024.json "View Edit History"

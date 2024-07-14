@@ -28,6 +28,6 @@ description: "2024-05-18 ~ 2024-05-19"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/xiamen-kiki-house-african-dance-workshop-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Kiki%20House%20African%20Dance%20Workshop&region=zh_CN&year=2024&id=xiamen-kiki-house-african-dance-workshop-2024&name=Kiki%20House%20African%20Dance%20Workshop&org_id=amoy-swing "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Kiki%20House%20African%20Dance%20Workshop&region=zh_CN&year=2024&id=xiamen-kiki-house-african-dance-workshop-2024&name=Kiki%20House%20African%20Dance%20Workshop&org_id=amoy-swing "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/xiamen-kiki-house-african-dance-workshop-2024.json "查看编辑历史"

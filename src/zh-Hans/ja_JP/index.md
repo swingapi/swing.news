@@ -12,7 +12,7 @@ description: "在日本举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 12-08 ~ 10 | [东京](by_city.md#tokyo) | [Tokyo Balboa Weekend](tokyo-balboa-weekend-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-12-&date_ends=2024-12-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-12-&date_ends=2024-12-)
 
 ## 10
 
@@ -20,21 +20,21 @@ description: "在日本举办的摇摆舞活动（时间线）。"
 | --- | --- | --- | --- |
 | 10-26 ~ 26 | [东京](by_city.md#tokyo) | [Swing OWL Halloween](swing-owl-halloween-2024.md) |  |
 | 10-11 ~ 13 | [大阪](by_city.md#osaka) | [Osaka Lindy Exchange](osaka-lindy-exchange-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-)
 
 ## 09
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 09-08 ~ 08 | [东京](by_city.md#tokyo) | [Swing OWL](swing-owl-08-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-)
 
 ## 08
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 08-12 ~ 12 | [东京](by_city.md#tokyo) | [Swing Jack!](swing-jack-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-08-&date_ends=2024-08-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-08-&date_ends=2024-08-)
 
 ## 07
 
@@ -43,7 +43,7 @@ description: "在日本举办的摇摆舞活动（时间线）。"
 | 07-27 ~ 27 | [横滨](by_city.md#yokohama) | [Yokohama Cross Street Hop](yokohama-cross-street-hop-07-2024.md) |  |
 | 07-12 ~ 14 | [东京](by_city.md#tokyo) | [Bal In Tokyo](bal-in-tokyo-2024.md) |  |
 | 07-06 ~ 06 | [东京](by_city.md#tokyo) | [Chocolate Shake](chocolate-shake-07-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-07-&date_ends=2024-07-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-07-&date_ends=2024-07-)
 
 ## 06
 
@@ -56,7 +56,7 @@ description: "在日本举办的摇摆舞活动（时间线）。"
 | 06-22 ~ 22 | [东京](by_city.md#tokyo) | [Chocolate Shake](chocolate-shake-06-2024.md) |  |
 | 06-16 ~ 16 | [东京](by_city.md#tokyo) | [Balboa Lab Tea Party](balboa-lab-tea-party-2024.md) |  |
 | 06-15 ~ 15 | [东京](by_city.md#tokyo) | [Chill Balboa Social](chill-balboa-social-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-06-&date_ends=2024-06-)
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=&org_id=&date_starts=2024-06-&date_ends=2024-06-)
 
 ---
 

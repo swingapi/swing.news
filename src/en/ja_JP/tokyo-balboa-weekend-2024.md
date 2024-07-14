@@ -38,6 +38,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/tokyo-balboa-weekend-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Tokyo%20Balboa%20Weekend&region=ja_JP&year=2024&id=tokyo-balboa-weekend-2024&name=Tokyo%20Balboa%20Weekend&org_id=swing-gigolo "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Tokyo%20Balboa%20Weekend&region=ja_JP&year=2024&id=tokyo-balboa-weekend-2024&name=Tokyo%20Balboa%20Weekend&org_id=swing-gigolo "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/tokyo-balboa-weekend-2024.json "View Edit History"

@@ -35,6 +35,6 @@ description: "2024-10-26"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/swing-owl-halloween-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Swing%20OWL%20Halloween&region=ja_JP&year=2024&id=swing-owl-halloween-2024&name=Swing%20OWL%20Halloween&org_id=dancing-bus "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Swing%20OWL%20Halloween&region=ja_JP&year=2024&id=swing-owl-halloween-2024&name=Swing%20OWL%20Halloween&org_id=dancing-bus "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/swing-owl-halloween-2024.json "View Edit History"

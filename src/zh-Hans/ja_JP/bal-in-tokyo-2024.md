@@ -34,6 +34,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/ja_JP/bal-in-tokyo-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Update%20Event%3A%20Bal%20In%20Tokyo&region=ja_JP&year=2024&id=bal-in-tokyo-2024&name=Bal%20In%20Tokyo&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fja_JP%5D%20Bal%20In%20Tokyo&region=ja_JP&year=2024&id=bal-in-tokyo-2024&name=Bal%20In%20Tokyo&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/ja_JP/bal-in-tokyo-2024.json "查看编辑历史"

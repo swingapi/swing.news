@@ -30,6 +30,6 @@ description: "2024-09-20 ~ 2024-09-22"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/es_ES/swing-a-esgaya-2024.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fes_ES%5D%20Update%20Event%3A%20Swing%20A%20Esgaya&region=es_ES&year=2024&id=swing-a-esgaya-2024&name=Swing%20A%20Esgaya&org_id= "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fes_ES%5D%20Swing%20A%20Esgaya&region=es_ES&year=2024&id=swing-a-esgaya-2024&name=Swing%20A%20Esgaya&org_id= "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/es_ES/swing-a-esgaya-2024.json "查看编辑历史"

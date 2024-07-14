@@ -33,7 +33,7 @@ status: timeline
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 11-29 ~ 12-01 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Barcelona Balboa Festival](es_ES/barcelona-balboa-festival-2024.md) |  |
+| 11-29 ~ 12-01 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Barcelona Balboa Festival](es_ES/barcelona-balboa-festival-2024.md) |  |
 | 11-22 ~ 24 | [西班牙](es_ES/index.md) | [马德里](es_ES/by_city.md#madrid) | [ESpanish Blues Festival](es_ES/espanish-blues-festival-2024.md) |  |
 | 11-16 ~ 17 | [台湾](zh_TW/index.md) | [台北](zh_TW/by_city.md#taipei) | [What The PA!](zh_TW/what-the-pa-2024.md) |  |
 | 11-15 ~ 17 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Korean Balboa Weekend](ko_KR/korean-balboa-weekend-2024.md) |  |
@@ -53,7 +53,7 @@ status: timeline
 | 10-13 ~ 20 | [捷克](cs_CZ/index.md) | [布拉格](cs_CZ/by_city.md#prague) | [Slow Bal Love](cs_CZ/slow-bal-love-2024.md) |  |
 | 10-11 ~ 13 | [日本](ja_JP/index.md) | [大阪](ja_JP/by_city.md#osaka) | [Osaka Lindy Exchange](ja_JP/osaka-lindy-exchange-2024.md) |  |
 | 10-11 ~ 13 | [西班牙](es_ES/index.md) | [卡迪斯](es_ES/by_city.md#cadiz) | [Cadiz Swing Festival](es_ES/cadiz-swing-festival-2024.md) |  |
-| 10-04 ~ 06 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Stomp Your Feet](es_ES/stomp-your-feet-2024.md) |  |
+| 10-04 ~ 06 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Stomp Your Feet](es_ES/stomp-your-feet-2024.md) |  |
 | 10-03 ~ 06 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Balboa Weekend](zh_CN/shanghai-balboa-weekend-2024.md) |  |
 | 10-03 ~ 06 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Seoul Lindy Fest](ko_KR/seoul-lindy-fest-2024.md) |  |
 
@@ -68,11 +68,11 @@ status: timeline
 | 09-27 ~ 29 | [美国](en_US/index.md) | [伊利诺伊州](en_US/by_city.md#illinois) • 芝加哥 | [Breat Lakes Balboa Escape](en_US/breat-lakes-balboa-escape-2024.md) |  |
 | 09-20 ~ 22 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Swing Paramount](zh_CN/swing-paramount-2024.md) | 摇摆百乐门 |
 | 09-20 ~ 22 | [西班牙](es_ES/index.md) | [希洪](es_ES/by_city.md#gijon) | [Swing A Esgaya](es_ES/swing-a-esgaya-2024.md) |  |
-| 09-20 ~ 22 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Barcelona Shag Festival](es_ES/barcelona-shag-festival-2024.md) |  |
+| 09-20 ~ 22 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Barcelona Shag Festival](es_ES/barcelona-shag-festival-2024.md) |  |
 | 09-15 ~ 17 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Women's Jazzination](zh_CN/womens-jazzination-2024.md) | 爵了姐妹 |
 | 09-13 ~ 20 | [西班牙](es_ES/index.md) | [瓦伦西亚](es_ES/by_city.md#valencia) | [The Jump](es_ES/the-jump-2024.md) |  |
 | 09-13 ~ 15 | [俄罗斯](ru_RU/index.md) | [莫斯科](ru_RU/by_city.md#moscow) | [Moscow Comes Around](ru_RU/moscow-comes-around-2024.md) |  |
-| 09-12 ~ 15 | [西班牙](es_ES/index.md) | [Barcelona](es_ES/by_city.md#barcelona) | [Barcelona Lindy Exchange](es_ES/barcelona-lindy-exchange-2024.md) |  |
+| 09-12 ~ 15 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Barcelona Lindy Exchange](es_ES/barcelona-lindy-exchange-2024.md) |  |
 | 09-08 ~ 08 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-08-2024.md) |  |
 | 09-06 ~ 09 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Claudia & Coline Workshop](zh_CN/claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
 | 09-06 ~ 08 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Blues Bush](zh_CN/beijing-blues-bush-2024.md) |  |

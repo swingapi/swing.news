@@ -32,6 +32,6 @@ description: "2024-11-07 ~ 2024-11-11"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/es_MX/lindy-n-balboa-maya-fest-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fes_MX%5D%20Update%20Event%3A%20Lindy%20%26%20Balboa%20Maya%20Fest&region=es_MX&year=2024&id=lindy-n-balboa-maya-fest-2024&name=Lindy%20%26%20Balboa%20Maya%20Fest&org_id= "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fes_MX%5D%20Lindy%20%26%20Balboa%20Maya%20Fest&region=es_MX&year=2024&id=lindy-n-balboa-maya-fest-2024&name=Lindy%20%26%20Balboa%20Maya%20Fest&org_id= "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/es_MX/lindy-n-balboa-maya-fest-2024.json "View Edit History"

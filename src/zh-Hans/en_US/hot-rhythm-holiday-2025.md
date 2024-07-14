@@ -37,6 +37,6 @@ description: "2025-02-14 ~ 2025-02-16"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2025/en_US/hot-rhythm-holiday-2025.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2025%2Fen_US%5D%20Update%20Event%3A%20Hot%20Rhythm%20Holiday&region=en_US&year=2025&id=hot-rhythm-holiday-2025&name=Hot%20Rhythm%20Holiday&org_id=hot-rhythm-foundation "编辑信息"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2025%2Fen_US%5D%20Hot%20Rhythm%20Holiday&region=en_US&year=2025&id=hot-rhythm-holiday-2025&name=Hot%20Rhythm%20Holiday&org_id=hot-rhythm-foundation "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2025/en_US/hot-rhythm-holiday-2025.json "查看编辑历史"

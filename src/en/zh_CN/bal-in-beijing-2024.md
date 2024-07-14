@@ -37,6 +37,6 @@ tags:
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/zh_CN/bal-in-beijing-2024.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Update%20Event%3A%20Bal%20In%20Beijing&region=zh_CN&year=2024&id=bal-in-beijing-2024&name=Bal%20In%20Beijing&org_id=swing-beijing "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fzh_CN%5D%20Bal%20In%20Beijing&region=zh_CN&year=2024&id=bal-in-beijing-2024&name=Bal%20In%20Beijing&org_id=swing-beijing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2024/zh_CN/bal-in-beijing-2024.json "View Edit History"

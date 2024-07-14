@@ -13,7 +13,7 @@ description: "Swing Dance events in Thailand (Grouped by City)."
 | --- | --- | --- |
 | 2024-09-27 ~ 29 | [Diga Diga Doo](diga-diga-doo-2024.md) |  |
 | 2024-08-21 ~ 24 | [Swing Era](swing-era-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fth_TH%5D%20Add%20Event%3A%20%3CName%3E&region=th_TH&province=Bangkok&city=Bangkok&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fth_TH%5D%20%3CName%3E&region=th_TH&province=Bangkok&city=Bangkok&org_id=&date_starts=2024-&date_ends=2024-)
 
 ---
 
@@ -24,8 +24,8 @@ description: "Swing Dance events in Thailand (Grouped by City)."
 | Date | Event | |
 | --- | --- | --- |
 | 2024-05-04 ~ 12 | [Breezy Balboa](breezy-balboa-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fth_TH%5D%20Add%20Event%3A%20%3CName%3E&region=th_TH&province=Prachuap%20Khiri%20Khan&city=Hua%20Hin&org_id=&date_starts=2024-&date_ends=2024-)
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fth_TH%5D%20%3CName%3E&region=th_TH&province=Prachuap%20Khiri%20Khan&city=Hua%20Hin&org_id=&date_starts=2024-&date_ends=2024-)
 
 ---
 
-[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bth_TH%5D%20Add%20Event%3A%20%3CName%3E&region=th_TH&province=&city=&org_id=2024){ .md-button }
+[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bth_TH%5D%20%3CName%3E&region=th_TH&province=&city=&org_id=2024){ .md-button }

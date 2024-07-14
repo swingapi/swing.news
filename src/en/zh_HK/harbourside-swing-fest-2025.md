@@ -36,6 +36,6 @@ description: "2025-01-10 ~ 2025-01-12"
 </div>
 
 [view-raw-source-file]: https://github.com/swingdance/events/blob/main/2025/zh_HK/harbourside-swing-fest-2025.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2025%2Fzh_HK%5D%20Update%20Event%3A%20Harbourside%20Swing%20Fest&region=zh_HK&year=2025&id=harbourside-swing-fest-2025&name=Harbourside%20Swing%20Fest&org_id=rhythm-studio "Edit Info"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2025%2Fzh_HK%5D%20Harbourside%20Swing%20Fest&region=zh_HK&year=2025&id=harbourside-swing-fest-2025&name=Harbourside%20Swing%20Fest&org_id=rhythm-studio "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/events/commits/main/2025/zh_HK/harbourside-swing-fest-2025.json "View Edit History"
