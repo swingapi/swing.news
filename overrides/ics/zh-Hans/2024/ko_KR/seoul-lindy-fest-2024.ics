@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_ko_KR_seoul-lindy-fest-2024
+UID:swing-news_zh-Hans_ko_KR_seoul-lindy-fest-2024
 DTSTART;VALUE=DATE:20241003
 DTEND;VALUE=DATE:20241007
 SUMMARY:Seoul Lindy Fest
 URL:https://swing.news/zh-Hans/ko_KR/seoul-lindy-fest-2024
-LOCATION:Seoul
+LOCATION:首尔
 END:VEVENT
 END:VCALENDAR

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_zh_HK_vasu-n-xinru-balboa-weekend-2024
+UID:swing-news_zh-Hans_zh_HK_vasu-n-xinru-balboa-weekend-2024
 DTSTART;VALUE=DATE:20240927
 DTEND;VALUE=DATE:20240930
 SUMMARY:Vasu & Xinru Balboa Weekend

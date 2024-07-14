@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_zh_CN_swing-paramount-2024
+UID:swing-news_zh-Hans_zh_CN_swing-paramount-2024
 DTSTART;VALUE=DATE:20240920
 DTEND;VALUE=DATE:20240923
 SUMMARY:Swing Paramount • 摇摆百乐门
 URL:https://swing.news/zh-Hans/zh_CN/swing-paramount-2024
-LOCATION:Shanghai
+LOCATION:上海
 END:VEVENT
 END:VCALENDAR

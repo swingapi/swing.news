@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_zh_CN_awozi-n-lis-fuzhou-workshop-2024
+UID:swing-news_zh-Hans_zh_CN_awozi-n-lis-fuzhou-workshop-2024
 DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240523
 SUMMARY:Awozi & Lis Fuzhou Workshop
 URL:https://swing.news/zh-Hans/zh_CN/awozi-n-lis-fuzhou-workshop-2024
-LOCATION:Fuzhou
+LOCATION:福州
 END:VEVENT
 END:VCALENDAR

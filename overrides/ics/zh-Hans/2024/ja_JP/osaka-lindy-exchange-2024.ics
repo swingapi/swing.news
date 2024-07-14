@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_ja_JP_osaka-lindy-exchange-2024
+UID:swing-news_zh-Hans_ja_JP_osaka-lindy-exchange-2024
 DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241014
 SUMMARY:Osaka Lindy Exchange
 URL:https://swing.news/zh-Hans/ja_JP/osaka-lindy-exchange-2024
-LOCATION:Osaka
+LOCATION:大阪
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_ja_JP_bal-in-tokyo-2024
+UID:swing-news_zh-Hans_ja_JP_bal-in-tokyo-2024
 DTSTART;VALUE=DATE:20240712
 DTEND;VALUE=DATE:20240715
 SUMMARY:Bal In Tokyo
 URL:https://swing.news/zh-Hans/ja_JP/bal-in-tokyo-2024
-LOCATION:Tokyo
+LOCATION:东京
 END:VEVENT
 END:VCALENDAR

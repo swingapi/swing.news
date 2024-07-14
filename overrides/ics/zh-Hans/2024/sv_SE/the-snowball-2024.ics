@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_sv_SE_the-snowball-2024
+UID:swing-news_zh-Hans_sv_SE_the-snowball-2024
 DTSTART;VALUE=DATE:20241226
 DTEND;VALUE=DATE:20250101
 SUMMARY:The Snowball
 URL:https://swing.news/zh-Hans/sv_SE/the-snowball-2024
-LOCATION:Stockholm
+LOCATION:斯德哥尔摩
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_ja_JP_chocolate-shake-06-2024
+UID:swing-news_zh-Hans_ja_JP_chocolate-shake-06-2024
 DTSTART;VALUE=DATE:20240622
 DTEND;VALUE=DATE:20240623
 SUMMARY:Chocolate Shake
 URL:https://swing.news/zh-Hans/ja_JP/chocolate-shake-06-2024
-LOCATION:Tokyo
+LOCATION:东京
 END:VEVENT
 END:VCALENDAR
