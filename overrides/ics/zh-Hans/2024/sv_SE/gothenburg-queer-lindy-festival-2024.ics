@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_sv_SE_gothenburg-queer-lindy-festival-2024
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240923
+SUMMARY:Gothenburg Queer Lindy Festival
+URL:https://swing.news/zh-Hans/sv_SE/gothenburg-queer-lindy-festival-2024
+LOCATION:哥特堡
+END:VEVENT
+END:VCALENDAR

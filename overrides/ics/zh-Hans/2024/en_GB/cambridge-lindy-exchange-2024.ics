@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_en_GB_cambridge-lindy-exchange-2024
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241104
+SUMMARY:Cambridge Lindy Exchange
+URL:https://swing.news/zh-Hans/en_GB/cambridge-lindy-exchange-2024
+LOCATION:剑桥
+END:VEVENT
+END:VCALENDAR

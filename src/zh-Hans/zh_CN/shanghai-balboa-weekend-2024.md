@@ -18,8 +18,13 @@ tags:
 
 ???+ venue "场地"
 
-    Holiday Inn Shanghai Hongqiao West Suburbs.  
+    Holiday Inn Shanghai Hongqiao West Suburbs  
+      
     Located at No. 2000, Huqingping Road, Qingpu District, Shanghai  
+      
+    上海虹桥西郊假日酒店  
+      
+    上海市青浦区沪青平公路2000号  
 
 ## 联系
 
@@ -28,7 +33,7 @@ tags:
 
 ---
 
- [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/shanghaibalboaweekend){ target='_blank' }
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551863467704){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/balboaweekend.sh){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@shanghaibalboaweekend){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/mqE-FEsnOip_WfHZLWOa-w){ target='_blank' }
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-07-14 03:51 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

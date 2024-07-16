@@ -7,6 +7,15 @@ description: "在瑞典举办的摇摆舞活动（以城市划分）。"
 
 ---
 
+## <a id=gothenburg></a>[哥特堡](#gothenburg) { #gothenburg }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2024-09-20 ~ 22 | [Gothenburg Queer Lindy Festival](gothenburg-queer-lindy-festival-2024.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fsv_SE%5D%20%3CName%3E&region=sv_SE&province=Gothenburg&city=Gothenburg&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=lulea></a>[吕勒奥](#lulea) { #lulea }
 
 | 日期 | 活动 | |

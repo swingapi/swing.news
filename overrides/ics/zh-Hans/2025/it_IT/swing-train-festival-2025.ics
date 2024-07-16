@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_it_IT_swing-train-festival-2025
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250407
+SUMMARY:Swing Train Festival
+URL:https://swing.news/zh-Hans/it_IT/swing-train-festival-2025
+LOCATION:杜林
+END:VEVENT
+END:VCALENDAR

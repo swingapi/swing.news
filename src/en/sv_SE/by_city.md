@@ -7,6 +7,15 @@ description: "Swing Dance events in Sweden (Grouped by City)."
 
 ---
 
+## <a id=gothenburg></a>[Gothenburg](#gothenburg) { #gothenburg }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-09-20 ~ 22 | [Gothenburg Queer Lindy Festival](gothenburg-queer-lindy-festival-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fsv_SE%5D%20%3CName%3E&region=sv_SE&province=Gothenburg&city=Gothenburg&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=lulea></a>[Lulea](#lulea) { #lulea }
 
 | Date | Event | |

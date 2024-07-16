@@ -16,4 +16,24 @@ description: "Swing Dance events in Mexico (Grouped by City)."
 
 ---
 
+## <a id=jalisco></a>[Jalisco](#jalisco) { #jalisco }
+
+### <a id=guadalajara></a>Guadalajara { #guadalajara }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-11-16 ~ 18 | [Guadalajara Lindy Exchange](guadalajara-lindy-exchange-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fes_MX%5D%20%3CName%3E&region=es_MX&province=Jalisco&city=Guadalajara&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
+## <a id=mexico-city></a>[Mexico City](#mexico-city) { #mexico-city }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-09-13 ~ 16 | [Mexico Lindy Querido](mexico-lindy-querido-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fes_MX%5D%20%3CName%3E&region=es_MX&province=Mexico%20City&city=Mexico%20City&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 [Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bes_MX%5D%20%3CName%3E&region=es_MX&province=&city=&org_id=2024){ .md-button target='_blank' }

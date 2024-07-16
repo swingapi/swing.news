@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_sl_SI_vintage-swing-festival-2024
+DTSTART;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240918
+SUMMARY:Vintage Swing Festival
+URL:https://swing.news/sl_SI/vintage-swing-festival-2024
+LOCATION:Celje
+END:VEVENT
+END:VCALENDAR
