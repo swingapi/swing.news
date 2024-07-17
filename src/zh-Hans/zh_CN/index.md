@@ -7,6 +7,13 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 ## 2024
 
+## 12
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 12-13 ~ 15 | [上海](by_city.md#shanghai) | [Shanghai Lindy Festival](shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=&city=&org_id=&date_starts=2024-12-&date_ends=2024-12-){ target='_blank' }
+
 ## 11
 
 | 日期 | 城市 | 活动 | |

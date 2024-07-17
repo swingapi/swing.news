@@ -72,6 +72,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 12-28 ~ 01-01 | [United States](en_US/index.md) | [Washington](en_US/by_city.md#washington) • Seattle | [Stormy Weather Jazz Festival](en_US/stormy-weather-jazz-festival-2024.md) |  |
 | 12-26 ~ 31 | [Sweden](sv_SE/index.md) | [Stockholm](sv_SE/by_city.md#stockholm) | [The Snowball](sv_SE/the-snowball-2024.md) |  |
+| 12-13 ~ 15 | [China](zh_CN/index.md) | [Shanghai](zh_CN/by_city.md#shanghai) | [Shanghai Lindy Festival](zh_CN/shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
 | 12-13 ~ 15 | [Germany](de_DE/index.md) | [Augsburg](de_DE/by_city.md#augsburg) | [XmaSwing](de_DE/xma-swing-2024.md) |  |
 | 12-13 ~ 15 | [Germany](de_DE/index.md) | [North Rhine-Westphalia](de_DE/by_city.md#north-rhine-westphalia) • Dortmund | [Autumn Leaves The Pott](de_DE/autumn-leaves-the-pott-2024.md) |  |
 | 12-08 ~ 10 | [Japan](ja_JP/index.md) | [Tokyo](ja_JP/by_city.md#tokyo) | [Tokyo Balboa Weekend](ja_JP/tokyo-balboa-weekend-2024.md) |  |
