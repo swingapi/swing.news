@@ -8,60 +8,60 @@ status: timeline
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 05-29 ~ 06-02 | [意大利](it_IT/index.md) | [西尔维·玛丽娜](it_IT/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it_IT/sunny-slide-swing-fest-2025.md) |  |
-| 05-16 ~ 18 | [立陶宛](lt_LT/index.md) | [维尔纽斯](lt_LT/by_city.md#vilnius) | [Uptown Rhythm](lt_LT/uptown-rhythm-2025.md) |  |
-| 05-02 ~ 04 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - May](it_IT/brescia-balboa-series-may-2025.md) |  |
+| 05-29 ~ 06-02 | [意大利](it/index.md) | [西尔维·玛丽娜](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest-2025.md) |  |
+| 05-16 ~ 18 | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm-2025.md) |  |
+| 05-02 ~ 04 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - May](it/brescia-balboa-series-may-2025.md) |  |
 
 ## 04
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 04-25 ~ 27 | [挪威](nb_NO/index.md) | [特隆赫姆](nb_NO/by_city.md#trondheim) | [Bal’heim](nb_NO/bal-heim-2025.md) |  |
-| 04-25 ~ 27 | [德国](de_DE/index.md) | [巴登-符腾堡州](de_DE/by_city.md#baden-wurttemberg) • 蒂宾根 | [Swingcake Tubingen](de_DE/swingcake-tubingen-2025.md) |  |
-| 04-24 ~ 28 | [澳大利亚](en_AU/index.md) | [西澳州](en_AU/by_city.md#western-australia) • 珀斯 | [Hullabaloo](en_AU/hullabaloo-2025.md) |  |
-| 04-04 ~ 06 | [意大利](it_IT/index.md) | [杜林](it_IT/by_city.md#turin) | [Swing Train Festival](it_IT/swing-train-festival-2025.md) |  |
-| 04-04 ~ 06 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Apr](it_IT/brescia-balboa-series-apr-2025.md) |  |
-| 04-04 ~ 06 | [澳大利亚](en_AU/index.md) | [坎培拉](en_AU/by_city.md#canberra) | [Jurassic Bal](en_AU/jurassic-bal-2025.md) |  |
+| 04-25 ~ 27 | [挪威](no/index.md) | [特隆赫姆](no/by_city.md#trondheim) | [Bal’heim](no/bal-heim-2025.md) |  |
+| 04-25 ~ 27 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 蒂宾根 | [Swingcake Tubingen](de/swingcake-tubingen-2025.md) |  |
+| 04-24 ~ 28 | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 珀斯 | [Hullabaloo](au/hullabaloo-2025.md) |  |
+| 04-04 ~ 06 | [意大利](it/index.md) | [杜林](it/by_city.md#turin) | [Swing Train Festival](it/swing-train-festival-2025.md) |  |
+| 04-04 ~ 06 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Apr](it/brescia-balboa-series-apr-2025.md) |  |
+| 04-04 ~ 06 | [澳大利亚](au/index.md) | [坎培拉](au/by_city.md#canberra) | [Jurassic Bal](au/jurassic-bal-2025.md) |  |
 
 ## 03
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 03-14 ~ 16 | [意大利](it_IT/index.md) | [罗马](it_IT/by_city.md#rome) | [Roma Balboa Weekend](it_IT/roma-balboa-weekend-2025.md) |  |
-| 03-07 ~ 09 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Mar](it_IT/brescia-balboa-series-mar-2025.md) |  |
-| 03-07 ~ 09 | [德国](de_DE/index.md) | [达姆施塔特](de_DE/by_city.md#darmstadt) | [B.T.Switch](de_DE/b-t-switch-2025.md) |  |
+| 03-14 ~ 16 | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [Roma Balboa Weekend](it/roma-balboa-weekend-2025.md) |  |
+| 03-07 ~ 09 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Mar](it/brescia-balboa-series-mar-2025.md) |  |
+| 03-07 ~ 09 | [德国](de/index.md) | [达姆施塔特](de/by_city.md#darmstadt) | [B.T.Switch](de/b-t-switch-2025.md) |  |
 
 ## 02
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 02-28 ~ 03-02 | [德国](de_DE/index.md) | [柏林](de_DE/by_city.md#berlin) | [Berlin Balboa Weekend](de_DE/berlin-balboa-weekend-2025.md) |  |
-| 02-27 ~ 03-03 | [德国](de_DE/index.md) | [巴伐利亚自由州](de_DE/by_city.md#bavaria) • 慕尼黑 | [Rock That Swing Festival](de_DE/rock-that-swing-festival-2025.md) |  |
-| 02-14 ~ 16 | [美国](en_US/index.md) | [德克萨斯州](en_US/by_city.md#texas) • 奥斯汀 | [Hot Rhythm Holiday](en_US/hot-rhythm-holiday-2025.md) |  |
-| 02-14 ~ 16 | [瑞士](de_CH/index.md) | [苏黎世](de_CH/by_city.md#zurich) | [Bal-Inspiration](de_CH/bal-inspiration-2025.md) |  |
-| 02-07 ~ 09 | [挪威](nb_NO/index.md) | [卑尔根](nb_NO/by_city.md#bergen) | [Scandinavian Shuffle](nb_NO/scandinavian-shuffle-2025.md) |  |
-| 02-07 ~ 09 | [意大利](it_IT/index.md) | [罗马](it_IT/by_city.md#rome) | [SwingInRoma](it_IT/swing-in-roma-2025.md) |  |
+| 02-28 ~ 03-02 | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Berlin Balboa Weekend](de/berlin-balboa-weekend-2025.md) |  |
+| 02-27 ~ 03-03 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Rock That Swing Festival](de/rock-that-swing-festival-2025.md) |  |
+| 02-14 ~ 16 | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 奥斯汀 | [Hot Rhythm Holiday](us/hot-rhythm-holiday-2025.md) |  |
+| 02-14 ~ 16 | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
+| 02-07 ~ 09 | [挪威](no/index.md) | [卑尔根](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
+| 02-07 ~ 09 | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [SwingInRoma](it/swing-in-roma-2025.md) |  |
 
 ## 01
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 01-31 ~ 02-02 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Feb](it_IT/brescia-balboa-series-feb-2025.md) |  |
-| 01-31 ~ 02-02 | [英国](en_GB/index.md) | [利物浦](en_GB/by_city.md#liverpool) | [Lindy In The Sky with Diamonds](en_GB/lindy-in-the-sky-with-diamonds-2025.md) |  |
-| 01-24 ~ 27 | [澳大利亚](en_AU/index.md) | [南澳州](en_AU/by_city.md#south-australia) • 阿得莱德 | [The Adelaide Lindy Exchange](en_AU/the-adelaide-lindy-exchange-2025.md) |  |
-| 01-24 ~ 26 | [意大利](it_IT/index.md) | [米兰](it_IT/by_city.md#milan) | [Milan Balboa Weekend](it_IT/milan-balboa-weekend-2025.md) |  |
-| 01-24 ~ 26 | [法国](fr_FR/index.md) | [图尔](fr_FR/by_city.md#tours) | [Tours’n Swing](fr_FR/tours-n-swing-2025.md) |  |
-| 01-23 ~ 26 | [波兰](pl_PL/index.md) | [弗罗茨瓦夫](pl_PL/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl_PL/lindy-szaus-birthday-jam-2025.md) |  |
-| 01-23 ~ 26 | [美国](en_US/index.md) | [洛杉矶](en_US/by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](en_US/california-balboa-classic-2025.md) |  |
-| 01-23 ~ 26 | [德国](de_DE/index.md) | [柏林](de_DE/by_city.md#berlin) | [Swing It Berlin!](de_DE/swing-it-berlin-2025.md) |  |
-| 01-17 ~ 19 | [意大利](it_IT/index.md) | [皮斯托亚](it_IT/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Tuscany Balboa Weekend](it_IT/tuscany-balboa-weekend-2025.md) |  |
-| 01-16 ~ 19 | [土耳其](tr_TR/index.md) | [伊斯坦布尔](tr_TR/by_city.md#istanbul) | [Jumpin' at Istanbul](tr_TR/jumpin-at-istanbul-2025.md) |  |
-| 01-10 ~ 12 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest-2025.md) |  |
-| 01-10 ~ 12 | [意大利](it_IT/index.md) | [皮斯托亚](it_IT/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Crazy Blues](it_IT/crazy-blues-2025.md) |  |
-| 01-10 ~ 12 | [法国](fr_FR/index.md) | [图卢兹](fr_FR/by_city.md#toulouse) | [The Battle](fr_FR/the-battle-2025.md) |  |
-| 01-04 ~ 06 | [德国](de_DE/index.md) | [巴伐利亚自由州](de_DE/by_city.md#bavaria) • 慕尼黑 | [Slow Balboa Weekend Munich](de_DE/slow-balboa-weekend-munich-2025.md) |  |
-| 01-03 ~ 06 | [意大利](it_IT/index.md) | [佛罗伦萨](it_IT/by_city.md#florence) | [Keep On Swingin’](it_IT/keep-on-swingin-2025.md) |  |
-| 01-03 ~ 05 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Jan](it_IT/brescia-balboa-series-jan-2025.md) |  |
+| 01-31 ~ 02-02 | [英国](uk/index.md) | [利物浦](uk/by_city.md#liverpool) | [Lindy In The Sky with Diamonds](uk/lindy-in-the-sky-with-diamonds-2025.md) |  |
+| 01-31 ~ 02-02 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Feb](it/brescia-balboa-series-feb-2025.md) |  |
+| 01-24 ~ 27 | [澳大利亚](au/index.md) | [南澳州](au/by_city.md#south-australia) • 阿得莱德 | [The Adelaide Lindy Exchange](au/the-adelaide-lindy-exchange-2025.md) |  |
+| 01-24 ~ 26 | [意大利](it/index.md) | [米兰](it/by_city.md#milan) | [Milan Balboa Weekend](it/milan-balboa-weekend-2025.md) |  |
+| 01-24 ~ 26 | [法国](fr/index.md) | [图尔](fr/by_city.md#tours) | [Tours’n Swing](fr/tours-n-swing-2025.md) |  |
+| 01-23 ~ 26 | [美国](us/index.md) | [洛杉矶](us/by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](us/california-balboa-classic-2025.md) |  |
+| 01-23 ~ 26 | [波兰](pl/index.md) | [弗罗茨瓦夫](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam-2025.md) |  |
+| 01-23 ~ 26 | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Swing It Berlin!](de/swing-it-berlin-2025.md) |  |
+| 01-17 ~ 19 | [意大利](it/index.md) | [皮斯托亚](it/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Tuscany Balboa Weekend](it/tuscany-balboa-weekend-2025.md) |  |
+| 01-16 ~ 19 | [土耳其](tr/index.md) | [伊斯坦布尔](tr/by_city.md#istanbul) | [Jumpin' at Istanbul](tr/jumpin-at-istanbul-2025.md) |  |
+| 01-10 ~ 12 | [意大利](it/index.md) | [皮斯托亚](it/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Crazy Blues](it/crazy-blues-2025.md) |  |
+| 01-10 ~ 12 | [香港](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest-2025.md) |  |
+| 01-10 ~ 12 | [法国](fr/index.md) | [图卢兹](fr/by_city.md#toulouse) | [The Battle](fr/the-battle-2025.md) |  |
+| 01-04 ~ 06 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Slow Balboa Weekend Munich](de/slow-balboa-weekend-munich-2025.md) |  |
+| 01-03 ~ 06 | [意大利](it/index.md) | [佛罗伦萨](it/by_city.md#florence) | [Keep On Swingin’](it/keep-on-swingin-2025.md) |  |
+| 01-03 ~ 05 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Jan](it/brescia-balboa-series-jan-2025.md) |  |
 
 ---
 
@@ -71,285 +71,285 @@ status: timeline
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 12-28 ~ 01-01 | [美国](en_US/index.md) | [华盛顿](en_US/by_city.md#washington) • 西雅图 | [Stormy Weather Jazz Festival](en_US/stormy-weather-jazz-festival-2024.md) |  |
-| 12-26 ~ 31 | [瑞典](sv_SE/index.md) | [斯德哥尔摩](sv_SE/by_city.md#stockholm) | [The Snowball](sv_SE/the-snowball-2024.md) |  |
-| 12-13 ~ 15 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Lindy Festival](zh_CN/shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
-| 12-13 ~ 15 | [德国](de_DE/index.md) | [奥格斯堡](de_DE/by_city.md#augsburg) | [XmaSwing](de_DE/xma-swing-2024.md) |  |
-| 12-13 ~ 15 | [德国](de_DE/index.md) | [北莱茵-威斯特法伦州](de_DE/by_city.md#north-rhine-westphalia) • 多特蒙德 | [Autumn Leaves The Pott](de_DE/autumn-leaves-the-pott-2024.md) |  |
-| 12-08 ~ 10 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Tokyo Balboa Weekend](ja_JP/tokyo-balboa-weekend-2024.md) |  |
-| 12-06 ~ 08 | [法国](fr_FR/index.md) | [图卢兹](fr_FR/by_city.md#toulouse) | [European Balboa Festival](fr_FR/european-balboa-festival-2024.md) |  |
-| 12-06 ~ 08 | [德国](de_DE/index.md) | [达姆施塔特](de_DE/by_city.md#darmstadt) | [Sandy Lewis Workshop](de_DE/sandy-lewis-workshop-2024.md) |  |
-| 12-05 ~ 08 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Savoy Cup Asia](ko_KR/savoy-cup-asia-2024.md) |  |
+| 12-28 ~ 01-01 | [美国](us/index.md) | [华盛顿](us/by_city.md#washington) • 西雅图 | [Stormy Weather Jazz Festival](us/stormy-weather-jazz-festival-2024.md) |  |
+| 12-26 ~ 31 | [瑞典](se/index.md) | [斯德哥尔摩](se/by_city.md#stockholm) | [The Snowball](se/the-snowball-2024.md) |  |
+| 12-13 ~ 15 | [德国](de/index.md) | [奥格斯堡](de/by_city.md#augsburg) | [XmaSwing](de/xma-swing-2024.md) |  |
+| 12-13 ~ 15 | [德国](de/index.md) | [北莱茵-威斯特法伦州](de/by_city.md#north-rhine-westphalia) • 多特蒙德 | [Autumn Leaves The Pott](de/autumn-leaves-the-pott-2024.md) |  |
+| 12-13 ~ 15 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Lindy Festival](cn/shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
+| 12-08 ~ 10 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Tokyo Balboa Weekend](jp/tokyo-balboa-weekend-2024.md) |  |
+| 12-06 ~ 08 | [法国](fr/index.md) | [图卢兹](fr/by_city.md#toulouse) | [European Balboa Festival](fr/european-balboa-festival-2024.md) |  |
+| 12-06 ~ 08 | [德国](de/index.md) | [达姆施塔特](de/by_city.md#darmstadt) | [Sandy Lewis Workshop](de/sandy-lewis-workshop-2024.md) |  |
+| 12-05 ~ 08 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Savoy Cup Asia](kr/savoy-cup-asia-2024.md) |  |
 
 ## 11
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 11-30 ~ 12-01 | [澳大利亚](en_AU/index.md) | [维多利亚州](en_AU/by_city.md#victoria) • 墨尔本 | [Remy & Ramona Weekend](en_AU/remy-n-ramona-weekend-2024.md) |  |
-| 11-29 ~ 12-01 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Barcelona Balboa Festival](es_ES/barcelona-balboa-festival-2024.md) |  |
-| 11-29 ~ 12-01 | [德国](de_DE/index.md) | [下萨克森州](de_DE/by_city.md#lower-saxony) • 施塔德县 | [Hully Hop Swing Farm](de_DE/hully-hop-swing-farm-2024.md) |  |
-| 11-22 ~ 24 | [荷兰](nl_NL/index.md) | [阿姆斯特丹](nl_NL/by_city.md#amsterdam) | [The Vintage Battle of the Bands](nl_NL/the-vintage-battle-of-the-bands-2024.md) |  |
-| 11-22 ~ 24 | [立陶宛](lt_LT/index.md) | [维尔纽斯](lt_LT/by_city.md#vilnius) | [Vilnius Shag Festival](lt_LT/vilnius-shag-festival-2024.md) |  |
-| 11-22 ~ 24 | [西班牙](es_ES/index.md) | [马德里](es_ES/by_city.md#madrid) | [ESpanish Blues Festival](es_ES/espanish-blues-festival-2024.md) |  |
-| 11-22 ~ 24 | [美国](en_US/index.md) | [科罗拉多州](en_US/by_city.md#colorado) • 丹佛 | [Hot Jazz Jamboree](en_US/hot-jazz-jamboree-2024.md) |  |
-| 11-21 ~ 24 | [澳大利亚](en_AU/index.md) | [维多利亚州](en_AU/by_city.md#victoria) • 墨尔本 | [Melbourne Lindy Exchange](en_AU/melbourne-lindy-exchange-2024.md) |  |
-| 11-16 ~ 18 | [墨西哥](es_MX/index.md) | [哈利斯科州](es_MX/by_city.md#jalisco) • 瓜达拉哈拉 | [Guadalajara Lindy Exchange](es_MX/guadalajara-lindy-exchange-2024.md) |  |
-| 11-16 ~ 17 | [台湾](zh_TW/index.md) | [台北](zh_TW/by_city.md#taipei) | [What The PA!](zh_TW/what-the-pa-2024.md) |  |
-| 11-16 ~ 17 | [德国](de_DE/index.md) | [巴登-符腾堡州](de_DE/by_city.md#baden-wurttemberg) • 斯图加特 | [Balboa Date Stuttgart](de_DE/balboa-date-stuttgart-2024.md) |  |
-| 11-15 ~ 17 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Korean Balboa Weekend](ko_KR/korean-balboa-weekend-2024.md) |  |
-| 11-15 ~ 17 | [法国](fr_FR/index.md) | [雷恩](fr_FR/by_city.md#rennes) | [SwinG’amann](fr_FR/swingamann-2024.md) |  |
-| 11-15 ~ 17 | [法国](fr_FR/index.md) | [里昂](fr_FR/by_city.md#lyon) | [Lyon Swing Festival](fr_FR/lyon-swing-festival-2024.md) |  |
-| 11-15 ~ 17 | [美国](en_US/index.md) | [纽约](en_US/by_city.md#new-york) • 罗切斯特 | [Stompology](en_US/stompology-2024.md) |  |
-| 11-15 ~ 17 | [德国](de_DE/index.md) | [奥格斯堡](de_DE/by_city.md#augsburg) | [Augsburg Boogie Festival](de_DE/augsburg-boogie-festival-2024.md) |  |
-| 11-15 ~ 17 | [瑞士](de_CH/index.md) | [苏黎世](de_CH/by_city.md#zurich) | [Stir it!](de_CH/stir-it-2024.md) |  |
-| 11-13 ~ 17 | [波兰](pl_PL/index.md) | [克拉科夫](pl_PL/by_city.md#krakow) | [Dragon Swing Festival](pl_PL/dragon-swing-festival-2024.md) |  |
-| 11-09 ~ 10 | [加拿大](en_CA/index.md) | [不列颠哥伦比亚省](en_CA/by_city.md#british-columbia) • 维多利亚 | [Capital City Stomp](en_CA/capital-city-stomp-2024.md) |  |
-| 11-08 ~ 10 | [荷兰](nl_NL/index.md) | [乌得勒支](nl_NL/by_city.md#utrecht) | [SwingDom](nl_NL/swing-dom-2024.md) |  |
-| 11-08 ~ 10 | [美国](en_US/index.md) | [新墨西哥州](en_US/by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](en_US/breaking-bal-swing-n-blues-weekend-2024.md) |  |
-| 11-08 ~ 10 | [德国](de_DE/index.md) | [石勒苏益格-荷尔斯泰因州](de_DE/by_city.md#schleswig-holstein) • 呂北克 | [Swinging Marzipan Lubeck](de_DE/swinging-marzipan-lubeck-2024.md) |  |
-| 11-08 ~ 10 | [德国](de_DE/index.md) | [巴登-符腾堡州](de_DE/by_city.md#baden-wurttemberg) • 卡尔斯鲁厄 | [Swingin’ Charlie](de_DE/swingin-charlie-2024.md) |  |
-| 11-08 ~ 10 | [瑞士](de_CH/index.md) | [伯恩](de_CH/by_city.md#bern) | [Rocky Balberna](de_CH/rocky-balberna-2024.md) |  |
-| 11-07 ~ 11 | [墨西哥](es_MX/index.md) | [坎昆](es_MX/by_city.md#cancun) | [Lindy & Balboa Maya Fest](es_MX/lindy-n-balboa-maya-fest-2024.md) |  |
-| 11-07 ~ 10 | [希腊](el_GR/index.md) | [雅典](el_GR/by_city.md#athens) | [Wild West Festival](el_GR/wild-west-festival-2024.md) |  |
-| 11-01 ~ 04 | [德国](de_DE/index.md) | [萨克森-安哈尔特州](de_DE/by_city.md#saxony-anhalt) • 马格德堡 | [Broadway Swing](de_DE/broadway-swing-2024.md) |  |
-| 11-01 ~ 03 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Swingtime Ball](zh_CN/swingtime-ball-2024.md) | 摇擺盛典 |
-| 11-01 ~ 03 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Nov](it_IT/brescia-balboa-series-nov-2024.md) |  |
-| 11-01 ~ 03 | [英国](en_GB/index.md) | [和福](en_GB/by_city.md#watford) | [The Savoy Jazz Jam](en_GB/the-savoy-jazz-jam-2024.md) |  |
-| 11-01 ~ 03 | [英国](en_GB/index.md) | [剑桥](en_GB/by_city.md#cambridge) | [Cambridge Lindy Exchange](en_GB/cambridge-lindy-exchange-2024.md) |  |
-| 11-01 ~ 03 | [英国](en_GB/index.md) | [伯明翰](en_GB/by_city.md#birmingham) | [Atomic Cocktail](en_GB/atomic-cocktail-2024.md) |  |
+| 11-30 ~ 12-01 | [澳大利亚](au/index.md) | [维多利亚州](au/by_city.md#victoria) • 墨尔本 | [Remy & Ramona Weekend](au/remy-n-ramona-weekend-2024.md) |  |
+| 11-29 ~ 12-01 | [西班牙](es/index.md) | [巴塞罗那](es/by_city.md#barcelona) | [Barcelona Balboa Festival](es/barcelona-balboa-festival-2024.md) |  |
+| 11-29 ~ 12-01 | [德国](de/index.md) | [下萨克森州](de/by_city.md#lower-saxony) • 施塔德县 | [Hully Hop Swing Farm](de/hully-hop-swing-farm-2024.md) |  |
+| 11-22 ~ 24 | [美国](us/index.md) | [科罗拉多州](us/by_city.md#colorado) • 丹佛 | [Hot Jazz Jamboree](us/hot-jazz-jamboree-2024.md) |  |
+| 11-22 ~ 24 | [荷兰](nl/index.md) | [阿姆斯特丹](nl/by_city.md#amsterdam) | [The Vintage Battle of the Bands](nl/the-vintage-battle-of-the-bands-2024.md) |  |
+| 11-22 ~ 24 | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Vilnius Shag Festival](lt/vilnius-shag-festival-2024.md) |  |
+| 11-22 ~ 24 | [西班牙](es/index.md) | [马德里](es/by_city.md#madrid) | [ESpanish Blues Festival](es/espanish-blues-festival-2024.md) |  |
+| 11-21 ~ 24 | [澳大利亚](au/index.md) | [维多利亚州](au/by_city.md#victoria) • 墨尔本 | [Melbourne Lindy Exchange](au/melbourne-lindy-exchange-2024.md) |  |
+| 11-16 ~ 18 | [墨西哥](mx/index.md) | [哈利斯科州](mx/by_city.md#jalisco) • 瓜达拉哈拉 | [Guadalajara Lindy Exchange](mx/guadalajara-lindy-exchange-2024.md) |  |
+| 11-16 ~ 17 | [台湾](tw/index.md) | [台北](tw/by_city.md#taipei) | [What The PA!](tw/what-the-pa-2024.md) |  |
+| 11-16 ~ 17 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 斯图加特 | [Balboa Date Stuttgart](de/balboa-date-stuttgart-2024.md) |  |
+| 11-15 ~ 17 | [美国](us/index.md) | [纽约](us/by_city.md#new-york) • 罗切斯特 | [Stompology](us/stompology-2024.md) |  |
+| 11-15 ~ 17 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Korean Balboa Weekend](kr/korean-balboa-weekend-2024.md) |  |
+| 11-15 ~ 17 | [法国](fr/index.md) | [雷恩](fr/by_city.md#rennes) | [SwinG’amann](fr/swingamann-2024.md) |  |
+| 11-15 ~ 17 | [法国](fr/index.md) | [里昂](fr/by_city.md#lyon) | [Lyon Swing Festival](fr/lyon-swing-festival-2024.md) |  |
+| 11-15 ~ 17 | [德国](de/index.md) | [奥格斯堡](de/by_city.md#augsburg) | [Augsburg Boogie Festival](de/augsburg-boogie-festival-2024.md) |  |
+| 11-15 ~ 17 | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Stir it!](ch/stir-it-2024.md) |  |
+| 11-13 ~ 17 | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Dragon Swing Festival](pl/dragon-swing-festival-2024.md) |  |
+| 11-09 ~ 10 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 维多利亚 | [Capital City Stomp](ca/capital-city-stomp-2024.md) |  |
+| 11-08 ~ 10 | [美国](us/index.md) | [新墨西哥州](us/by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](us/breaking-bal-swing-n-blues-weekend-2024.md) |  |
+| 11-08 ~ 10 | [荷兰](nl/index.md) | [乌得勒支](nl/by_city.md#utrecht) | [SwingDom](nl/swing-dom-2024.md) |  |
+| 11-08 ~ 10 | [德国](de/index.md) | [石勒苏益格-荷尔斯泰因州](de/by_city.md#schleswig-holstein) • 呂北克 | [Swinging Marzipan Lubeck](de/swinging-marzipan-lubeck-2024.md) |  |
+| 11-08 ~ 10 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 卡尔斯鲁厄 | [Swingin’ Charlie](de/swingin-charlie-2024.md) |  |
+| 11-08 ~ 10 | [瑞士](ch/index.md) | [伯恩](ch/by_city.md#bern) | [Rocky Balberna](ch/rocky-balberna-2024.md) |  |
+| 11-07 ~ 11 | [墨西哥](mx/index.md) | [坎昆](mx/by_city.md#cancun) | [Lindy & Balboa Maya Fest](mx/lindy-n-balboa-maya-fest-2024.md) |  |
+| 11-07 ~ 10 | [希腊](gr/index.md) | [雅典](gr/by_city.md#athens) | [Wild West Festival](gr/wild-west-festival-2024.md) |  |
+| 11-01 ~ 04 | [德国](de/index.md) | [萨克森-安哈尔特州](de/by_city.md#saxony-anhalt) • 马格德堡 | [Broadway Swing](de/broadway-swing-2024.md) |  |
+| 11-01 ~ 03 | [英国](uk/index.md) | [和福](uk/by_city.md#watford) | [The Savoy Jazz Jam](uk/the-savoy-jazz-jam-2024.md) |  |
+| 11-01 ~ 03 | [英国](uk/index.md) | [剑桥](uk/by_city.md#cambridge) | [Cambridge Lindy Exchange](uk/cambridge-lindy-exchange-2024.md) |  |
+| 11-01 ~ 03 | [英国](uk/index.md) | [伯明翰](uk/by_city.md#birmingham) | [Atomic Cocktail](uk/atomic-cocktail-2024.md) |  |
+| 11-01 ~ 03 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Nov](it/brescia-balboa-series-nov-2024.md) |  |
+| 11-01 ~ 03 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Swingtime Ball](cn/swingtime-ball-2024.md) | 摇擺盛典 |
 
 ## 10
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 10-31 ~ 11-03 | [西班牙](es_ES/index.md) | [大加那利岛](es_ES/by_city.md#gran-canaria) | [Mojo Swing Tropical Fest](es_ES/mojo-swing-tropical-fest-2024.md) |  |
-| 10-31 ~ 11-03 | [智利](es_CL/index.md) | [圣地亚哥](es_CL/by_city.md#santiago) | [Lindy poh!](es_CL/lindy-poh-2024.md) |  |
-| 10-31 ~ 11-03 | [德国](de_DE/index.md) | [法兰克福](de_DE/by_city.md#frankfurt) | [Mainhatten Shuffle](de_DE/mainhatten-shuffle-2024.md) |  |
-| 10-26 ~ 27 | [英国](en_GB/index.md) | [布赖顿](en_GB/by_city.md#brighton) | [Swing City Brighton Weekend](en_GB/swing-city-brighton-weekend-2024.md) |  |
-| 10-26 ~ 26 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL Halloween](ja_JP/swing-owl-halloween-2024.md) |  |
-| 10-26 ~ 26 | [澳大利亚](en_AU/index.md) | [维多利亚州](en_AU/by_city.md#victoria) • 墨尔本 | [Lindy Rovale](en_AU/lindy-rovale-2024.md) |  |
-| 10-25 ~ 28 | [美国](en_US/index.md) | [华盛顿](en_US/by_city.md#washington) • 西雅图 | [Emerald City Blues Festival](en_US/emerald-city-blues-festival-2024.md) |  |
-| 10-25 ~ 27 | [比利时](fr_BE/index.md) | [哈瑟尔特](fr_BE/by_city.md#hasselt) | [Boulevard Blues](fr_BE/boulevard-blues-2024.md) |  |
-| 10-25 ~ 27 | [西班牙](es_ES/index.md) | [马拉加](es_ES/by_city.md#malaga) | [Swing Fest Malaga](es_ES/swing-fest-malaga-2024.md) |  |
-| 10-25 ~ 27 | [西班牙](es_ES/index.md) | [雷阿尔城](es_ES/by_city.md#ciudad-real) | [Swing Ciudad Real](es_ES/swing-ciudad-real-2024.md) |  |
-| 10-25 ~ 27 | [西班牙](es_ES/index.md) | [圣塞巴斯蒂安](es_ES/by_city.md#san-sebastian) | [Donosti Belle Swing Festival](es_ES/donosti-belle-swing-festival-2024.md) |  |
-| 10-25 ~ 27 | [加拿大](en_CA/index.md) | [魁北克省](en_CA/by_city.md#quebec) • 蒙特利尔 | [Cat’s Corner Exchange](en_CA/cats-corner-exchange-2024.md) |  |
-| 10-25 ~ 27 | [德国](de_DE/index.md) | [布萊梅](de_DE/by_city.md#bremen) | [Swing Man Tau](de_DE/swing-man-tau-2024.md) |  |
-| 10-25 ~ 27 | [德国](de_DE/index.md) | [巴伐利亚自由州](de_DE/by_city.md#bavaria) • 慕尼黑 | [Munich Balboa & Shag Weekend](de_DE/munich-balboa-n-shag-weekend-2024.md) |  |
-| 10-25 ~ 27 | [丹麦](da_DK/index.md) | [哥本哈根](da_DK/by_city.md#copenhagen) | [Copenhagen Balboa Weekend](da_DK/copenhagen-balboa-weekend-2024.md) |  |
-| 10-18 ~ 20 | [法国](fr_FR/index.md) | [巴黎](fr_FR/by_city.md#paris) | [Rainy Blues](fr_FR/rainy-blues-2024.md) |  |
-| 10-18 ~ 20 | [加拿大](en_CA/index.md) | [不列颠哥伦比亚省](en_CA/by_city.md#british-columbia) • 温哥华 | [Vancouver Balboa Mini Fest](en_CA/vancouver-balboa-mini-fest-2024.md) |  |
-| 10-18 ~ 20 | [德国](de_DE/index.md) | [达姆施塔特](de_DE/by_city.md#darmstadt) | [DA SOLO Jazz Festival](de_DE/da-solo-jazz-festival-2024.md) |  |
-| 10-17 ~ 20 | [挪威](nb_NO/index.md) | [卑尔根](nb_NO/by_city.md#bergen) | [Swing Brother, Swing!](nb_NO/swing-brother-swing-2024.md) |  |
-| 10-13 ~ 20 | [捷克](cs_CZ/index.md) | [布拉格](cs_CZ/by_city.md#prague) | [Slow Bal Love](cs_CZ/slow-bal-love-2024.md) |  |
-| 10-11 ~ 13 | [立陶宛](lt_LT/index.md) | [维尔纽斯](lt_LT/by_city.md#vilnius) | [All Lithuanian Weekend](lt_LT/all-lithuanian-weekend-2024.md) |  |
-| 10-11 ~ 13 | [日本](ja_JP/index.md) | [大阪](ja_JP/by_city.md#osaka) | [Osaka Lindy Exchange](ja_JP/osaka-lindy-exchange-2024.md) |  |
-| 10-11 ~ 13 | [意大利](it_IT/index.md) | [米兰](it_IT/by_city.md#milan) | [Swing’n’Milan](it_IT/swing-n-milan-2024.md) |  |
-| 10-11 ~ 13 | [西班牙](es_ES/index.md) | [卡迪斯](es_ES/by_city.md#cadiz) | [Cadiz Swing Festival](es_ES/cadiz-swing-festival-2024.md) |  |
-| 10-11 ~ 13 | [英国](en_GB/index.md) | [布拉福](en_GB/by_city.md#bradford) | [Northern Slow Bal Celebration](en_GB/northern-slow-bal-celebration-2024.md) |  |
-| 10-11 ~ 13 | [德国](de_DE/index.md) | [柏林](de_DE/by_city.md#berlin) | [Are You Syncopated?!](de_DE/are-you-syncopated-2024.md) |  |
-| 10-05 ~ 07 | [美国](en_US/index.md) | [宾夕法尼亚州](en_US/by_city.md#pennsylvania) • 費城 | [Blues Muse](en_US/blues-muse-2024.md) |  |
-| 10-04 ~ 13 | [希腊](el_GR/index.md) | [克里特岛](el_GR/by_city.md#crete) | [Crete on the Beat](el_GR/crete-on-the-beat-2024.md) |  |
-| 10-04 ~ 06 | [挪威](nb_NO/index.md) | [奥斯陆](nb_NO/by_city.md#oslo) | [Oslo Balboa Weekend](nb_NO/oslo-balboa-weekend-2024.md) |  |
-| 10-04 ~ 06 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Oct](it_IT/brescia-balboa-series-oct-2024.md) |  |
-| 10-04 ~ 06 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Stomp Your Feet](es_ES/stomp-your-feet-2024.md) |  |
-| 10-04 ~ 06 | [英国](en_GB/index.md) | [利物浦](en_GB/by_city.md#liverpool) | [Mersey Swing Smackdown](en_GB/mersey-swing-smackdown-2024.md) |  |
-| 10-03 ~ 06 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Balboa Weekend](zh_CN/shanghai-balboa-weekend-2024.md) |  |
-| 10-03 ~ 06 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Seoul Lindy Fest](ko_KR/seoul-lindy-fest-2024.md) |  |
-| 10-03 ~ 06 | [法国](fr_FR/index.md) | [图卢兹](fr_FR/by_city.md#toulouse) | [Toulouse Swing Exchange](fr_FR/toulouse-swing-exchange-2024.md) |  |
-| 10-03 ~ 06 | [美国](en_US/index.md) | [密苏里州](en_US/by_city.md#missouri) • 圣路易斯 | [STL Getdown](en_US/stl-getdown-2024.md) |  |
-| 10-03 ~ 06 | [德国](de_DE/index.md) | [巴伐利亚自由州](de_DE/by_city.md#bavaria) • 纽伦堡 | [Swingomania](de_DE/swingomania-2024.md) |  |
-| 10-03 ~ 06 | [德国](de_DE/index.md) | [巴登-符腾堡州](de_DE/by_city.md#baden-wurttemberg) • 弗莱堡 | [Lindy Cake](de_DE/lindy-cake-2024.md) |  |
-| 10-03 ~ 06 | [德国](de_DE/index.md) | [北莱茵-威斯特法伦州](de_DE/by_city.md#north-rhine-westphalia) • 科隆 | [Blues Dance Retreat](de_DE/blues-dance-retreat-2024.md) |  |
+| 10-31 ~ 11-03 | [西班牙](es/index.md) | [大加那利岛](es/by_city.md#gran-canaria) | [Mojo Swing Tropical Fest](es/mojo-swing-tropical-fest-2024.md) |  |
+| 10-31 ~ 11-03 | [德国](de/index.md) | [法兰克福](de/by_city.md#frankfurt) | [Mainhatten Shuffle](de/mainhatten-shuffle-2024.md) |  |
+| 10-31 ~ 11-03 | [智利](cl/index.md) | [圣地亚哥](cl/by_city.md#santiago) | [Lindy poh!](cl/lindy-poh-2024.md) |  |
+| 10-26 ~ 27 | [英国](uk/index.md) | [布赖顿](uk/by_city.md#brighton) | [Swing City Brighton Weekend](uk/swing-city-brighton-weekend-2024.md) |  |
+| 10-26 ~ 26 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing OWL Halloween](jp/swing-owl-halloween-2024.md) |  |
+| 10-26 ~ 26 | [澳大利亚](au/index.md) | [维多利亚州](au/by_city.md#victoria) • 墨尔本 | [Lindy Rovale](au/lindy-rovale-2024.md) |  |
+| 10-25 ~ 28 | [美国](us/index.md) | [华盛顿](us/by_city.md#washington) • 西雅图 | [Emerald City Blues Festival](us/emerald-city-blues-festival-2024.md) |  |
+| 10-25 ~ 27 | [西班牙](es/index.md) | [马拉加](es/by_city.md#malaga) | [Swing Fest Malaga](es/swing-fest-malaga-2024.md) |  |
+| 10-25 ~ 27 | [西班牙](es/index.md) | [雷阿尔城](es/by_city.md#ciudad-real) | [Swing Ciudad Real](es/swing-ciudad-real-2024.md) |  |
+| 10-25 ~ 27 | [西班牙](es/index.md) | [圣塞巴斯蒂安](es/by_city.md#san-sebastian) | [Donosti Belle Swing Festival](es/donosti-belle-swing-festival-2024.md) |  |
+| 10-25 ~ 27 | [丹麦](dk/index.md) | [哥本哈根](dk/by_city.md#copenhagen) | [Copenhagen Balboa Weekend](dk/copenhagen-balboa-weekend-2024.md) |  |
+| 10-25 ~ 27 | [德国](de/index.md) | [布萊梅](de/by_city.md#bremen) | [Swing Man Tau](de/swing-man-tau-2024.md) |  |
+| 10-25 ~ 27 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Munich Balboa & Shag Weekend](de/munich-balboa-n-shag-weekend-2024.md) |  |
+| 10-25 ~ 27 | [加拿大](ca/index.md) | [魁北克省](ca/by_city.md#quebec) • 蒙特利尔 | [Cat’s Corner Exchange](ca/cats-corner-exchange-2024.md) |  |
+| 10-25 ~ 27 | [比利时](be/index.md) | [哈瑟尔特](be/by_city.md#hasselt) | [Boulevard Blues](be/boulevard-blues-2024.md) |  |
+| 10-18 ~ 20 | [法国](fr/index.md) | [巴黎](fr/by_city.md#paris) | [Rainy Blues](fr/rainy-blues-2024.md) |  |
+| 10-18 ~ 20 | [德国](de/index.md) | [达姆施塔特](de/by_city.md#darmstadt) | [DA SOLO Jazz Festival](de/da-solo-jazz-festival-2024.md) |  |
+| 10-18 ~ 20 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 温哥华 | [Vancouver Balboa Mini Fest](ca/vancouver-balboa-mini-fest-2024.md) |  |
+| 10-17 ~ 20 | [挪威](no/index.md) | [卑尔根](no/by_city.md#bergen) | [Swing Brother, Swing!](no/swing-brother-swing-2024.md) |  |
+| 10-13 ~ 20 | [捷克](cz/index.md) | [布拉格](cz/by_city.md#prague) | [Slow Bal Love](cz/slow-bal-love-2024.md) |  |
+| 10-11 ~ 13 | [英国](uk/index.md) | [布拉福](uk/by_city.md#bradford) | [Northern Slow Bal Celebration](uk/northern-slow-bal-celebration-2024.md) |  |
+| 10-11 ~ 13 | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [All Lithuanian Weekend](lt/all-lithuanian-weekend-2024.md) |  |
+| 10-11 ~ 13 | [日本](jp/index.md) | [大阪](jp/by_city.md#osaka) | [Osaka Lindy Exchange](jp/osaka-lindy-exchange-2024.md) |  |
+| 10-11 ~ 13 | [意大利](it/index.md) | [米兰](it/by_city.md#milan) | [Swing’n’Milan](it/swing-n-milan-2024.md) |  |
+| 10-11 ~ 13 | [西班牙](es/index.md) | [卡迪斯](es/by_city.md#cadiz) | [Cadiz Swing Festival](es/cadiz-swing-festival-2024.md) |  |
+| 10-11 ~ 13 | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Are You Syncopated?!](de/are-you-syncopated-2024.md) |  |
+| 10-05 ~ 07 | [美国](us/index.md) | [宾夕法尼亚州](us/by_city.md#pennsylvania) • 費城 | [Blues Muse](us/blues-muse-2024.md) |  |
+| 10-04 ~ 13 | [希腊](gr/index.md) | [克里特岛](gr/by_city.md#crete) | [Crete on the Beat](gr/crete-on-the-beat-2024.md) |  |
+| 10-04 ~ 06 | [英国](uk/index.md) | [利物浦](uk/by_city.md#liverpool) | [Mersey Swing Smackdown](uk/mersey-swing-smackdown-2024.md) |  |
+| 10-04 ~ 06 | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [Oslo Balboa Weekend](no/oslo-balboa-weekend-2024.md) |  |
+| 10-04 ~ 06 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Oct](it/brescia-balboa-series-oct-2024.md) |  |
+| 10-04 ~ 06 | [西班牙](es/index.md) | [巴塞罗那](es/by_city.md#barcelona) | [Stomp Your Feet](es/stomp-your-feet-2024.md) |  |
+| 10-03 ~ 06 | [美国](us/index.md) | [密苏里州](us/by_city.md#missouri) • 圣路易斯 | [STL Getdown](us/stl-getdown-2024.md) |  |
+| 10-03 ~ 06 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Seoul Lindy Fest](kr/seoul-lindy-fest-2024.md) |  |
+| 10-03 ~ 06 | [法国](fr/index.md) | [图卢兹](fr/by_city.md#toulouse) | [Toulouse Swing Exchange](fr/toulouse-swing-exchange-2024.md) |  |
+| 10-03 ~ 06 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 纽伦堡 | [Swingomania](de/swingomania-2024.md) |  |
+| 10-03 ~ 06 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 弗莱堡 | [Lindy Cake](de/lindy-cake-2024.md) |  |
+| 10-03 ~ 06 | [德国](de/index.md) | [北莱茵-威斯特法伦州](de/by_city.md#north-rhine-westphalia) • 科隆 | [Blues Dance Retreat](de/blues-dance-retreat-2024.md) |  |
+| 10-03 ~ 06 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Balboa Weekend](cn/shanghai-balboa-weekend-2024.md) |  |
 
 ## 09
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 09-30 ~ 10-06 | [亚美尼亚](hy_AM/index.md) | [埃里温](hy_AM/by_city.md#yerevan) | [Swing Road Armenia](hy_AM/swing-road-armenia-2024.md) |  |
-| 09-28 ~ 29 | [德国](de_DE/index.md) | [巴登-符腾堡州](de_DE/by_city.md#baden-wurttemberg) • 斯图加特 | [Flying Feet Stuttgart](de_DE/flying-feet-stuttgart-2024.md) |  |
-| 09-28 ~ 29 | [德国](de_DE/index.md) | [海德堡](de_DE/by_city.md#heidelberg) | [Boost Lindy Hop Workshop](de_DE/boost-lindy-hop-workshop-2024.md) |  |
-| 09-27 ~ 29 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Vasu & Xinru Balboa Weekend](zh_HK/vasu-n-xinru-balboa-weekend-2024.md) |  |
-| 09-27 ~ 29 | [泰国](th_TH/index.md) | [曼谷](th_TH/by_city.md#bangkok) | [Diga Diga Doo](th_TH/diga-diga-doo-2024.md) |  |
-| 09-27 ~ 29 | [波兰](pl_PL/index.md) | [克拉科夫](pl_PL/by_city.md#krakow) | [Rock the Balboa!](pl_PL/rock-the-balboa-2024.md) |  |
-| 09-27 ~ 29 | [卢森堡](lb_LU/index.md) | [卢森堡市](lb_LU/by_city.md#luxembourg-city) | [Swing the Abbey](lb_LU/swing-the-abbey-2024.md) |  |
-| 09-27 ~ 29 | [法国](fr_FR/index.md) | [德吕梅塔-克拉拉丰](fr_FR/by_city.md#drumettaz-clarafond) | [Savoie Balboa Festival](fr_FR/savoie-balboa-festival-2024.md) |  |
-| 09-27 ~ 29 | [西班牙](es_ES/index.md) | [卡尔佩](es_ES/by_city.md#calpe) | [Calpe Swing Fiesta](es_ES/calpe-swing-fiesta-2024.md) |  |
-| 09-27 ~ 29 | [美国](en_US/index.md) | [伊利诺伊州](en_US/by_city.md#illinois) • 芝加哥 | [Great Lakes Balboa Escape](en_US/great-lakes-balboa-escape-2024.md) |  |
-| 09-27 ~ 29 | [澳大利亚](en_AU/index.md) | [昆士兰州](en_AU/by_city.md#queensland) • 布里斯本 | [Brisbane Balboa Weekend](en_AU/brisbane-balboa-weekend-2024.md) |  |
-| 09-27 ~ 29 | [瑞士](de_CH/index.md) | [日内瓦](de_CH/by_city.md#geneva) | [shaKe that laKe](de_CH/shake-that-lake-2024.md) |  |
-| 09-27 ~ 29 | [丹麦](da_DK/index.md) | [奧胡斯](da_DK/by_city.md#aarhus) | [Why Not Aarhus Lindy Exchange](da_DK/why-not-aarhus-lindy-exchange-2024.md) |  |
-| 09-26 ~ 29 | [加拿大](en_CA/index.md) | [艾伯塔省](en_CA/by_city.md#alberta) • 埃德蒙顿 | [Lindy Harvest](en_CA/lindy-harvest-2024.md) |  |
-| 09-21 ~ 22 | [英国](en_GB/index.md) | [牛津](en_GB/by_city.md#oxford) | [Fast Feet Festival](en_GB/fast-feet-festival-2024.md) |  |
-| 09-20 ~ 23 | [澳大利亚](en_AU/index.md) | [西澳州](en_AU/by_city.md#western-australia) • 玛格丽特河 | [Boogie Down South](en_AU/boogie-down-south-2024.md) |  |
-| 09-20 ~ 22 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Swing Paramount](zh_CN/swing-paramount-2024.md) | 摇摆百乐门 |
-| 09-20 ~ 22 | [瑞典](sv_SE/index.md) | [哥特堡](sv_SE/by_city.md#gothenburg) | [Gothenburg Queer Lindy Festival](sv_SE/gothenburg-queer-lindy-festival-2024.md) |  |
-| 09-20 ~ 22 | [荷兰](nl_NL/index.md) | [海牙](nl_NL/by_city.md#the-hague) | [The Mess Around](nl_NL/the-mess-around-2024.md) |  |
-| 09-20 ~ 22 | [意大利](it_IT/index.md) | [罗马](it_IT/by_city.md#rome) | [Swingala](it_IT/swingala-2024.md) |  |
-| 09-20 ~ 22 | [西班牙](es_ES/index.md) | [希洪](es_ES/by_city.md#gijon) | [Swing A Esgaya](es_ES/swing-a-esgaya-2024.md) |  |
-| 09-20 ~ 22 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Barcelona Shag Festival](es_ES/barcelona-shag-festival-2024.md) |  |
-| 09-20 ~ 22 | [美国](en_US/index.md) | [纽约](en_US/by_city.md#new-york) | [New York Lindy Exchange](en_US/new-york-lindy-exchange-2024.md) |  |
-| 09-20 ~ 22 | [英国](en_GB/index.md) | [新堡](en_GB/by_city.md#newcastle) | [Belta Blues](en_GB/belta-blues-2024.md) |  |
-| 09-20 ~ 22 | [德国](de_DE/index.md) | [下萨克森州](de_DE/by_city.md#lower-saxony) • 施塔德县 | [Hully Blues](de_DE/hully-blues-2024.md) |  |
-| 09-20 ~ 22 | [德国](de_DE/index.md) | [奥格斯堡](de_DE/by_city.md#augsburg) | [Augsburg Balboa Festival](de_DE/augsburg-balboa-festival-2024.md) |  |
-| 09-15 ~ 17 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Women's Jazzination](zh_CN/womens-jazzination-2024.md) | 爵了姐妹 |
-| 09-15 ~ 17 | [斯洛文尼亚](sl_SI/index.md) | [采列](sl_SI/by_city.md#celje) | [Vintage Swing Festival](sl_SI/vintage-swing-festival-2024.md) |  |
-| 09-13 ~ 20 | [西班牙](es_ES/index.md) | [瓦伦西亚](es_ES/by_city.md#valencia) | [The Jump](es_ES/the-jump-2024.md) |  |
-| 09-13 ~ 16 | [墨西哥](es_MX/index.md) | [墨西哥城](es_MX/by_city.md#mexico-city) | [Mexico Lindy Querido](es_MX/mexico-lindy-querido-2024.md) |  |
-| 09-13 ~ 16 | [美国](en_US/index.md) | [科罗拉多州](en_US/by_city.md#colorado) • 丹佛 | [Lindy on the Rocks](en_US/lindy-on-the-rocks-2024.md) |  |
-| 09-13 ~ 16 | [美国](en_US/index.md) | [科罗拉多州](en_US/by_city.md#colorado) • 丹佛 | [Hot Night Fusion Weekend](en_US/hot-night-fusion-weekend-2024.md) |  |
-| 09-13 ~ 15 | [俄罗斯](ru_RU/index.md) | [莫斯科](ru_RU/by_city.md#moscow) | [Moscow Comes Around](ru_RU/moscow-comes-around-2024.md) |  |
-| 09-13 ~ 15 | [法国](fr_FR/index.md) | [图尔](fr_FR/by_city.md#tours) | [Tours’N Balboa](fr_FR/tours-n-balboa-2024.md) |  |
-| 09-13 ~ 15 | [英国](en_GB/index.md) | [爱丁堡](en_GB/by_city.md#edinburgh) | [Edinburgh Lindy Exchange](en_GB/edinburgh-lindy-exchange-2024.md) |  |
-| 09-13 ~ 14 | [澳大利亚](en_AU/index.md) | [维多利亚州](en_AU/by_city.md#victoria) • 墨尔本 | [Spring Mini-Blues Weekend](en_AU/spring-mini-blues-weekend-2024.md) |  |
-| 09-12 ~ 15 | [意大利](it_IT/index.md) | [卡塔尼亚](it_IT/by_city.md#catania) | [Sicily Swing Fest](it_IT/sicily-swing-fest-2024.md) |  |
-| 09-12 ~ 15 | [西班牙](es_ES/index.md) | [巴塞罗那](es_ES/by_city.md#barcelona) | [Barcelona Lindy Exchange](es_ES/barcelona-lindy-exchange-2024.md) |  |
-| 09-08 ~ 08 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-08-2024.md) |  |
-| 09-06 ~ 09 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Claudia & Coline Workshop](zh_CN/claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
-| 09-06 ~ 09 | [英国](en_GB/index.md) | [白金汉郡](en_GB/by_city.md#buckinghamshire) | [Nighthawks Summer Weekender](en_GB/nighthawks-summer-weekender-2024.md) |  |
-| 09-06 ~ 08 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Blues Bush](zh_CN/beijing-blues-bush-2024.md) |  |
-| 09-06 ~ 08 | [挪威](nb_NO/index.md) | [奥斯陆](nb_NO/by_city.md#oslo) | [O’slow](nb_NO/o-slow-2024.md) |  |
-| 09-06 ~ 08 | [美国](en_US/index.md) | [内布拉斯加州](en_US/by_city.md#nebraska) • 奥马哈 | [Cowtown Jamborama](en_US/cowtown-jamborama-2024.md) |  |
-| 09-06 ~ 08 | [英国](en_GB/index.md) | [托基](en_GB/by_city.md#torquay) | [BalBreak at the Livermead Cliff](en_GB/bal-break-at-the-livermead-cliff-2024.md) |  |
-| 09-06 ~ 08 | [德国](de_DE/index.md) | [康士坦茲](de_DE/by_city.md#konstanz) | [Swing it! Konstanz](de_DE/swing-it-konstanz-2024.md) |  |
-| 09-06 ~ 08 | [德国](de_DE/index.md) | [下萨克森州](de_DE/by_city.md#lower-saxony) • 汉诺威 | [Hannover Swing Exchange](de_DE/hannover-swing-exchange-2024.md) |  |
-| 09-06 ~ 08 | [瑞士](de_CH/index.md) | [巴塞尔](de_CH/by_city.md#basel) | [Shag Delight](de_CH/shag-delight-2024.md) |  |
-| 09-05 ~ 09 | [斯洛文尼亚](sl_SI/index.md) | [卢布尔雅那](sl_SI/by_city.md#ljubljana) | [HaniBal Balboa Festival](sl_SI/haniBal-balboa-festival-2024.md) |  |
-| 09-05 ~ 08 | [西班牙](es_ES/index.md) | [雅弗郎其](es_ES/by_city.md#llafranc) | [Swim Out Costa Brava](es_ES/swim-out-costa-brava-2024.md) |  |
+| 09-30 ~ 10-06 | [亚美尼亚](am/index.md) | [埃里温](am/by_city.md#yerevan) | [Swing Road Armenia](am/swing-road-armenia-2024.md) |  |
+| 09-28 ~ 29 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 斯图加特 | [Flying Feet Stuttgart](de/flying-feet-stuttgart-2024.md) |  |
+| 09-28 ~ 29 | [德国](de/index.md) | [海德堡](de/by_city.md#heidelberg) | [Boost Lindy Hop Workshop](de/boost-lindy-hop-workshop-2024.md) |  |
+| 09-27 ~ 29 | [美国](us/index.md) | [伊利诺伊州](us/by_city.md#illinois) • 芝加哥 | [Great Lakes Balboa Escape](us/great-lakes-balboa-escape-2024.md) |  |
+| 09-27 ~ 29 | [泰国](th/index.md) | [曼谷](th/by_city.md#bangkok) | [Diga Diga Doo](th/diga-diga-doo-2024.md) |  |
+| 09-27 ~ 29 | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Rock the Balboa!](pl/rock-the-balboa-2024.md) |  |
+| 09-27 ~ 29 | [卢森堡](lu/index.md) | [卢森堡市](lu/by_city.md#luxembourg-city) | [Swing the Abbey](lu/swing-the-abbey-2024.md) |  |
+| 09-27 ~ 29 | [香港](hk/index.md) | [HK](hk/by_city.md#hk) | [Vasu & Xinru Balboa Weekend](hk/vasu-n-xinru-balboa-weekend-2024.md) |  |
+| 09-27 ~ 29 | [法国](fr/index.md) | [德吕梅塔-克拉拉丰](fr/by_city.md#drumettaz-clarafond) | [Savoie Balboa Festival](fr/savoie-balboa-festival-2024.md) |  |
+| 09-27 ~ 29 | [西班牙](es/index.md) | [卡尔佩](es/by_city.md#calpe) | [Calpe Swing Fiesta](es/calpe-swing-fiesta-2024.md) |  |
+| 09-27 ~ 29 | [丹麦](dk/index.md) | [奧胡斯](dk/by_city.md#aarhus) | [Why Not Aarhus Lindy Exchange](dk/why-not-aarhus-lindy-exchange-2024.md) |  |
+| 09-27 ~ 29 | [瑞士](ch/index.md) | [日内瓦](ch/by_city.md#geneva) | [shaKe that laKe](ch/shake-that-lake-2024.md) |  |
+| 09-27 ~ 29 | [澳大利亚](au/index.md) | [昆士兰州](au/by_city.md#queensland) • 布里斯本 | [Brisbane Balboa Weekend](au/brisbane-balboa-weekend-2024.md) |  |
+| 09-26 ~ 29 | [加拿大](ca/index.md) | [艾伯塔省](ca/by_city.md#alberta) • 埃德蒙顿 | [Lindy Harvest](ca/lindy-harvest-2024.md) |  |
+| 09-21 ~ 22 | [英国](uk/index.md) | [牛津](uk/by_city.md#oxford) | [Fast Feet Festival](uk/fast-feet-festival-2024.md) |  |
+| 09-20 ~ 23 | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 玛格丽特河 | [Boogie Down South](au/boogie-down-south-2024.md) |  |
+| 09-20 ~ 22 | [美国](us/index.md) | [纽约](us/by_city.md#new-york) | [New York Lindy Exchange](us/new-york-lindy-exchange-2024.md) |  |
+| 09-20 ~ 22 | [英国](uk/index.md) | [新堡](uk/by_city.md#newcastle) | [Belta Blues](uk/belta-blues-2024.md) |  |
+| 09-20 ~ 22 | [瑞典](se/index.md) | [哥特堡](se/by_city.md#gothenburg) | [Gothenburg Queer Lindy Festival](se/gothenburg-queer-lindy-festival-2024.md) |  |
+| 09-20 ~ 22 | [荷兰](nl/index.md) | [海牙](nl/by_city.md#the-hague) | [The Mess Around](nl/the-mess-around-2024.md) |  |
+| 09-20 ~ 22 | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [Swingala](it/swingala-2024.md) |  |
+| 09-20 ~ 22 | [西班牙](es/index.md) | [希洪](es/by_city.md#gijon) | [Swing A Esgaya](es/swing-a-esgaya-2024.md) |  |
+| 09-20 ~ 22 | [西班牙](es/index.md) | [巴塞罗那](es/by_city.md#barcelona) | [Barcelona Shag Festival](es/barcelona-shag-festival-2024.md) |  |
+| 09-20 ~ 22 | [德国](de/index.md) | [下萨克森州](de/by_city.md#lower-saxony) • 施塔德县 | [Hully Blues](de/hully-blues-2024.md) |  |
+| 09-20 ~ 22 | [德国](de/index.md) | [奥格斯堡](de/by_city.md#augsburg) | [Augsburg Balboa Festival](de/augsburg-balboa-festival-2024.md) |  |
+| 09-20 ~ 22 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Swing Paramount](cn/swing-paramount-2024.md) | 摇摆百乐门 |
+| 09-15 ~ 17 | [斯洛文尼亚](si/index.md) | [采列](si/by_city.md#celje) | [Vintage Swing Festival](si/vintage-swing-festival-2024.md) |  |
+| 09-15 ~ 17 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Women's Jazzination](cn/womens-jazzination-2024.md) | 爵了姐妹 |
+| 09-13 ~ 20 | [西班牙](es/index.md) | [瓦伦西亚](es/by_city.md#valencia) | [The Jump](es/the-jump-2024.md) |  |
+| 09-13 ~ 16 | [美国](us/index.md) | [科罗拉多州](us/by_city.md#colorado) • 丹佛 | [Lindy on the Rocks](us/lindy-on-the-rocks-2024.md) |  |
+| 09-13 ~ 16 | [美国](us/index.md) | [科罗拉多州](us/by_city.md#colorado) • 丹佛 | [Hot Night Fusion Weekend](us/hot-night-fusion-weekend-2024.md) |  |
+| 09-13 ~ 16 | [墨西哥](mx/index.md) | [墨西哥城](mx/by_city.md#mexico-city) | [Mexico Lindy Querido](mx/mexico-lindy-querido-2024.md) |  |
+| 09-13 ~ 15 | [英国](uk/index.md) | [爱丁堡](uk/by_city.md#edinburgh) | [Edinburgh Lindy Exchange](uk/edinburgh-lindy-exchange-2024.md) |  |
+| 09-13 ~ 15 | [俄罗斯](ru/index.md) | [莫斯科](ru/by_city.md#moscow) | [Moscow Comes Around](ru/moscow-comes-around-2024.md) |  |
+| 09-13 ~ 15 | [法国](fr/index.md) | [图尔](fr/by_city.md#tours) | [Tours’N Balboa](fr/tours-n-balboa-2024.md) |  |
+| 09-13 ~ 14 | [澳大利亚](au/index.md) | [维多利亚州](au/by_city.md#victoria) • 墨尔本 | [Spring Mini-Blues Weekend](au/spring-mini-blues-weekend-2024.md) |  |
+| 09-12 ~ 15 | [意大利](it/index.md) | [卡塔尼亚](it/by_city.md#catania) | [Sicily Swing Fest](it/sicily-swing-fest-2024.md) |  |
+| 09-12 ~ 15 | [西班牙](es/index.md) | [巴塞罗那](es/by_city.md#barcelona) | [Barcelona Lindy Exchange](es/barcelona-lindy-exchange-2024.md) |  |
+| 09-08 ~ 08 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing OWL](jp/swing-owl-08-2024.md) |  |
+| 09-06 ~ 09 | [英国](uk/index.md) | [白金汉郡](uk/by_city.md#buckinghamshire) | [Nighthawks Summer Weekender](uk/nighthawks-summer-weekender-2024.md) |  |
+| 09-06 ~ 09 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Claudia & Coline Workshop](cn/claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
+| 09-06 ~ 08 | [美国](us/index.md) | [内布拉斯加州](us/by_city.md#nebraska) • 奥马哈 | [Cowtown Jamborama](us/cowtown-jamborama-2024.md) |  |
+| 09-06 ~ 08 | [英国](uk/index.md) | [托基](uk/by_city.md#torquay) | [BalBreak at the Livermead Cliff](uk/bal-break-at-the-livermead-cliff-2024.md) |  |
+| 09-06 ~ 08 | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [O’slow](no/o-slow-2024.md) |  |
+| 09-06 ~ 08 | [德国](de/index.md) | [康士坦茲](de/by_city.md#konstanz) | [Swing it! Konstanz](de/swing-it-konstanz-2024.md) |  |
+| 09-06 ~ 08 | [德国](de/index.md) | [下萨克森州](de/by_city.md#lower-saxony) • 汉诺威 | [Hannover Swing Exchange](de/hannover-swing-exchange-2024.md) |  |
+| 09-06 ~ 08 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Beijing Blues Bush](cn/beijing-blues-bush-2024.md) |  |
+| 09-06 ~ 08 | [瑞士](ch/index.md) | [巴塞尔](ch/by_city.md#basel) | [Shag Delight](ch/shag-delight-2024.md) |  |
+| 09-05 ~ 09 | [斯洛文尼亚](si/index.md) | [卢布尔雅那](si/by_city.md#ljubljana) | [HaniBal Balboa Festival](si/haniBal-balboa-festival-2024.md) |  |
+| 09-05 ~ 08 | [西班牙](es/index.md) | [雅弗郎其](es/by_city.md#llafranc) | [Swim Out Costa Brava](es/swim-out-costa-brava-2024.md) |  |
 
 ## 08
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 08-31 ~ 09-01 | [德国](de_DE/index.md) | [奥格斯堡](de_DE/by_city.md#augsburg) | [Lindy Hop Trainingslager](de_DE/lindy-hop-trainingslager-2024.md) |  |
-| 08-30 ~ 09-02 | [美国](en_US/index.md) | [洛杉矶](en_US/by_city.md#los-angeles) • 加利福尼亚州 | [Camp Hollywood](en_US/camp-hollywood-2024.md) |  |
-| 08-30 ~ 09-02 | [加拿大](en_CA/index.md) | [不列颠哥伦比亚省](en_CA/by_city.md#british-columbia) • 温哥华 | [Rhythm City Mess Around](en_CA/rhythm-city-mess-around-2024.md) |  |
-| 08-30 ~ 09-01 | [中国](zh_CN/index.md) | [浙江](zh_CN/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](zh_CN/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
-| 08-30 ~ 09-01 | [英国](en_GB/index.md) | [曼彻斯特](en_GB/by_city.md#manchester) | [Hep to the Hive](en_GB/hep-to-the-hive-2024.md) |  |
-| 08-30 ~ 09-01 | [澳大利亚](en_AU/index.md) | [新南威尔斯州](en_AU/by_city.md#new-south-wales) • 悉尼 | [Sydney Lindy Exchange](en_AU/sydney-lindy-exchange-2024.md) |  |
-| 08-24 ~ 25 | [挪威](nb_NO/index.md) | [奥斯陆](nb_NO/by_city.md#oslo) | [Slow Balboa Boost](nb_NO/slow-balboa-boost-2024.md) |  |
-| 08-23 ~ 25 | [波兰](pl_PL/index.md) | [克拉科夫](pl_PL/by_city.md#krakow) | [Lindy Hop Non Stop](pl_PL/lindy-hop-non-stop-2024.md) |  |
-| 08-23 ~ 25 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Balboario](it_IT/balboario-2024.md) |  |
-| 08-23 ~ 25 | [美国](en_US/index.md) | [明尼苏达州](en_US/by_city.md#minnesota) • 明尼阿波利斯 | [The Uptown Swingout](en_US/the-uptown-swingout-2024.md) |  |
-| 08-23 ~ 25 | [德国](de_DE/index.md) | [汉堡](de_DE/by_city.md#hamburg) | [Shag Ahoi!](de_DE/shag-ahoi-2024.md) |  |
-| 08-22 ~ 25 | [立陶宛](lt_LT/index.md) | [维尔纽斯](lt_LT/by_city.md#vilnius) | [Bluesila](lt_LT/bluesila-2024.md) |  |
-| 08-22 ~ 24 | [德国](de_DE/index.md) | [居特斯洛](de_DE/by_city.md#gutersloh) • 里特贝格 | [Harvest Moon Swing Dance Camp](de_DE/harvest-moon-swing-dance-camp-2024.md) |  |
-| 08-21 ~ 24 | [泰国](th_TH/index.md) | [曼谷](th_TH/by_city.md#bangkok) | [Swing Era](th_TH/swing-era-2024.md) |  |
-| 08-21 ~ 24 | [美国](en_US/index.md) | [新罕布什尔州](en_US/by_city.md#new-hampshire) • 希伯伦 | [Swing Out New Hampshire](en_US/swing-out-new-hampshire-2024.md) |  |
-| 08-18 ~ 26 | [意大利](it_IT/index.md) | [马泰拉省
-马泰拉](it_IT/by_city.md#matera) • 波利科罗 | [Policoro in Swing](it_IT/policoro-in-swing-2024.md) |  |
-| 08-18 ~ 25 | [法国](fr_FR/index.md) | [拉普拉涅-塔朗泰斯](fr_FR/by_city.md#la-plagne-tarentaise) | [La Plagne Swing](fr_FR/la-plagne-swing-2024.md) |  |
-| 08-16 ~ 18 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [BAL & HOP](ko_KR/bal-hop-2024.md) |  |
-| 08-16 ~ 18 | [美国](en_US/index.md) | [亚利桑那州](en_US/by_city.md#arizona) • 梅萨 | [Summer Swing Fest](en_US/summer-swing-fest-2024.md) |  |
-| 08-15 ~ 18 | [立陶宛](lt_LT/index.md) | [朱奥多尼](lt_LT/by_city.md#juodonys) | [What a Jazz Summer Camp](lt_LT/what-a-jazz-summer-camp-2024.md) |  |
-| 08-15 ~ 18 | [德国](de_DE/index.md) | [萨尔兰州](de_DE/by_city.md#saarland) • 萨尔布吕肯 | [Velo-Swing Festival](de_DE/velo-swing-festival-2024.md) |  |
-| 08-14 ~ 18 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Blues Heat](zh_CN/blues-heat-2024.md) | 热能蓝调文化节 |
-| 08-14 ~ 18 | [意大利](it_IT/index.md) | [阿雷佐省
-阿雷佐](it_IT/by_city.md#arezzo) • 菲奥伦蒂诺堡 | [Bal & Lindy Vintage Festival](it_IT/bal-n-lindy-vintage-festival-2024.md) |  |
-| 08-12 ~ 12 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing Jack!](ja_JP/swing-jack-2024.md) |  |
-| 08-04 ~ 17 | [捷克](cs_CZ/index.md) | [布拉格](cs_CZ/by_city.md#prague) | [Bal Love](cs_CZ/bal-love-2024.md) |  |
-| 08-03 ~ 10 | [法国](fr_FR/index.md) | [勒蒙多尔](fr_FR/by_city.md#le-mont-dore) | [Summer Camp Blues Week](fr_FR/summer-camp-blues-week-2024.md) |  |
-| 08-02 ~ 04 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Swing Feast](zh_CN/swing-feast-2024.md) | 摇摆盛宴 |
-| 08-02 ~ 04 | [美国](en_US/index.md) | [宾夕法尼亚州](en_US/by_city.md#pennsylvania) • 費城 | [Rittenhopalooza](en_US/rittenhopalooza-2024.md) |  |
-| 08-01 ~ 04 | [美国](en_US/index.md) | [俄亥俄州](en_US/by_city.md#ohio) • 辛辛那提 | [Cincy Hop](en_US/cincy-hop-2024.md) |  |
+| 08-31 ~ 09-01 | [德国](de/index.md) | [奥格斯堡](de/by_city.md#augsburg) | [Lindy Hop Trainingslager](de/lindy-hop-trainingslager-2024.md) |  |
+| 08-30 ~ 09-02 | [美国](us/index.md) | [洛杉矶](us/by_city.md#los-angeles) • 加利福尼亚州 | [Camp Hollywood](us/camp-hollywood-2024.md) |  |
+| 08-30 ~ 09-02 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 温哥华 | [Rhythm City Mess Around](ca/rhythm-city-mess-around-2024.md) |  |
+| 08-30 ~ 09-01 | [英国](uk/index.md) | [曼彻斯特](uk/by_city.md#manchester) | [Hep to the Hive](uk/hep-to-the-hive-2024.md) |  |
+| 08-30 ~ 09-01 | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](cn/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
+| 08-30 ~ 09-01 | [澳大利亚](au/index.md) | [新南威尔斯州](au/by_city.md#new-south-wales) • 悉尼 | [Sydney Lindy Exchange](au/sydney-lindy-exchange-2024.md) |  |
+| 08-24 ~ 25 | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [Slow Balboa Boost](no/slow-balboa-boost-2024.md) |  |
+| 08-23 ~ 25 | [美国](us/index.md) | [明尼苏达州](us/by_city.md#minnesota) • 明尼阿波利斯 | [The Uptown Swingout](us/the-uptown-swingout-2024.md) |  |
+| 08-23 ~ 25 | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Lindy Hop Non Stop](pl/lindy-hop-non-stop-2024.md) |  |
+| 08-23 ~ 25 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Balboario](it/balboario-2024.md) |  |
+| 08-23 ~ 25 | [德国](de/index.md) | [汉堡](de/by_city.md#hamburg) | [Shag Ahoi!](de/shag-ahoi-2024.md) |  |
+| 08-22 ~ 25 | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Bluesila](lt/bluesila-2024.md) |  |
+| 08-22 ~ 24 | [德国](de/index.md) | [居特斯洛](de/by_city.md#gutersloh) • 里特贝格 | [Harvest Moon Swing Dance Camp](de/harvest-moon-swing-dance-camp-2024.md) |  |
+| 08-21 ~ 24 | [美国](us/index.md) | [新罕布什尔州](us/by_city.md#new-hampshire) • 希伯伦 | [Swing Out New Hampshire](us/swing-out-new-hampshire-2024.md) |  |
+| 08-21 ~ 24 | [泰国](th/index.md) | [曼谷](th/by_city.md#bangkok) | [Swing Era](th/swing-era-2024.md) |  |
+| 08-18 ~ 26 | [意大利](it/index.md) | [马泰拉省
+马泰拉](it/by_city.md#matera) • 波利科罗 | [Policoro in Swing](it/policoro-in-swing-2024.md) |  |
+| 08-18 ~ 25 | [法国](fr/index.md) | [拉普拉涅-塔朗泰斯](fr/by_city.md#la-plagne-tarentaise) | [La Plagne Swing](fr/la-plagne-swing-2024.md) |  |
+| 08-16 ~ 18 | [美国](us/index.md) | [亚利桑那州](us/by_city.md#arizona) • 梅萨 | [Summer Swing Fest](us/summer-swing-fest-2024.md) |  |
+| 08-16 ~ 18 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [BAL & HOP](kr/bal-hop-2024.md) |  |
+| 08-15 ~ 18 | [立陶宛](lt/index.md) | [朱奥多尼](lt/by_city.md#juodonys) | [What a Jazz Summer Camp](lt/what-a-jazz-summer-camp-2024.md) |  |
+| 08-15 ~ 18 | [德国](de/index.md) | [萨尔兰州](de/by_city.md#saarland) • 萨尔布吕肯 | [Velo-Swing Festival](de/velo-swing-festival-2024.md) |  |
+| 08-14 ~ 18 | [意大利](it/index.md) | [阿雷佐省
+阿雷佐](it/by_city.md#arezzo) • 菲奥伦蒂诺堡 | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
+| 08-14 ~ 18 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat-2024.md) | 热能蓝调文化节 |
+| 08-12 ~ 12 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing Jack!](jp/swing-jack-2024.md) |  |
+| 08-04 ~ 17 | [捷克](cz/index.md) | [布拉格](cz/by_city.md#prague) | [Bal Love](cz/bal-love-2024.md) |  |
+| 08-03 ~ 10 | [法国](fr/index.md) | [勒蒙多尔](fr/by_city.md#le-mont-dore) | [Summer Camp Blues Week](fr/summer-camp-blues-week-2024.md) |  |
+| 08-02 ~ 04 | [美国](us/index.md) | [宾夕法尼亚州](us/by_city.md#pennsylvania) • 費城 | [Rittenhopalooza](us/rittenhopalooza-2024.md) |  |
+| 08-02 ~ 04 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Swing Feast](cn/swing-feast-2024.md) | 摇摆盛宴 |
+| 08-01 ~ 04 | [美国](us/index.md) | [俄亥俄州](us/by_city.md#ohio) • 辛辛那提 | [Cincy Hop](us/cincy-hop-2024.md) |  |
 
 ## 07
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 07-31 ~ 08-05 | [意大利](it_IT/index.md) | [特拉蒙蒂](it_IT/by_city.md#tramonti) | [Swing in the Amalfi Coast](it_IT/swing-in-the-amalfi-coast-2024.md) |  |
-| 07-28 ~ 31 | [瑞典](sv_SE/index.md) | [吕勒奥](sv_SE/by_city.md#lulea) | [Heedman Dance Camp](sv_SE/heedman-dance-camp-2024.md) |  |
-| 07-27 ~ 08-03 | [法国](fr_FR/index.md) | [勒蒙多尔](fr_FR/by_city.md#le-mont-dore) | [Summer Camp Lindy Week](fr_FR/summer-camp-lindy-week-2024.md) |  |
-| 07-27 ~ 28 | [中国](zh_CN/index.md) | [广东](zh_CN/by_city.md#guangdong) • 深圳 | [Balboa Greater Bay Workshop](zh_CN/balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
-| 07-27 ~ 27 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Champions Cup Korea](ko_KR/champions-cup-korea-2024.md) |  |
-| 07-27 ~ 27 | [日本](ja_JP/index.md) | [横滨](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-07-2024.md) |  |
-| 07-26 ~ 28 | [中国](zh_CN/index.md) | [浙江](zh_CN/by_city.md#zhejiang) • 杭州 | [Hangzhou Swing 10th Anniversary](zh_CN/hangzhou-swing-10th-anniversary-2024.md) | 摇摆杭州十周年 |
-| 07-26 ~ 28 | [西班牙](es_ES/index.md) | [莫雷利亚](es_ES/by_city.md#morella) | [Morella Swing Weekend](es_ES/morella-swing-weekend-2024.md) |  |
-| 07-26 ~ 28 | [澳大利亚](en_AU/index.md) | [昆士兰州](en_AU/by_city.md#queensland) • 黃金海岸 | [Gold Coast Lindy Fest](en_AU/gold-coast-lindy-fest-2024.md) |  |
-| 07-25 ~ 28 | [法国](fr_FR/index.md) | [昂迪茲](fr_FR/by_city.md#anduze) | [Anduze Jazz Dance Camp](fr_FR/anduze-jazz-dance-camp-2024.md) |  |
-| 07-20 ~ 27 | [法国](fr_FR/index.md) | [勒蒙多尔](fr_FR/by_city.md#le-mont-dore) | [Summer Camp Balboa Week](fr_FR/summer-camp-balboa-week-2024.md) |  |
-| 07-20 ~ 21 | [中国](zh_CN/index.md) | [广东](zh_CN/by_city.md#guangdong) • 深圳 | [Blues Workshop with Taehyeon](zh_CN/blues-workshop-with-taehyeon-2024.md) |  |
-| 07-19 ~ 21 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Jazz Do It](zh_CN/jazz-do-it-2024.md) | 北京林迪舞交流节 |
-| 07-19 ~ 21 | [西班牙](es_ES/index.md) | [维多利亚](es_ES/by_city.md#vitoria) | [Jazz & Swing Gasteiz Festival](es_ES/jazz-n-swing-gasteiz-festival-2024.md) |  |
-| 07-19 ~ 21 | [西班牙](es_ES/index.md) | [莫纳奇尔](es_ES/by_city.md#monachil) | [Festival Swing Monachil](es_ES/festival-swing-monachil-2024.md) |  |
-| 07-19 ~ 21 | [美国](en_US/index.md) | [北卡罗来纳州](en_US/by_city.md#north-carolina) • 达勒姆 | [Flying Home](en_US/flying-home-2024.md) |  |
-| 07-19 ~ 21 | [加拿大](en_CA/index.md) | [艾伯塔省](en_CA/by_city.md#alberta) • 埃德蒙顿 | [Stardust Festival](en_CA/stardust-festival-2024.md) |  |
-| 07-17 ~ 21 | [挪威](nb_NO/index.md) | [杜姆奧斯](nb_NO/by_city.md#dombaas) | [Boogie Feet's Festival](nb_NO/boogie-feets-festival-2024.md) |  |
-| 07-12 ~ 14 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Bal In Tokyo](ja_JP/bal-in-tokyo-2024.md) |  |
-| 07-11 ~ 14 | [印尼](id_ID/index.md) | [巴厘岛](id_ID/by_city.md#bali) | [Bali Lindy Exchange](id_ID/bali-lindy-exchange-2024.md) |  |
-| 07-06 ~ 26 | [瑞典](sv_SE/index.md) | [斯德哥尔摩](sv_SE/by_city.md#stockholm) | [Herräng Dance Camp](sv_SE/herrang-dance-camp-2024.md) |  |
-| 07-06 ~ 07 | [西班牙](es_ES/index.md) | [希洪](es_ES/by_city.md#gijon) | [Metropoli Fest](es_ES/metropoli-fest-2024.md) |  |
-| 07-06 ~ 06 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Chocolate Shake](ja_JP/chocolate-shake-07-2024.md) |  |
-| 07-05 ~ 07 | [中国](zh_CN/index.md) | [湖南](zh_CN/by_city.md#hunan) • 长沙 | [Funs Swing Exchange](zh_CN/funs-swing-exchange-2024.md) |  |
-| 07-05 ~ 07 | [澳大利亚](en_AU/index.md) | [塔斯马尼亚州](en_AU/by_city.md#tasmania) • 霍巴特 | [Winter Swing Festival](en_AU/winter-swing-festival-2024.md) |  |
-| 07-03 ~ 08 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Bal In Beijing](zh_CN/bal-in-beijing-2024.md) |  |
+| 07-31 ~ 08-05 | [意大利](it/index.md) | [特拉蒙蒂](it/by_city.md#tramonti) | [Swing in the Amalfi Coast](it/swing-in-the-amalfi-coast-2024.md) |  |
+| 07-28 ~ 31 | [瑞典](se/index.md) | [吕勒奥](se/by_city.md#lulea) | [Heedman Dance Camp](se/heedman-dance-camp-2024.md) |  |
+| 07-27 ~ 08-03 | [法国](fr/index.md) | [勒蒙多尔](fr/by_city.md#le-mont-dore) | [Summer Camp Lindy Week](fr/summer-camp-lindy-week-2024.md) |  |
+| 07-27 ~ 28 | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 深圳 | [Balboa Greater Bay Workshop](cn/balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
+| 07-27 ~ 27 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Champions Cup Korea](kr/champions-cup-korea-2024.md) |  |
+| 07-27 ~ 27 | [日本](jp/index.md) | [横滨](jp/by_city.md#yokohama) | [Yokohama Cross Street Hop](jp/yokohama-cross-street-hop-07-2024.md) |  |
+| 07-26 ~ 28 | [西班牙](es/index.md) | [莫雷利亚](es/by_city.md#morella) | [Morella Swing Weekend](es/morella-swing-weekend-2024.md) |  |
+| 07-26 ~ 28 | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Hangzhou Swing 10th Anniversary](cn/hangzhou-swing-10th-anniversary-2024.md) | 摇摆杭州十周年 |
+| 07-26 ~ 28 | [澳大利亚](au/index.md) | [昆士兰州](au/by_city.md#queensland) • 黃金海岸 | [Gold Coast Lindy Fest](au/gold-coast-lindy-fest-2024.md) |  |
+| 07-25 ~ 28 | [法国](fr/index.md) | [昂迪茲](fr/by_city.md#anduze) | [Anduze Jazz Dance Camp](fr/anduze-jazz-dance-camp-2024.md) |  |
+| 07-20 ~ 27 | [法国](fr/index.md) | [勒蒙多尔](fr/by_city.md#le-mont-dore) | [Summer Camp Balboa Week](fr/summer-camp-balboa-week-2024.md) |  |
+| 07-20 ~ 21 | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 深圳 | [Blues Workshop with Taehyeon](cn/blues-workshop-with-taehyeon-2024.md) |  |
+| 07-19 ~ 21 | [美国](us/index.md) | [北卡罗来纳州](us/by_city.md#north-carolina) • 达勒姆 | [Flying Home](us/flying-home-2024.md) |  |
+| 07-19 ~ 21 | [西班牙](es/index.md) | [维多利亚](es/by_city.md#vitoria) | [Jazz & Swing Gasteiz Festival](es/jazz-n-swing-gasteiz-festival-2024.md) |  |
+| 07-19 ~ 21 | [西班牙](es/index.md) | [莫纳奇尔](es/by_city.md#monachil) | [Festival Swing Monachil](es/festival-swing-monachil-2024.md) |  |
+| 07-19 ~ 21 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it-2024.md) | 北京林迪舞交流节 |
+| 07-19 ~ 21 | [加拿大](ca/index.md) | [艾伯塔省](ca/by_city.md#alberta) • 埃德蒙顿 | [Stardust Festival](ca/stardust-festival-2024.md) |  |
+| 07-17 ~ 21 | [挪威](no/index.md) | [杜姆奧斯](no/by_city.md#dombaas) | [Boogie Feet's Festival](no/boogie-feets-festival-2024.md) |  |
+| 07-12 ~ 14 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Bal In Tokyo](jp/bal-in-tokyo-2024.md) |  |
+| 07-11 ~ 14 | [印尼](id/index.md) | [巴厘岛](id/by_city.md#bali) | [Bali Lindy Exchange](id/bali-lindy-exchange-2024.md) |  |
+| 07-06 ~ 26 | [瑞典](se/index.md) | [斯德哥尔摩](se/by_city.md#stockholm) | [Herräng Dance Camp](se/herrang-dance-camp-2024.md) |  |
+| 07-06 ~ 07 | [西班牙](es/index.md) | [希洪](es/by_city.md#gijon) | [Metropoli Fest](es/metropoli-fest-2024.md) |  |
+| 07-06 ~ 06 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Chocolate Shake](jp/chocolate-shake-07-2024.md) |  |
+| 07-05 ~ 07 | [中国](cn/index.md) | [湖南](cn/by_city.md#hunan) • 长沙 | [Funs Swing Exchange](cn/funs-swing-exchange-2024.md) |  |
+| 07-05 ~ 07 | [澳大利亚](au/index.md) | [塔斯马尼亚州](au/by_city.md#tasmania) • 霍巴特 | [Winter Swing Festival](au/winter-swing-festival-2024.md) |  |
+| 07-03 ~ 08 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Bal In Beijing](cn/bal-in-beijing-2024.md) |  |
 
 ## 06
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 06-29 ~ 30 | [日本](ja_JP/index.md) | [札幌](ja_JP/by_city.md#sapporo) | [Swingin' & Hoppin' Sapporp](ja_JP/swingin-n-hoppin-sapporp-2024.md) |  |
-| 06-29 ~ 29 | [日本](ja_JP/index.md) | [横滨](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-06-2024.md) |  |
-| 06-28 ~ 30 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Balboa Festival](zh_CN/balboa-festival-2024.md) |  |
-| 06-28 ~ 28 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Tomodachi Swing](ja_JP/tomodachi-swing-2024.md) |  |
-| 06-23 ~ 23 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Swing OWL](ja_JP/swing-owl-06-2024.md) |  |
-| 06-22 ~ 22 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Chocolate Shake](ja_JP/chocolate-shake-06-2024.md) |  |
-| 06-21 ~ 23 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Rhythm Korea](ko_KR/rhythm-korea-2024.md) | 리듬코리아 |
-| 06-16 ~ 16 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Balboa Lab Tea Party](ja_JP/balboa-lab-tea-party-2024.md) |  |
-| 06-15 ~ 15 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Chill Balboa Social](ja_JP/chill-balboa-social-2024.md) |  |
-| 06-14 ~ 16 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Jump for Joy](zh_CN/jump-for-joy-2024.md) |  |
-| 06-08 ~ 10 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Dragon Boat Swing Camp](zh_CN/dragon-boat-swing-camp-2024.md) | 龙舟摇摆训练营 |
-| 06-08 ~ 10 | [中国](zh_CN/index.md) | [云南](zh_CN/by_city.md#yunnan) • 大理 | [Lalla & Sunny Workshop](zh_CN/dali-lalla-n-sunny-workshop-2024.md) | 摇摆端舞 |
-| 06-08 ~ 09 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Vasu & Nan Balboa Workshop](zh_CN/vasu-n-nan-balboa-workshop-2024.md) | 端午工作坊 |
+| 06-29 ~ 30 | [日本](jp/index.md) | [札幌](jp/by_city.md#sapporo) | [Swingin' & Hoppin' Sapporp](jp/swingin-n-hoppin-sapporp-2024.md) |  |
+| 06-29 ~ 29 | [日本](jp/index.md) | [横滨](jp/by_city.md#yokohama) | [Yokohama Cross Street Hop](jp/yokohama-cross-street-hop-06-2024.md) |  |
+| 06-28 ~ 30 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Balboa Festival](cn/balboa-festival-2024.md) |  |
+| 06-28 ~ 28 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Tomodachi Swing](jp/tomodachi-swing-2024.md) |  |
+| 06-23 ~ 23 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing OWL](jp/swing-owl-06-2024.md) |  |
+| 06-22 ~ 22 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Chocolate Shake](jp/chocolate-shake-06-2024.md) |  |
+| 06-21 ~ 23 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Rhythm Korea](kr/rhythm-korea-2024.md) | 리듬코리아 |
+| 06-16 ~ 16 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Balboa Lab Tea Party](jp/balboa-lab-tea-party-2024.md) |  |
+| 06-15 ~ 15 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Chill Balboa Social](jp/chill-balboa-social-2024.md) |  |
+| 06-14 ~ 16 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Jump for Joy](cn/jump-for-joy-2024.md) |  |
+| 06-08 ~ 10 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Dragon Boat Swing Camp](cn/dragon-boat-swing-camp-2024.md) | 龙舟摇摆训练营 |
+| 06-08 ~ 10 | [中国](cn/index.md) | [云南](cn/by_city.md#yunnan) • 大理 | [Lalla & Sunny Workshop](cn/dali-lalla-n-sunny-workshop-2024.md) | 摇摆端舞 |
+| 06-08 ~ 09 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Vasu & Nan Balboa Workshop](cn/vasu-n-nan-balboa-workshop-2024.md) | 端午工作坊 |
 
 ## 05
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 05-31 ~ 06-02 | [中国](zh_CN/index.md) | [江苏](zh_CN/by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](zh_CN/nanjing-lindy-festival-2024.md) | 爵对莱斯 • 南京林迪节 |
-| 05-31 ~ 06-02 | [澳大利亚](en_AU/index.md) | [昆士兰州](en_AU/by_city.md#queensland) • 布里斯本 | [Brisbane Swing Thing](en_AU/brisbane-swing-thing-2024.md) |  |
-| 05-18 ~ 19 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 厦门 | [Kiki House African Dance Workshop](zh_CN/xiamen-kiki-house-african-dance-workshop-2024.md) | 木木之家非洲舞 Workshop |
-| 05-17 ~ 22 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 福州 | [Awozi & Lis Fuzhou Workshop](zh_CN/awozi-n-lis-fuzhou-workshop-2024.md) |  |
-| 05-17 ~ 19 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Shanghai Blues Camp](zh_CN/shanghai-blues-camp-2024.md) |  |
-| 05-17 ~ 19 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Balboa Fever](zh_CN/beijing-balboa-fever-2024.md) | 北京巴尔博亚热旋风 |
-| 05-04 ~ 12 | [泰国](th_TH/index.md) | [巴蜀府](th_TH/by_city.md#prachuap-khiri-khan) • 华欣 | [Breezy Balboa](th_TH/breezy-balboa-2024.md) |  |
-| 05-01 ~ 02 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Jumpin’ Swing](zh_CN/jumping-swing-2024.md) |  |
+| 05-31 ~ 06-02 | [中国](cn/index.md) | [江苏](cn/by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](cn/nanjing-lindy-festival-2024.md) | 爵对莱斯 • 南京林迪节 |
+| 05-31 ~ 06-02 | [澳大利亚](au/index.md) | [昆士兰州](au/by_city.md#queensland) • 布里斯本 | [Brisbane Swing Thing](au/brisbane-swing-thing-2024.md) |  |
+| 05-18 ~ 19 | [中国](cn/index.md) | [福建](cn/by_city.md#fujian) • 厦门 | [Kiki House African Dance Workshop](cn/xiamen-kiki-house-african-dance-workshop-2024.md) | 木木之家非洲舞 Workshop |
+| 05-17 ~ 22 | [中国](cn/index.md) | [福建](cn/by_city.md#fujian) • 福州 | [Awozi & Lis Fuzhou Workshop](cn/awozi-n-lis-fuzhou-workshop-2024.md) |  |
+| 05-17 ~ 19 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Blues Camp](cn/shanghai-blues-camp-2024.md) |  |
+| 05-17 ~ 19 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Beijing Balboa Fever](cn/beijing-balboa-fever-2024.md) | 北京巴尔博亚热旋风 |
+| 05-04 ~ 12 | [泰国](th/index.md) | [巴蜀府](th/by_city.md#prachuap-khiri-khan) • 华欣 | [Breezy Balboa](th/breezy-balboa-2024.md) |  |
+| 05-01 ~ 02 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Jumpin’ Swing](cn/jumping-swing-2024.md) |  |
 
 ## 04
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 04-25 ~ 28 | [西班牙](es_ES/index.md) | [塞维利亚](es_ES/by_city.md#sevilla) | [Sevilla Swing Festival](es_ES/sevilla-swing-festival-2024.md) |  |
-| 04-19 ~ 23 | [中国](zh_CN/index.md) | [上海](zh_CN/by_city.md#shanghai) | [Balboa Spring Camp](zh_CN/balboa-spring-camp-2024.md) |  |
-| 04-19 ~ 21 | [中国](zh_CN/index.md) | [四川](zh_CN/by_city.md#sichuan) • 成都 | [Bouncy Chengdu](zh_CN/bouncy-chengdu-2024.md) | 妖艳儿摇摆节 |
-| 04-01 ~ 07 | [美国](en_US/index.md) | [纽约](en_US/by_city.md#new-york) | [Bal Week](en_US/bal-week-2024.md) |  |
+| 04-25 ~ 28 | [西班牙](es/index.md) | [塞维利亚](es/by_city.md#sevilla) | [Sevilla Swing Festival](es/sevilla-swing-festival-2024.md) |  |
+| 04-19 ~ 23 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Balboa Spring Camp](cn/balboa-spring-camp-2024.md) |  |
+| 04-19 ~ 21 | [中国](cn/index.md) | [四川](cn/by_city.md#sichuan) • 成都 | [Bouncy Chengdu](cn/bouncy-chengdu-2024.md) | 妖艳儿摇摆节 |
+| 04-01 ~ 07 | [美国](us/index.md) | [纽约](us/by_city.md#new-york) | [Bal Week](us/bal-week-2024.md) |  |
 
 ## 03
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 03-29 ~ 04-01 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Sharon Davis Workshop](zh_CN/beijing-sharon-davis-workshop-2024.md) | Sharon Davis 摇摆秘籍 |
-| 03-22 ~ 24 | [中国](zh_CN/index.md) | [重庆](zh_CN/by_city.md#chongqing) | [Lindy Hotpot](zh_CN/lindy-hotpot-2024.md) |  |
-| 03-21 ~ 24 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 厦门 | [Awozi & Lis Workshop](zh_CN/xiamen-awozi-n-lis-workshop-2024.md) |  |
-| 03-15 ~ 17 | [中国](zh_CN/index.md) | [广东](zh_CN/by_city.md#guangdong) • 深圳 | [Groove the Blusy Bay](zh_CN/groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
-| 03-15 ~ 17 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [All Balboa Exchange](zh_CN/all-balboa-exchange-2024.md) |  |
-| 03-08 ~ 10 | [澳大利亚](en_AU/index.md) | [坎培拉](en_AU/by_city.md#canberra) | [Jurassic Bal](en_AU/jurassic-bal-2024.md) |  |
-| 03-01 ~ 03 | [中国](zh_CN/index.md) | [福建](zh_CN/by_city.md#fujian) • 厦门 | [Jiaming & Wanyuan Workshop](zh_CN/xiamen-jiaming-n-wanyuan-workshop-2024.md) | 佳铭&婉圆「摇摆之旅」 |
+| 03-29 ~ 04-01 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Sharon Davis Workshop](cn/beijing-sharon-davis-workshop-2024.md) | Sharon Davis 摇摆秘籍 |
+| 03-22 ~ 24 | [中国](cn/index.md) | [重庆](cn/by_city.md#chongqing) | [Lindy Hotpot](cn/lindy-hotpot-2024.md) |  |
+| 03-21 ~ 24 | [中国](cn/index.md) | [福建](cn/by_city.md#fujian) • 厦门 | [Awozi & Lis Workshop](cn/xiamen-awozi-n-lis-workshop-2024.md) |  |
+| 03-15 ~ 17 | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 深圳 | [Groove the Blusy Bay](cn/groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
+| 03-15 ~ 17 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [All Balboa Exchange](cn/all-balboa-exchange-2024.md) |  |
+| 03-08 ~ 10 | [澳大利亚](au/index.md) | [坎培拉](au/by_city.md#canberra) | [Jurassic Bal](au/jurassic-bal-2024.md) |  |
+| 03-01 ~ 03 | [中国](cn/index.md) | [福建](cn/by_city.md#fujian) • 厦门 | [Jiaming & Wanyuan Workshop](cn/xiamen-jiaming-n-wanyuan-workshop-2024.md) | 佳铭&婉圆「摇摆之旅」 |
 
 ## 02
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 02-29 ~ 03-03 | [西班牙](es_ES/index.md) | [瓦伦西亚](es_ES/by_city.md#valencia) | [Move Your Bottom](es_ES/move-your-bottom-2024.md) |  |
-| 02-02 ~ 04 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest-2024.md) |  |
+| 02-29 ~ 03-03 | [西班牙](es/index.md) | [瓦伦西亚](es/by_city.md#valencia) | [Move Your Bottom](es/move-your-bottom-2024.md) |  |
+| 02-02 ~ 04 | [香港](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest-2024.md) |  |
 
 ## 01
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
-| 01-25 ~ 28 | [波兰](pl_PL/index.md) | [弗罗茨瓦夫](pl_PL/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl_PL/lindy-szaus-birthday-jam-2024.md) |  |
-| 01-12 ~ 14 | [美国](en_US/index.md) | [洛杉矶](en_US/by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](en_US/california-balboa-classic-2024.md) |  |
-| 01-05 ~ 07 | [中国](zh_CN/index.md) | [北京](zh_CN/by_city.md#beijing) | [Beijing Balboa Travel](zh_CN/beijing-balboa-travel-2024.md) | 北京巴尔博亚之旅 |
+| 01-25 ~ 28 | [波兰](pl/index.md) | [弗罗茨瓦夫](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam-2024.md) |  |
+| 01-12 ~ 14 | [美国](us/index.md) | [洛杉矶](us/by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](us/california-balboa-classic-2024.md) |  |
+| 01-05 ~ 07 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Beijing Balboa Travel](cn/beijing-balboa-travel-2024.md) | 北京巴尔博亚之旅 |
 
 ---
 
