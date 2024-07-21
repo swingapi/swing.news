@@ -58,6 +58,7 @@ status: timeline
 | 01-16 ~ 19 | [Turkey](tr_TR/index.md) | [Istanbul](tr_TR/by_city.md#istanbul) | [Jumpin' at Istanbul](tr_TR/jumpin-at-istanbul-2025.md) |  |
 | 01-10 ~ 12 | [Hong Kong](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest-2025.md) |  |
 | 01-10 ~ 12 | [Italy](it_IT/index.md) | [Pistoia](it_IT/by_city.md#pistoia) • Montecatini Terme | [Crazy Blues](it_IT/crazy-blues-2025.md) |  |
+| 01-10 ~ 12 | [France](fr_FR/index.md) | [Toulouse](fr_FR/by_city.md#toulouse) | [The Battle](fr_FR/the-battle-2025.md) |  |
 | 01-04 ~ 06 | [Germany](de_DE/index.md) | [Bavaria](de_DE/by_city.md#bavaria) • Munich | [Slow Balboa Weekend Munich](de_DE/slow-balboa-weekend-munich-2025.md) |  |
 | 01-03 ~ 06 | [Italy](it_IT/index.md) | [Florence](it_IT/by_city.md#florence) | [Keep On Swingin’](it_IT/keep-on-swingin-2025.md) |  |
 | 01-03 ~ 05 | [Italy](it_IT/index.md) | [Brescia](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Jan](it_IT/brescia-balboa-series-jan-2025.md) |  |
@@ -76,6 +77,7 @@ status: timeline
 | 12-13 ~ 15 | [Germany](de_DE/index.md) | [Augsburg](de_DE/by_city.md#augsburg) | [XmaSwing](de_DE/xma-swing-2024.md) |  |
 | 12-13 ~ 15 | [Germany](de_DE/index.md) | [North Rhine-Westphalia](de_DE/by_city.md#north-rhine-westphalia) • Dortmund | [Autumn Leaves The Pott](de_DE/autumn-leaves-the-pott-2024.md) |  |
 | 12-08 ~ 10 | [Japan](ja_JP/index.md) | [Tokyo](ja_JP/by_city.md#tokyo) | [Tokyo Balboa Weekend](ja_JP/tokyo-balboa-weekend-2024.md) |  |
+| 12-06 ~ 08 | [France](fr_FR/index.md) | [Toulouse](fr_FR/by_city.md#toulouse) | [European Balboa Festival](fr_FR/european-balboa-festival-2024.md) |  |
 | 12-06 ~ 08 | [Germany](de_DE/index.md) | [Darmstadt](de_DE/by_city.md#darmstadt) | [Sandy Lewis Workshop](de_DE/sandy-lewis-workshop-2024.md) |  |
 | 12-05 ~ 08 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/by_city.md#seoul) | [Savoy Cup Asia](ko_KR/savoy-cup-asia-2024.md) |  |
 
@@ -261,6 +263,7 @@ Arezzo](it_IT/by_city.md#arezzo) • Castiglion Fiorentino | [Bal & Lindy Vintag
 | 07-27 ~ 28 | [China](zh_CN/index.md) | [Guangdong](zh_CN/by_city.md#guangdong) • Shenzhen | [Balboa Greater Bay Workshop](zh_CN/balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 07-27 ~ 27 | [South Korea](ko_KR/index.md) | [Seoul](ko_KR/by_city.md#seoul) | [Champions Cup Korea](ko_KR/champions-cup-korea-2024.md) |  |
 | 07-27 ~ 27 | [Japan](ja_JP/index.md) | [Yokohama](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-07-2024.md) |  |
+| 07-26 ~ 28 | [China](zh_CN/index.md) | [Zhejiang](zh_CN/by_city.md#zhejiang) • Hangzhou | [Hangzhou Swing 10th Anniversary](zh_CN/hangzhou-swing-10th-anniversary-2024.md) | 摇摆杭州十周年 |
 | 07-26 ~ 28 | [Spain](es_ES/index.md) | [Morella](es_ES/by_city.md#morella) | [Morella Swing Weekend](es_ES/morella-swing-weekend-2024.md) |  |
 | 07-26 ~ 28 | [Australia](en_AU/index.md) | [Queensland](en_AU/by_city.md#queensland) • Gold Coast | [Gold Coast Lindy Fest](en_AU/gold-coast-lindy-fest-2024.md) |  |
 | 07-25 ~ 28 | [France](fr_FR/index.md) | [Anduze](fr_FR/by_city.md#anduze) | [Anduze Jazz Dance Camp](fr_FR/anduze-jazz-dance-camp-2024.md) |  |

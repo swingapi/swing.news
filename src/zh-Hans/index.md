@@ -58,6 +58,7 @@ status: timeline
 | 01-16 ~ 19 | [土耳其](tr_TR/index.md) | [伊斯坦布尔](tr_TR/by_city.md#istanbul) | [Jumpin' at Istanbul](tr_TR/jumpin-at-istanbul-2025.md) |  |
 | 01-10 ~ 12 | [香港](zh_HK/index.md) | [HK](zh_HK/by_city.md#hk) | [Harbourside Swing Fest](zh_HK/harbourside-swing-fest-2025.md) |  |
 | 01-10 ~ 12 | [意大利](it_IT/index.md) | [皮斯托亚](it_IT/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Crazy Blues](it_IT/crazy-blues-2025.md) |  |
+| 01-10 ~ 12 | [法国](fr_FR/index.md) | [图卢兹](fr_FR/by_city.md#toulouse) | [The Battle](fr_FR/the-battle-2025.md) |  |
 | 01-04 ~ 06 | [德国](de_DE/index.md) | [巴伐利亚自由州](de_DE/by_city.md#bavaria) • 慕尼黑 | [Slow Balboa Weekend Munich](de_DE/slow-balboa-weekend-munich-2025.md) |  |
 | 01-03 ~ 06 | [意大利](it_IT/index.md) | [佛罗伦萨](it_IT/by_city.md#florence) | [Keep On Swingin’](it_IT/keep-on-swingin-2025.md) |  |
 | 01-03 ~ 05 | [意大利](it_IT/index.md) | [布雷西亚](it_IT/by_city.md#brescia) | [Brescia Balboa Series - Jan](it_IT/brescia-balboa-series-jan-2025.md) |  |
@@ -76,6 +77,7 @@ status: timeline
 | 12-13 ~ 15 | [德国](de_DE/index.md) | [奥格斯堡](de_DE/by_city.md#augsburg) | [XmaSwing](de_DE/xma-swing-2024.md) |  |
 | 12-13 ~ 15 | [德国](de_DE/index.md) | [北莱茵-威斯特法伦州](de_DE/by_city.md#north-rhine-westphalia) • 多特蒙德 | [Autumn Leaves The Pott](de_DE/autumn-leaves-the-pott-2024.md) |  |
 | 12-08 ~ 10 | [日本](ja_JP/index.md) | [东京](ja_JP/by_city.md#tokyo) | [Tokyo Balboa Weekend](ja_JP/tokyo-balboa-weekend-2024.md) |  |
+| 12-06 ~ 08 | [法国](fr_FR/index.md) | [图卢兹](fr_FR/by_city.md#toulouse) | [European Balboa Festival](fr_FR/european-balboa-festival-2024.md) |  |
 | 12-06 ~ 08 | [德国](de_DE/index.md) | [达姆施塔特](de_DE/by_city.md#darmstadt) | [Sandy Lewis Workshop](de_DE/sandy-lewis-workshop-2024.md) |  |
 | 12-05 ~ 08 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Savoy Cup Asia](ko_KR/savoy-cup-asia-2024.md) |  |
 
@@ -261,6 +263,7 @@ status: timeline
 | 07-27 ~ 28 | [中国](zh_CN/index.md) | [广东](zh_CN/by_city.md#guangdong) • 深圳 | [Balboa Greater Bay Workshop](zh_CN/balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 07-27 ~ 27 | [韩国](ko_KR/index.md) | [首尔](ko_KR/by_city.md#seoul) | [Champions Cup Korea](ko_KR/champions-cup-korea-2024.md) |  |
 | 07-27 ~ 27 | [日本](ja_JP/index.md) | [横滨](ja_JP/by_city.md#yokohama) | [Yokohama Cross Street Hop](ja_JP/yokohama-cross-street-hop-07-2024.md) |  |
+| 07-26 ~ 28 | [中国](zh_CN/index.md) | [浙江](zh_CN/by_city.md#zhejiang) • 杭州 | [Hangzhou Swing 10th Anniversary](zh_CN/hangzhou-swing-10th-anniversary-2024.md) | 摇摆杭州十周年 |
 | 07-26 ~ 28 | [西班牙](es_ES/index.md) | [莫雷利亚](es_ES/by_city.md#morella) | [Morella Swing Weekend](es_ES/morella-swing-weekend-2024.md) |  |
 | 07-26 ~ 28 | [澳大利亚](en_AU/index.md) | [昆士兰州](en_AU/by_city.md#queensland) • 黃金海岸 | [Gold Coast Lindy Fest](en_AU/gold-coast-lindy-fest-2024.md) |  |
 | 07-25 ~ 28 | [法国](fr_FR/index.md) | [昂迪茲](fr_FR/by_city.md#anduze) | [Anduze Jazz Dance Camp](fr_FR/anduze-jazz-dance-camp-2024.md) |  |

@@ -76,6 +76,8 @@ description: "Swing Dance events in France (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-01-10 ~ 12 | [The Battle](the-battle-2025.md) |  |
+| 2024-12-06 ~ 08 | [European Balboa Festival](european-balboa-festival-2024.md) |  |
 | 2024-10-03 ~ 06 | [Toulouse Swing Exchange](toulouse-swing-exchange-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Ffr_FR%5D%20%3CName%3E&region=fr_FR&province=Toulouse&city=Toulouse&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 

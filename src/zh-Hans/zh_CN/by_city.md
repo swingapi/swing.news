@@ -138,6 +138,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-08-30 ~ 09-01 | [Westlake Swing Carnival](westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
+| 2024-07-26 ~ 28 | [Hangzhou Swing 10th Anniversary](hangzhou-swing-10th-anniversary-2024.md) | 摇摆杭州十周年 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fzh_CN%5D%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Hangzhou&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
