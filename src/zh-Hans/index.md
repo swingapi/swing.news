@@ -247,6 +247,7 @@ status: timeline
 阿雷佐](it/by_city.md#arezzo) • 菲奥伦蒂诺堡 | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
 | 08-14 ~ 18 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat-2024.md) | 热能蓝调文化节 |
 | 08-12 ~ 12 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing Jack!](jp/swing-jack-2024.md) |  |
+| 08-10 ~ 12 | [中国](cn/index.md) | [江西](cn/by_city.md#jiangxi) • 景德镇 | [Blues in Green](cn/blues-in-green-2024.md) | 小罗老师布鲁斯工作坊 |
 | 08-04 ~ 17 | [捷克](cz/index.md) | [布拉格](cz/by_city.md#prague) | [Bal Love](cz/bal-love-2024.md) |  |
 | 08-03 ~ 10 | [法国](fr/index.md) | [勒蒙多尔](fr/by_city.md#le-mont-dore) | [Summer Camp Blues Week](fr/summer-camp-blues-week-2024.md) |  |
 | 08-02 ~ 04 | [美国](us/index.md) | [宾夕法尼亚州](us/by_city.md#pennsylvania) • 費城 | [Rittenhopalooza](us/rittenhopalooza-2024.md) |  |

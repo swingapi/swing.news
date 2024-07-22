@@ -90,6 +90,17 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 ---
 
+## <a id=jiangxi></a>[江西](#jiangxi) { #jiangxi }
+
+### <a id=jingdezhen></a>景德镇 { #jingdezhen }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2024-08-10 ~ 12 | [Blues in Green](blues-in-green-2024.md) | 小罗老师布鲁斯工作坊 |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=Jiangxi&city=Jingdezhen&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=shanghai></a>[上海](#shanghai) { #shanghai }
 
 | 日期 | 活动 | |

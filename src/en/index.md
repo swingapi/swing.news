@@ -247,6 +247,7 @@ Matera](it/by_city.md#matera) • Policoro | [Policoro in Swing](it/policoro-in-
 Arezzo](it/by_city.md#arezzo) • Castiglion Fiorentino | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
 | 08-14 ~ 18 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat-2024.md) | 热能蓝调文化节 |
 | 08-12 ~ 12 | [Japan](jp/index.md) | [Tokyo](jp/by_city.md#tokyo) | [Swing Jack!](jp/swing-jack-2024.md) |  |
+| 08-10 ~ 12 | [China](cn/index.md) | [Jiangxi](cn/by_city.md#jiangxi) • Jingdezhen | [Blues in Green](cn/blues-in-green-2024.md) | 小罗老师布鲁斯工作坊 |
 | 08-04 ~ 17 | [Czechia](cz/index.md) | [Prague](cz/by_city.md#prague) | [Bal Love](cz/bal-love-2024.md) |  |
 | 08-03 ~ 10 | [France](fr/index.md) | [Le Mont-Dore](fr/by_city.md#le-mont-dore) | [Summer Camp Blues Week](fr/summer-camp-blues-week-2024.md) |  |
 | 08-02 ~ 04 | [United States](us/index.md) | [Pennsylvania](us/by_city.md#pennsylvania) • Philadelphia | [Rittenhopalooza](us/rittenhopalooza-2024.md) |  |
