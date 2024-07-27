@@ -55,9 +55,10 @@ description: "Swing Dance events in United States (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 09-27 ~ 29 | [Illinois](by_city.md#illinois) • Chicago | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
-| 09-20 ~ 22 | [New York](by_city.md#new-york) | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
+| 09-20 ~ 22 | [New York](by_city.md#new-york) • New York City | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
 | 09-13 ~ 16 | [Colorado](by_city.md#colorado) • Denver | [Lindy on the Rocks](lindy-on-the-rocks-2024.md) |  |
 | 09-13 ~ 16 | [Colorado](by_city.md#colorado) • Denver | [Hot Night Fusion Weekend](hot-night-fusion-weekend-2024.md) |  |
+| 09-06 ~ 08 | [New York](by_city.md#new-york) • Buffalo | [Rhythm Shuffle](rhythm-shuffle-2024.md) |  |
 | 09-06 ~ 08 | [Nebraska](by_city.md#nebraska) • Omaha | [Cowtown Jamborama](cowtown-jamborama-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-){ target='_blank' }
 
@@ -84,7 +85,7 @@ description: "Swing Dance events in United States (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-| 04-01 ~ 07 | [New York](by_city.md#new-york) | [Bal Week](bal-week-2024.md) |  |
+| 04-01 ~ 07 | [New York](by_city.md#new-york) • New York City | [Bal Week](bal-week-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-04-&date_ends=2024-04-){ target='_blank' }
 
 ## 01

@@ -37,7 +37,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 11-22 ~ 24 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Hot Jazz Jamboree](hot-jazz-jamboree-2024.md) |  |
-| 11-15 ~ 17 | [纽约](by_city.md#new-york) • 罗切斯特 | [Stompology](stompology-2024.md) |  |
+| 11-15 ~ 17 | [纽约州](by_city.md#new-york) • 罗切斯特 | [Stompology](stompology-2024.md) |  |
 | 11-08 ~ 10 | [新墨西哥州](by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](breaking-bal-swing-n-blues-weekend-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-){ target='_blank' }
 
@@ -55,9 +55,10 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 09-27 ~ 29 | [伊利诺伊州](by_city.md#illinois) • 芝加哥 | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
-| 09-20 ~ 22 | [纽约](by_city.md#new-york) | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
+| 09-20 ~ 22 | [纽约州](by_city.md#new-york) • 纽约市 | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
 | 09-13 ~ 16 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Lindy on the Rocks](lindy-on-the-rocks-2024.md) |  |
 | 09-13 ~ 16 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Hot Night Fusion Weekend](hot-night-fusion-weekend-2024.md) |  |
+| 09-06 ~ 08 | [纽约州](by_city.md#new-york) • 水牛城 | [Rhythm Shuffle](rhythm-shuffle-2024.md) |  |
 | 09-06 ~ 08 | [内布拉斯加州](by_city.md#nebraska) • 奥马哈 | [Cowtown Jamborama](cowtown-jamborama-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-09-&date_ends=2024-09-){ target='_blank' }
 
@@ -84,7 +85,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-| 04-01 ~ 07 | [纽约](by_city.md#new-york) | [Bal Week](bal-week-2024.md) |  |
+| 04-01 ~ 07 | [纽约州](by_city.md#new-york) • 纽约市 | [Bal Week](bal-week-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-04-&date_ends=2024-04-){ target='_blank' }
 
 ## 01

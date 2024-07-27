@@ -182,7 +182,7 @@ status: timeline
 | 09-26 ~ 29 | [Canada](ca/index.md) | [Alberta](ca/by_city.md#alberta) • Edmonton | [Lindy Harvest](ca/lindy-harvest-2024.md) |  |
 | 09-21 ~ 22 | [United Kingdom](uk/index.md) | [Oxford](uk/by_city.md#oxford) | [Fast Feet Festival](uk/fast-feet-festival-2024.md) |  |
 | 09-20 ~ 23 | [Australia](au/index.md) | [Western Australia](au/by_city.md#western-australia) • Margaret River | [Boogie Down South](au/boogie-down-south-2024.md) |  |
-| 09-20 ~ 22 | [United States](us/index.md) | [New York](us/by_city.md#new-york) | [New York Lindy Exchange](us/new-york-lindy-exchange-2024.md) |  |
+| 09-20 ~ 22 | [United States](us/index.md) | [New York](us/by_city.md#new-york) • New York City | [New York Lindy Exchange](us/new-york-lindy-exchange-2024.md) |  |
 | 09-20 ~ 22 | [United Kingdom](uk/index.md) | [Newcastle](uk/by_city.md#newcastle) | [Belta Blues](uk/belta-blues-2024.md) |  |
 | 09-20 ~ 22 | [Sweden](se/index.md) | [Gothenburg](se/by_city.md#gothenburg) | [Gothenburg Queer Lindy Festival](se/gothenburg-queer-lindy-festival-2024.md) |  |
 | 09-20 ~ 22 | [Netherlands](nl/index.md) | [The Hague](nl/by_city.md#the-hague) | [The Mess Around](nl/the-mess-around-2024.md) |  |
@@ -207,6 +207,7 @@ status: timeline
 | 09-08 ~ 08 | [Japan](jp/index.md) | [Tokyo](jp/by_city.md#tokyo) | [Swing OWL](jp/swing-owl-08-2024.md) |  |
 | 09-06 ~ 09 | [United Kingdom](uk/index.md) | [Buckinghamshire](uk/by_city.md#buckinghamshire) | [Nighthawks Summer Weekender](uk/nighthawks-summer-weekender-2024.md) |  |
 | 09-06 ~ 09 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Claudia & Coline Workshop](cn/claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
+| 09-06 ~ 08 | [United States](us/index.md) | [New York](us/by_city.md#new-york) • Buffalo | [Rhythm Shuffle](us/rhythm-shuffle-2024.md) |  |
 | 09-06 ~ 08 | [United States](us/index.md) | [Nebraska](us/by_city.md#nebraska) • Omaha | [Cowtown Jamborama](us/cowtown-jamborama-2024.md) |  |
 | 09-06 ~ 08 | [United Kingdom](uk/index.md) | [Torquay](uk/by_city.md#torquay) | [BalBreak at the Livermead Cliff](uk/bal-break-at-the-livermead-cliff-2024.md) |  |
 | 09-06 ~ 08 | [Norway](no/index.md) | [Oslo](no/by_city.md#oslo) | [O’slow](no/o-slow-2024.md) |  |
@@ -323,7 +324,7 @@ Arezzo](it/by_city.md#arezzo) • Castiglion Fiorentino | [Bal & Lindy Vintage F
 | 04-25 ~ 28 | [Spain](es/index.md) | [Sevilla](es/by_city.md#sevilla) | [Sevilla Swing Festival](es/sevilla-swing-festival-2024.md) |  |
 | 04-19 ~ 23 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Balboa Spring Camp](cn/balboa-spring-camp-2024.md) |  |
 | 04-19 ~ 21 | [China](cn/index.md) | [Sichuan](cn/by_city.md#sichuan) • Chengdu | [Bouncy Chengdu](cn/bouncy-chengdu-2024.md) | 妖艳儿摇摆节 |
-| 04-01 ~ 07 | [United States](us/index.md) | [New York](us/by_city.md#new-york) | [Bal Week](us/bal-week-2024.md) |  |
+| 04-01 ~ 07 | [United States](us/index.md) | [New York](us/by_city.md#new-york) • New York City | [Bal Week](us/bal-week-2024.md) |  |
 
 ## 03
 

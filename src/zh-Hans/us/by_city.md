@@ -110,13 +110,22 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 ---
 
-## <a id=new-york></a>[纽约](#new-york) { #new-york }
+## <a id=new-york></a>[纽约州](#new-york) { #new-york }
+
+### <a id=buffalo></a>水牛城 { #buffalo }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2024-09-06 ~ 08 | [Rhythm Shuffle](rhythm-shuffle-2024.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=Buffalo&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+### <a id=new-york-city></a>纽约市 { #new-york-city }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-09-20 ~ 22 | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
 | 2024-04-01 ~ 07 | [Bal Week](bal-week-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ### <a id=rochester></a>罗切斯特 { #rochester }
 
