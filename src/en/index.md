@@ -28,6 +28,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 03-14 ~ 16 | [Italy](it/index.md) | [Rome](it/by_city.md#rome) | [Roma Balboa Weekend](it/roma-balboa-weekend-2025.md) |  |
+| 03-13 ~ 16 | [United States](us/index.md) | [Texas](us/by_city.md#texas) • Houston | [Lindyfest](us/lindyfest-2025.md) |  |
 | 03-07 ~ 09 | [Italy](it/index.md) | [Brescia](it/by_city.md#brescia) | [Brescia Balboa Series - Mar](it/brescia-balboa-series-mar-2025.md) |  |
 | 03-07 ~ 09 | [Germany](de/index.md) | [Darmstadt](de/by_city.md#darmstadt) | [B.T.Switch](de/b-t-switch-2025.md) |  |
 

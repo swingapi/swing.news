@@ -179,6 +179,13 @@ description: "Swing Dance events in United States (Grouped by City)."
 | 2025-02-14 ~ 16 | [Hot Rhythm Holiday](hot-rhythm-holiday-2025.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Austin&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
+### <a id=houston></a>Houston { #houston }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2025-03-13 ~ 16 | [Lindyfest](lindyfest-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Houston&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
 ---
 
 ## <a id=washington></a>[Washington](#washington) { #washington }
