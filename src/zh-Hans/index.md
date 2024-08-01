@@ -42,6 +42,7 @@ status: timeline
 | 02-14 ~ 16 | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
 | 02-07 ~ 09 | [挪威](no/index.md) | [卑尔根](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
 | 02-07 ~ 09 | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [SwingInRoma](it/swing-in-roma-2025.md) |  |
+| 02-01 ~ 09 | [泰国](th/index.md) | [华欣](th/by_city.md#hua-hin) | [Breezy Balboa](th/breezy-balboa-2025.md) |  |
 
 ## 01
 

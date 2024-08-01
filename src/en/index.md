@@ -42,6 +42,7 @@ status: timeline
 | 02-14 ~ 16 | [Switzerland](ch/index.md) | [Zurich](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
 | 02-07 ~ 09 | [Norway](no/index.md) | [Bergen](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
 | 02-07 ~ 09 | [Italy](it/index.md) | [Rome](it/by_city.md#rome) | [SwingInRoma](it/swing-in-roma-2025.md) |  |
+| 02-01 ~ 09 | [Thailand](th/index.md) | [Hua Hin](th/by_city.md#hua-hin) | [Breezy Balboa](th/breezy-balboa-2025.md) |  |
 
 ## 01
 

@@ -203,10 +203,12 @@ nav:
         - 按城市划分: th/by_city.md
         - 主办城市: th/host_cities.md
         - 已收录活动:
+          - th/breezy-balboa-2025.md
           - th/diga-diga-doo-2024.md
           - th/swing-era-2024.md
           - th/breezy-balboa-2024.md
         - 存档:
+          - th/2025.md
           - th/2024.md
       - 土耳其:
         - 时间线: tr/index.md

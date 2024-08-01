@@ -17,14 +17,13 @@ description: "Swing Dance events in Thailand (Grouped by City)."
 
 ---
 
-## <a id=prachuap-khiri-khan></a>[Prachuap Khiri Khan](#prachuap-khiri-khan) { #prachuap-khiri-khan }
-
-### <a id=hua-hin></a>Hua Hin { #hua-hin }
+## <a id=hua-hin></a>[Hua Hin](#hua-hin) { #hua-hin }
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-02-01 ~ 09 | [Breezy Balboa](breezy-balboa-2025.md) |  |
 | 2024-05-04 ~ 12 | [Breezy Balboa](breezy-balboa-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fth%5D%20%3CName%3E&region=th&province=Prachuap%20Khiri%20Khan&city=Hua%20Hin&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fth%5D%20%3CName%3E&region=th&province=Hua%20Hin&city=Hua%20Hin&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 

@@ -202,10 +202,12 @@ nav:
         - Events by City: th/by_city.md
         - Host Cities: th/host_cities.md
         - Collected Events:
+          - th/breezy-balboa-2025.md
           - th/diga-diga-doo-2024.md
           - th/swing-era-2024.md
           - th/breezy-balboa-2024.md
         - Archives:
+          - th/2025.md
           - th/2024.md
       - Turkey:
         - Timeline: tr/index.md
