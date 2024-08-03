@@ -16,6 +16,15 @@ description: "在法国举办的摇摆舞活动（以城市划分）。"
 
 ---
 
+## <a id=bordeaux></a>[波尔多](#bordeaux) { #bordeaux }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2025-03-14 ~ 16 | [Swing Art Festival](swing-art-festival-2025.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Ffr%5D%20%3CName%3E&region=fr&province=Bordeaux&city=Bordeaux&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=drumettaz-clarafond></a>[德吕梅塔-克拉拉丰](#drumettaz-clarafond) { #drumettaz-clarafond }
 
 | 日期 | 活动 | |

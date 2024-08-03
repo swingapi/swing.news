@@ -7,6 +7,13 @@ description: "在法国举办的摇摆舞活动（时间线）。"
 
 ## 2025
 
+## 03
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 03-14 ~ 16 | [波尔多](by_city.md#bordeaux) | [Swing Art Festival](swing-art-festival-2025.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Ffr%5D%20%3CName%3E&region=fr&province=&city=&org_id=&date_starts=2025-03-&date_ends=2025-03-){ target='_blank' }
+
 ## 01
 
 | 日期 | 城市 | 活动 | |

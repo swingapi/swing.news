@@ -28,6 +28,7 @@ status: timeline
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 | 03-14 ~ 16 | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [Roma Balboa Weekend](it/roma-balboa-weekend-2025.md) |  |
+| 03-14 ~ 16 | [法国](fr/index.md) | [波尔多](fr/by_city.md#bordeaux) | [Swing Art Festival](fr/swing-art-festival-2025.md) |  |
 | 03-13 ~ 16 | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 休斯顿 | [Lindyfest](us/lindyfest-2025.md) |  |
 | 03-07 ~ 09 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Mar](it/brescia-balboa-series-mar-2025.md) |  |
 | 03-07 ~ 09 | [德国](de/index.md) | [达姆施塔特](de/by_city.md#darmstadt) | [B.T.Switch](de/b-t-switch-2025.md) |  |
@@ -42,7 +43,7 @@ status: timeline
 | 02-14 ~ 16 | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
 | 02-07 ~ 09 | [挪威](no/index.md) | [卑尔根](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
 | 02-07 ~ 09 | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [SwingInRoma](it/swing-in-roma-2025.md) |  |
-| 02-01 ~ 09 | [泰国](th/index.md) | [华欣](th/by_city.md#hua-hin) | [Breezy Balboa](th/breezy-balboa-2025.md) |  |
+| 02-01 ~ 09 | [泰国](th/index.md) | [巴蜀府](th/by_city.md#prachuap-khiri-khan) • 华欣 | [Breezy Balboa](th/breezy-balboa-2025.md) |  |
 
 ## 01
 

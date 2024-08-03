@@ -16,6 +16,15 @@ description: "Swing Dance events in France (Grouped by City)."
 
 ---
 
+## <a id=bordeaux></a>[Bordeaux](#bordeaux) { #bordeaux }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2025-03-14 ~ 16 | [Swing Art Festival](swing-art-festival-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Ffr%5D%20%3CName%3E&region=fr&province=Bordeaux&city=Bordeaux&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=drumettaz-clarafond></a>[Drumettaz-Clarafond](#drumettaz-clarafond) { #drumettaz-clarafond }
 
 | Date | Event | |

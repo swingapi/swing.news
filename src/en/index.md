@@ -28,6 +28,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 03-14 ~ 16 | [Italy](it/index.md) | [Rome](it/by_city.md#rome) | [Roma Balboa Weekend](it/roma-balboa-weekend-2025.md) |  |
+| 03-14 ~ 16 | [France](fr/index.md) | [Bordeaux](fr/by_city.md#bordeaux) | [Swing Art Festival](fr/swing-art-festival-2025.md) |  |
 | 03-13 ~ 16 | [United States](us/index.md) | [Texas](us/by_city.md#texas) • Houston | [Lindyfest](us/lindyfest-2025.md) |  |
 | 03-07 ~ 09 | [Italy](it/index.md) | [Brescia](it/by_city.md#brescia) | [Brescia Balboa Series - Mar](it/brescia-balboa-series-mar-2025.md) |  |
 | 03-07 ~ 09 | [Germany](de/index.md) | [Darmstadt](de/by_city.md#darmstadt) | [B.T.Switch](de/b-t-switch-2025.md) |  |
@@ -42,7 +43,7 @@ status: timeline
 | 02-14 ~ 16 | [Switzerland](ch/index.md) | [Zurich](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
 | 02-07 ~ 09 | [Norway](no/index.md) | [Bergen](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
 | 02-07 ~ 09 | [Italy](it/index.md) | [Rome](it/by_city.md#rome) | [SwingInRoma](it/swing-in-roma-2025.md) |  |
-| 02-01 ~ 09 | [Thailand](th/index.md) | [Hua Hin](th/by_city.md#hua-hin) | [Breezy Balboa](th/breezy-balboa-2025.md) |  |
+| 02-01 ~ 09 | [Thailand](th/index.md) | [Prachuap Khiri Khan](th/by_city.md#prachuap-khiri-khan) • Hua Hin | [Breezy Balboa](th/breezy-balboa-2025.md) |  |
 
 ## 01
 
