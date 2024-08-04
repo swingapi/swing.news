@@ -7,8 +7,7 @@ description: "在意大利举办的摇摆舞活动（以城市划分）。"
 
 ---
 
-## <a id=arezzo></a>[阿雷佐省
-阿雷佐](#arezzo) { #arezzo }
+## <a id=arezzo></a>[阿雷佐省](#arezzo) { #arezzo }
 
 ### <a id=castiglion-fiorentino></a>菲奥伦蒂诺堡 { #castiglion-fiorentino }
 
@@ -53,8 +52,7 @@ description: "在意大利举办的摇摆舞活动（以城市划分）。"
 
 ---
 
-## <a id=matera></a>[马泰拉省
-马泰拉](#matera) { #matera }
+## <a id=matera></a>[马泰拉省](#matera) { #matera }
 
 ### <a id=policoro></a>波利科罗 { #policoro }
 

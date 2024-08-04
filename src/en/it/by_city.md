@@ -7,8 +7,7 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 ---
 
-## <a id=arezzo></a>[Arezzo
-Arezzo](#arezzo) { #arezzo }
+## <a id=arezzo></a>[Arezzo](#arezzo) { #arezzo }
 
 ### <a id=castiglion-fiorentino></a>Castiglion Fiorentino { #castiglion-fiorentino }
 
@@ -53,8 +52,7 @@ Arezzo](#arezzo) { #arezzo }
 
 ---
 
-## <a id=matera></a>[Matera
-Matera](#matera) { #matera }
+## <a id=matera></a>[Matera](#matera) { #matera }
 
 ### <a id=policoro></a>Policoro { #policoro }
 

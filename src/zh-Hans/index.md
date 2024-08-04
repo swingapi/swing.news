@@ -236,19 +236,18 @@ status: timeline
 | 08-23 ~ 25 | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Lindy Hop Non Stop](pl/lindy-hop-non-stop-2024.md) |  |
 | 08-23 ~ 25 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Balboario](it/balboario-2024.md) |  |
 | 08-23 ~ 25 | [德国](de/index.md) | [汉堡](de/by_city.md#hamburg) | [Shag Ahoi!](de/shag-ahoi-2024.md) |  |
+| 08-23 ~ 25 | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Vans & Nan Balboa Workshop - Aug](cn/vans-n-nan-balboa-workshop-aug-2024.md) |  |
 | 08-22 ~ 25 | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Bluesila](lt/bluesila-2024.md) |  |
 | 08-22 ~ 24 | [德国](de/index.md) | [居特斯洛](de/by_city.md#gutersloh) • 里特贝格 | [Harvest Moon Swing Dance Camp](de/harvest-moon-swing-dance-camp-2024.md) |  |
 | 08-21 ~ 24 | [美国](us/index.md) | [新罕布什尔州](us/by_city.md#new-hampshire) • 希伯伦 | [Swing Out New Hampshire](us/swing-out-new-hampshire-2024.md) |  |
 | 08-21 ~ 24 | [泰国](th/index.md) | [曼谷](th/by_city.md#bangkok) | [Swing Era](th/swing-era-2024.md) |  |
-| 08-18 ~ 26 | [意大利](it/index.md) | [马泰拉省
-马泰拉](it/by_city.md#matera) • 波利科罗 | [Policoro in Swing](it/policoro-in-swing-2024.md) |  |
+| 08-18 ~ 26 | [意大利](it/index.md) | [马泰拉省](it/by_city.md#matera) • 波利科罗 | [Policoro in Swing](it/policoro-in-swing-2024.md) |  |
 | 08-18 ~ 25 | [法国](fr/index.md) | [拉普拉涅-塔朗泰斯](fr/by_city.md#la-plagne-tarentaise) | [La Plagne Swing](fr/la-plagne-swing-2024.md) |  |
 | 08-16 ~ 18 | [美国](us/index.md) | [亚利桑那州](us/by_city.md#arizona) • 梅萨 | [Summer Swing Fest](us/summer-swing-fest-2024.md) |  |
 | 08-16 ~ 18 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [BAL & HOP](kr/bal-hop-2024.md) |  |
 | 08-15 ~ 18 | [立陶宛](lt/index.md) | [朱奥多尼](lt/by_city.md#juodonys) | [What a Jazz Summer Camp](lt/what-a-jazz-summer-camp-2024.md) |  |
 | 08-15 ~ 18 | [德国](de/index.md) | [萨尔兰州](de/by_city.md#saarland) • 萨尔布吕肯 | [Velo-Swing Festival](de/velo-swing-festival-2024.md) |  |
-| 08-14 ~ 18 | [意大利](it/index.md) | [阿雷佐省
-阿雷佐](it/by_city.md#arezzo) • 菲奥伦蒂诺堡 | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
+| 08-14 ~ 18 | [意大利](it/index.md) | [阿雷佐省](it/by_city.md#arezzo) • 菲奥伦蒂诺堡 | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
 | 08-14 ~ 18 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat-2024.md) | 热能蓝调文化节 |
 | 08-12 ~ 12 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing Jack!](jp/swing-jack-2024.md) |  |
 | 08-10 ~ 12 | [中国](cn/index.md) | [江西](cn/by_city.md#jiangxi) • 景德镇 | [Blues in Green](cn/blues-in-green-2024.md) | 小罗老师布鲁斯工作坊 |
