@@ -57,6 +57,13 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 ## <a id=guangdong></a>[广东](#guangdong) { #guangdong }
 
+### <a id=foshan></a>佛山 { #foshan }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2024-10-18 ~ 20 | [Hop the Bay](hop-the-bay-2024.md) | 湾区摇摆大会 |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=Guangdong&city=Foshan&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
 ### <a id=shenzhen></a>深圳 { #shenzhen }
 
 | 日期 | 活动 | |

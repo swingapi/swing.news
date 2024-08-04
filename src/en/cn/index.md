@@ -25,6 +25,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 10-18 ~ 20 | [Guangdong](by_city.md#guangdong) • Foshan | [Hop the Bay](hop-the-bay-2024.md) | 湾区摇摆大会 |
 | 10-03 ~ 06 | [Shanghai](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-){ target='_blank' }
 
