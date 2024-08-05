@@ -25,7 +25,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-| 01-23 ~ 26 | [洛杉矶](by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](california-balboa-classic-2025.md) |  |
+| 01-23 ~ 26 | [加利福尼亚州](by_city.md#california) • 洛杉矶 | [California Balboa Classic](california-balboa-classic-2025.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2025-01-&date_ends=2025-01-){ target='_blank' }
 
 ---
@@ -73,7 +73,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-| 08-30 ~ 09-02 | [洛杉矶](by_city.md#los-angeles) • 加利福尼亚州 | [Camp Hollywood](camp-hollywood-2024.md) |  |
+| 08-30 ~ 09-02 | [加利福尼亚州](by_city.md#california) • 洛杉矶 | [Camp Hollywood](camp-hollywood-2024.md) |  |
 | 08-23 ~ 25 | [明尼苏达州](by_city.md#minnesota) • 明尼阿波利斯 | [The Uptown Swingout](the-uptown-swingout-2024.md) |  |
 | 08-21 ~ 24 | [新罕布什尔州](by_city.md#new-hampshire) • 希伯伦 | [Swing Out New Hampshire](swing-out-new-hampshire-2024.md) |  |
 | 08-16 ~ 18 | [亚利桑那州](by_city.md#arizona) • 梅萨 | [Summer Swing Fest](summer-swing-fest-2024.md) |  |
@@ -99,7 +99,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-| 01-12 ~ 14 | [洛杉矶](by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](california-balboa-classic-2024.md) |  |
+| 01-12 ~ 14 | [加利福尼亚州](by_city.md#california) • 洛杉矶 | [California Balboa Classic](california-balboa-classic-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-01-&date_ends=2024-01-){ target='_blank' }
 
 ---

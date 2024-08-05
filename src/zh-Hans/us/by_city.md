@@ -18,6 +18,19 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 ---
 
+## <a id=california></a>[加利福尼亚州](#california) { #california }
+
+### <a id=los-angeles></a>洛杉矶 { #los-angeles }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2025-01-23 ~ 26 | [California Balboa Classic](california-balboa-classic-2025.md) |  |
+| 2024-08-30 ~ 09-02 | [Camp Hollywood](camp-hollywood-2024.md) |  |
+| 2024-01-12 ~ 14 | [California Balboa Classic](california-balboa-classic-2024.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=California&city=Los%20Angeles&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=colorado></a>[科罗拉多州](#colorado) { #colorado }
 
 ### <a id=denver></a>丹佛 { #denver }
@@ -39,19 +52,6 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 | --- | --- | --- |
 | 2024-09-27 ~ 29 | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Chicago&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
-
----
-
-## <a id=los-angeles></a>[洛杉矶](#los-angeles) { #los-angeles }
-
-### <a id=california></a>加利福尼亚州 { #california }
-
-| 日期 | 活动 | |
-| --- | --- | --- |
-| 2025-01-23 ~ 26 | [California Balboa Classic](california-balboa-classic-2025.md) |  |
-| 2024-08-30 ~ 09-02 | [Camp Hollywood](camp-hollywood-2024.md) |  |
-| 2024-01-12 ~ 14 | [California Balboa Classic](california-balboa-classic-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Los%20Angeles&city=California&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 

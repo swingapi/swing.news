@@ -54,7 +54,7 @@ status: timeline
 | 01-24 ~ 27 | [Australia](au/index.md) | [South Australia](au/by_city.md#south-australia) • Adelaide | [The Adelaide Lindy Exchange](au/the-adelaide-lindy-exchange-2025.md) |  |
 | 01-24 ~ 26 | [Italy](it/index.md) | [Milan](it/by_city.md#milan) | [Milan Balboa Weekend](it/milan-balboa-weekend-2025.md) |  |
 | 01-24 ~ 26 | [France](fr/index.md) | [Tours](fr/by_city.md#tours) | [Tours’n Swing](fr/tours-n-swing-2025.md) |  |
-| 01-23 ~ 26 | [United States](us/index.md) | [Los Angeles](us/by_city.md#los-angeles) • California | [California Balboa Classic](us/california-balboa-classic-2025.md) |  |
+| 01-23 ~ 26 | [United States](us/index.md) | [California](us/by_city.md#california) • Los Angeles | [California Balboa Classic](us/california-balboa-classic-2025.md) |  |
 | 01-23 ~ 26 | [Poland](pl/index.md) | [Wroclaw](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam-2025.md) |  |
 | 01-23 ~ 26 | [Germany](de/index.md) | [Berlin](de/by_city.md#berlin) | [Swing It Berlin!](de/swing-it-berlin-2025.md) |  |
 | 01-17 ~ 19 | [Italy](it/index.md) | [Pistoia](it/by_city.md#pistoia) • Montecatini Terme | [Tuscany Balboa Weekend](it/tuscany-balboa-weekend-2025.md) |  |
@@ -227,7 +227,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 08-31 ~ 09-01 | [Germany](de/index.md) | [Augsburg](de/by_city.md#augsburg) | [Lindy Hop Trainingslager](de/lindy-hop-trainingslager-2024.md) |  |
-| 08-30 ~ 09-02 | [United States](us/index.md) | [Los Angeles](us/by_city.md#los-angeles) • California | [Camp Hollywood](us/camp-hollywood-2024.md) |  |
+| 08-30 ~ 09-02 | [United States](us/index.md) | [California](us/by_city.md#california) • Los Angeles | [Camp Hollywood](us/camp-hollywood-2024.md) |  |
 | 08-30 ~ 09-02 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Vancouver | [Rhythm City Mess Around](ca/rhythm-city-mess-around-2024.md) |  |
 | 08-30 ~ 09-01 | [United Kingdom](uk/index.md) | [Manchester](uk/by_city.md#manchester) | [Hep to the Hive](uk/hep-to-the-hive-2024.md) |  |
 | 08-30 ~ 09-01 | [China](cn/index.md) | [Zhejiang](cn/by_city.md#zhejiang) • Hangzhou | [Westlake Swing Carnival](cn/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
@@ -353,7 +353,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 01-25 ~ 28 | [Poland](pl/index.md) | [Wroclaw](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam-2024.md) |  |
-| 01-12 ~ 14 | [United States](us/index.md) | [Los Angeles](us/by_city.md#los-angeles) • California | [California Balboa Classic](us/california-balboa-classic-2024.md) |  |
+| 01-12 ~ 14 | [United States](us/index.md) | [California](us/by_city.md#california) • Los Angeles | [California Balboa Classic](us/california-balboa-classic-2024.md) |  |
 | 01-05 ~ 07 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Beijing Balboa Travel](cn/beijing-balboa-travel-2024.md) | 北京巴尔博亚之旅 |
 
 ---

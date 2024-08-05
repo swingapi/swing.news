@@ -54,7 +54,7 @@ status: timeline
 | 01-24 ~ 27 | [澳大利亚](au/index.md) | [南澳州](au/by_city.md#south-australia) • 阿得莱德 | [The Adelaide Lindy Exchange](au/the-adelaide-lindy-exchange-2025.md) |  |
 | 01-24 ~ 26 | [意大利](it/index.md) | [米兰](it/by_city.md#milan) | [Milan Balboa Weekend](it/milan-balboa-weekend-2025.md) |  |
 | 01-24 ~ 26 | [法国](fr/index.md) | [图尔](fr/by_city.md#tours) | [Tours’n Swing](fr/tours-n-swing-2025.md) |  |
-| 01-23 ~ 26 | [美国](us/index.md) | [洛杉矶](us/by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](us/california-balboa-classic-2025.md) |  |
+| 01-23 ~ 26 | [美国](us/index.md) | [加利福尼亚州](us/by_city.md#california) • 洛杉矶 | [California Balboa Classic](us/california-balboa-classic-2025.md) |  |
 | 01-23 ~ 26 | [波兰](pl/index.md) | [弗罗茨瓦夫](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam-2025.md) |  |
 | 01-23 ~ 26 | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Swing It Berlin!](de/swing-it-berlin-2025.md) |  |
 | 01-17 ~ 19 | [意大利](it/index.md) | [皮斯托亚](it/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Tuscany Balboa Weekend](it/tuscany-balboa-weekend-2025.md) |  |
@@ -227,7 +227,7 @@ status: timeline
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 | 08-31 ~ 09-01 | [德国](de/index.md) | [奥格斯堡](de/by_city.md#augsburg) | [Lindy Hop Trainingslager](de/lindy-hop-trainingslager-2024.md) |  |
-| 08-30 ~ 09-02 | [美国](us/index.md) | [洛杉矶](us/by_city.md#los-angeles) • 加利福尼亚州 | [Camp Hollywood](us/camp-hollywood-2024.md) |  |
+| 08-30 ~ 09-02 | [美国](us/index.md) | [加利福尼亚州](us/by_city.md#california) • 洛杉矶 | [Camp Hollywood](us/camp-hollywood-2024.md) |  |
 | 08-30 ~ 09-02 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 温哥华 | [Rhythm City Mess Around](ca/rhythm-city-mess-around-2024.md) |  |
 | 08-30 ~ 09-01 | [英国](uk/index.md) | [曼彻斯特](uk/by_city.md#manchester) | [Hep to the Hive](uk/hep-to-the-hive-2024.md) |  |
 | 08-30 ~ 09-01 | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](cn/westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
@@ -353,7 +353,7 @@ status: timeline
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 | 01-25 ~ 28 | [波兰](pl/index.md) | [弗罗茨瓦夫](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam-2024.md) |  |
-| 01-12 ~ 14 | [美国](us/index.md) | [洛杉矶](us/by_city.md#los-angeles) • 加利福尼亚州 | [California Balboa Classic](us/california-balboa-classic-2024.md) |  |
+| 01-12 ~ 14 | [美国](us/index.md) | [加利福尼亚州](us/by_city.md#california) • 洛杉矶 | [California Balboa Classic](us/california-balboa-classic-2024.md) |  |
 | 01-05 ~ 07 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Beijing Balboa Travel](cn/beijing-balboa-travel-2024.md) | 北京巴尔博亚之旅 |
 
 ---
