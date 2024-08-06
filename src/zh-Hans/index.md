@@ -9,6 +9,7 @@ status: timeline
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 | 05-29 ~ 06-02 | [意大利](it/index.md) | [西尔维·玛丽娜](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest-2025.md) |  |
+| 05-17 ~ 19 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 维多利亚 | [Victoria Lindy Exchange](ca/victoria-lindy-exchange-2025.md) |  |
 | 05-16 ~ 18 | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm-2025.md) |  |
 | 05-02 ~ 04 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - May](it/brescia-balboa-series-may-2025.md) |  |
 
@@ -62,6 +63,7 @@ status: timeline
 | 01-10 ~ 12 | [意大利](it/index.md) | [皮斯托亚](it/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Crazy Blues](it/crazy-blues-2025.md) |  |
 | 01-10 ~ 12 | [香港](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest-2025.md) |  |
 | 01-10 ~ 12 | [法国](fr/index.md) | [图卢兹](fr/by_city.md#toulouse) | [The Battle](fr/the-battle-2025.md) |  |
+| 01-09 ~ 12 | [台湾](tw/index.md) | [台北](tw/by_city.md#taipei) | [Cheek to Cheek Swing Festival](tw/cheek-to-cheek-swing-festival-2025.md) |  |
 | 01-04 ~ 06 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Slow Balboa Weekend Munich](de/slow-balboa-weekend-munich-2025.md) |  |
 | 01-03 ~ 06 | [意大利](it/index.md) | [佛罗伦萨](it/by_city.md#florence) | [Keep On Swingin’](it/keep-on-swingin-2025.md) |  |
 | 01-03 ~ 05 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Jan](it/brescia-balboa-series-jan-2025.md) |  |
@@ -250,6 +252,7 @@ status: timeline
 | 08-15 ~ 18 | [德国](de/index.md) | [萨尔兰州](de/by_city.md#saarland) • 萨尔布吕肯 | [Velo-Swing Festival](de/velo-swing-festival-2024.md) |  |
 | 08-14 ~ 18 | [意大利](it/index.md) | [阿雷佐省](it/by_city.md#arezzo) • 菲奥伦蒂诺堡 | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
 | 08-14 ~ 18 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat-2024.md) | 热能蓝调文化节 |
+| 08-14 ~ 16 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Solo Jazz Workshop - Black Bottom](cn/solo-jazz-workshop-black-bottom-2024.md) |  |
 | 08-12 ~ 12 | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Swing Jack!](jp/swing-jack-2024.md) |  |
 | 08-10 ~ 12 | [中国](cn/index.md) | [江西](cn/by_city.md#jiangxi) • 景德镇 | [Blues in Green](cn/blues-in-green-2024.md) | 小罗老师布鲁斯工作坊 |
 | 08-04 ~ 17 | [捷克](cz/index.md) | [布拉格](cz/by_city.md#prague) | [Bal Love](cz/bal-love-2024.md) |  |

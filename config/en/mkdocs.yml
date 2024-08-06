@@ -31,6 +31,7 @@ nav:
         - Events by City: ca/by_city.md
         - Host Cities: ca/host_cities.md
         - Collected Events:
+          - ca/victoria-lindy-exchange-2025.md
           - ca/capital-city-stomp-2024.md
           - ca/cats-corner-exchange-2024.md
           - ca/vancouver-balboa-mini-fest-2024.md
@@ -38,6 +39,7 @@ nav:
           - ca/rhythm-city-mess-around-2024.md
           - ca/stardust-festival-2024.md
         - Archives:
+          - ca/2025.md
           - ca/2024.md
       - Chile:
         - Timeline: cl/index.md
@@ -115,6 +117,7 @@ nav:
           - cn/westlake-swing-carnival-2024.md
           - cn/vans-n-nan-balboa-workshop-aug-2024.md
           - cn/blues-heat-2024.md
+          - cn/solo-jazz-workshop-black-bottom-2024.md
           - cn/blues-in-green-2024.md
           - cn/swing-feast-2024.md
           - cn/balboa-greater-bay-workshop-2024.md
@@ -224,8 +227,10 @@ nav:
         - Events by City: tw/by_city.md
         - Host Cities: tw/host_cities.md
         - Collected Events:
+          - tw/cheek-to-cheek-swing-festival-2025.md
           - tw/what-the-pa-2024.md
         - Archives:
+          - tw/2025.md
           - tw/2024.md
     - Europe:
       - Belgium:

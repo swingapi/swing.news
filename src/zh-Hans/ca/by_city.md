@@ -33,6 +33,7 @@ description: "在加拿大举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2025-05-17 ~ 19 | [Victoria Lindy Exchange](victoria-lindy-exchange-2025.md) |  |
 | 2024-11-09 ~ 10 | [Capital City Stomp](capital-city-stomp-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Victoria&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 

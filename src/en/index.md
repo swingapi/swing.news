@@ -9,6 +9,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 05-29 ~ 06-02 | [Italy](it/index.md) | [Silvi Marina](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest-2025.md) |  |
+| 05-17 ~ 19 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Victoria Lindy Exchange](ca/victoria-lindy-exchange-2025.md) |  |
 | 05-16 ~ 18 | [Lithuania](lt/index.md) | [Vilnius](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm-2025.md) |  |
 | 05-02 ~ 04 | [Italy](it/index.md) | [Brescia](it/by_city.md#brescia) | [Brescia Balboa Series - May](it/brescia-balboa-series-may-2025.md) |  |
 
@@ -62,6 +63,7 @@ status: timeline
 | 01-10 ~ 12 | [Italy](it/index.md) | [Pistoia](it/by_city.md#pistoia) • Montecatini Terme | [Crazy Blues](it/crazy-blues-2025.md) |  |
 | 01-10 ~ 12 | [Hong Kong](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest-2025.md) |  |
 | 01-10 ~ 12 | [France](fr/index.md) | [Toulouse](fr/by_city.md#toulouse) | [The Battle](fr/the-battle-2025.md) |  |
+| 01-09 ~ 12 | [Taiwan](tw/index.md) | [Taipei](tw/by_city.md#taipei) | [Cheek to Cheek Swing Festival](tw/cheek-to-cheek-swing-festival-2025.md) |  |
 | 01-04 ~ 06 | [Germany](de/index.md) | [Bavaria](de/by_city.md#bavaria) • Munich | [Slow Balboa Weekend Munich](de/slow-balboa-weekend-munich-2025.md) |  |
 | 01-03 ~ 06 | [Italy](it/index.md) | [Florence](it/by_city.md#florence) | [Keep On Swingin’](it/keep-on-swingin-2025.md) |  |
 | 01-03 ~ 05 | [Italy](it/index.md) | [Brescia](it/by_city.md#brescia) | [Brescia Balboa Series - Jan](it/brescia-balboa-series-jan-2025.md) |  |
@@ -250,6 +252,7 @@ status: timeline
 | 08-15 ~ 18 | [Germany](de/index.md) | [Saarland](de/by_city.md#saarland) • Saarbruecken | [Velo-Swing Festival](de/velo-swing-festival-2024.md) |  |
 | 08-14 ~ 18 | [Italy](it/index.md) | [Arezzo](it/by_city.md#arezzo) • Castiglion Fiorentino | [Bal & Lindy Vintage Festival](it/bal-n-lindy-vintage-festival-2024.md) |  |
 | 08-14 ~ 18 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat-2024.md) | 热能蓝调文化节 |
+| 08-14 ~ 16 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Solo Jazz Workshop - Black Bottom](cn/solo-jazz-workshop-black-bottom-2024.md) |  |
 | 08-12 ~ 12 | [Japan](jp/index.md) | [Tokyo](jp/by_city.md#tokyo) | [Swing Jack!](jp/swing-jack-2024.md) |  |
 | 08-10 ~ 12 | [China](cn/index.md) | [Jiangxi](cn/by_city.md#jiangxi) • Jingdezhen | [Blues in Green](cn/blues-in-green-2024.md) | 小罗老师布鲁斯工作坊 |
 | 08-04 ~ 17 | [Czechia](cz/index.md) | [Prague](cz/by_city.md#prague) | [Bal Love](cz/bal-love-2024.md) |  |
