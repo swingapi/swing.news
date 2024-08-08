@@ -12,6 +12,7 @@ description: "Swing Dance events in China (Grouped by City)."
 | Date | Event | |
 | --- | --- | --- |
 | 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
+| 2024-09-26 ~ 30 | [Golden Bal-Week](golden-bal-week-2024.md) |  |
 | 2024-09-06 ~ 09 | [Claudia & Coline Workshop](claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
 | 2024-09-06 ~ 08 | [Beijing Blues Bush](beijing-blues-bush-2024.md) |  |
 | 2024-07-19 ~ 21 | [Jazz Do It](jazz-do-it-2024.md) | 北京林迪舞交流节 |

@@ -45,6 +45,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | --- | --- | --- | --- |
 | 11-22 ~ 24 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Hot Jazz Jamboree](hot-jazz-jamboree-2024.md) |  |
 | 11-15 ~ 17 | [纽约州](by_city.md#new-york) • 罗切斯特 | [Stompology](stompology-2024.md) |  |
+| 11-14 ~ 17 | [德克萨斯州](by_city.md#texas) • 奥斯汀 | [Austin Lindy Exchange](austin-lindy-exchange-2024.md) |  |
 | 11-08 ~ 10 | [新墨西哥州](by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](breaking-bal-swing-n-blues-weekend-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-){ target='_blank' }
 

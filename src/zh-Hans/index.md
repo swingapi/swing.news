@@ -107,6 +107,7 @@ status: timeline
 | 11-15 ~ 17 | [法国](fr/index.md) | [里昂](fr/by_city.md#lyon) | [Lyon Swing Festival](fr/lyon-swing-festival-2024.md) |  |
 | 11-15 ~ 17 | [德国](de/index.md) | [奥格斯堡](de/by_city.md#augsburg) | [Augsburg Boogie Festival](de/augsburg-boogie-festival-2024.md) |  |
 | 11-15 ~ 17 | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Stir it!](ch/stir-it-2024.md) |  |
+| 11-14 ~ 17 | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 奥斯汀 | [Austin Lindy Exchange](us/austin-lindy-exchange-2024.md) |  |
 | 11-13 ~ 17 | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Dragon Swing Festival](pl/dragon-swing-festival-2024.md) |  |
 | 11-09 ~ 10 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 维多利亚 | [Capital City Stomp](ca/capital-city-stomp-2024.md) |  |
 | 11-08 ~ 10 | [美国](us/index.md) | [新墨西哥州](us/by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](us/breaking-bal-swing-n-blues-weekend-2024.md) |  |
@@ -185,6 +186,7 @@ status: timeline
 | 09-27 ~ 29 | [丹麦](dk/index.md) | [奧胡斯](dk/by_city.md#aarhus) | [Why Not Aarhus Lindy Exchange](dk/why-not-aarhus-lindy-exchange-2024.md) |  |
 | 09-27 ~ 29 | [瑞士](ch/index.md) | [日内瓦](ch/by_city.md#geneva) | [shaKe that laKe](ch/shake-that-lake-2024.md) |  |
 | 09-27 ~ 29 | [澳大利亚](au/index.md) | [昆士兰州](au/by_city.md#queensland) • 布里斯本 | [Brisbane Balboa Weekend](au/brisbane-balboa-weekend-2024.md) |  |
+| 09-26 ~ 30 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Golden Bal-Week](cn/golden-bal-week-2024.md) |  |
 | 09-26 ~ 29 | [加拿大](ca/index.md) | [艾伯塔省](ca/by_city.md#alberta) • 埃德蒙顿 | [Lindy Harvest](ca/lindy-harvest-2024.md) |  |
 | 09-21 ~ 22 | [英国](uk/index.md) | [牛津](uk/by_city.md#oxford) | [Fast Feet Festival](uk/fast-feet-festival-2024.md) |  |
 | 09-20 ~ 23 | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 玛格丽特河 | [Boogie Down South](au/boogie-down-south-2024.md) |  |

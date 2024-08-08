@@ -107,6 +107,7 @@ status: timeline
 | 11-15 ~ 17 | [France](fr/index.md) | [Lyon](fr/by_city.md#lyon) | [Lyon Swing Festival](fr/lyon-swing-festival-2024.md) |  |
 | 11-15 ~ 17 | [Germany](de/index.md) | [Augsburg](de/by_city.md#augsburg) | [Augsburg Boogie Festival](de/augsburg-boogie-festival-2024.md) |  |
 | 11-15 ~ 17 | [Switzerland](ch/index.md) | [Zurich](ch/by_city.md#zurich) | [Stir it!](ch/stir-it-2024.md) |  |
+| 11-14 ~ 17 | [United States](us/index.md) | [Texas](us/by_city.md#texas) • Austin | [Austin Lindy Exchange](us/austin-lindy-exchange-2024.md) |  |
 | 11-13 ~ 17 | [Poland](pl/index.md) | [Krakow](pl/by_city.md#krakow) | [Dragon Swing Festival](pl/dragon-swing-festival-2024.md) |  |
 | 11-09 ~ 10 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Capital City Stomp](ca/capital-city-stomp-2024.md) |  |
 | 11-08 ~ 10 | [United States](us/index.md) | [New Mexico](us/by_city.md#new-mexico) • Santa Fe | [Breaking Bal: Swing & Blues Weekend](us/breaking-bal-swing-n-blues-weekend-2024.md) |  |
@@ -185,6 +186,7 @@ status: timeline
 | 09-27 ~ 29 | [Denmark](dk/index.md) | [Aarhus](dk/by_city.md#aarhus) | [Why Not Aarhus Lindy Exchange](dk/why-not-aarhus-lindy-exchange-2024.md) |  |
 | 09-27 ~ 29 | [Switzerland](ch/index.md) | [Geneva](ch/by_city.md#geneva) | [shaKe that laKe](ch/shake-that-lake-2024.md) |  |
 | 09-27 ~ 29 | [Australia](au/index.md) | [Queensland](au/by_city.md#queensland) • Brisbane | [Brisbane Balboa Weekend](au/brisbane-balboa-weekend-2024.md) |  |
+| 09-26 ~ 30 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Golden Bal-Week](cn/golden-bal-week-2024.md) |  |
 | 09-26 ~ 29 | [Canada](ca/index.md) | [Alberta](ca/by_city.md#alberta) • Edmonton | [Lindy Harvest](ca/lindy-harvest-2024.md) |  |
 | 09-21 ~ 22 | [United Kingdom](uk/index.md) | [Oxford](uk/by_city.md#oxford) | [Fast Feet Festival](uk/fast-feet-festival-2024.md) |  |
 | 09-20 ~ 23 | [Australia](au/index.md) | [Western Australia](au/by_city.md#western-australia) • Margaret River | [Boogie Down South](au/boogie-down-south-2024.md) |  |
