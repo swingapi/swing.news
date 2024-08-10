@@ -25,6 +25,7 @@ description: "在西班牙举办的摇摆舞活动（时间线）。"
 | 10-25 ~ 27 | [圣塞巴斯蒂安](by_city.md#san-sebastian) | [Donosti Belle Swing Festival](donosti-belle-swing-festival-2024.md) |  |
 | 10-11 ~ 13 | [卡迪斯](by_city.md#cadiz) | [Cadiz Swing Festival](cadiz-swing-festival-2024.md) |  |
 | 10-04 ~ 06 | [巴塞罗那](by_city.md#barcelona) | [Stomp Your Feet](stomp-your-feet-2024.md) |  |
+| 10-04 ~ 06 | [马德里](by_city.md#madrid) | [Smile Trio Weekend](smile-trio-weekend-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fes%5D%20%3CName%3E&region=es&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-){ target='_blank' }
 
 ## 09

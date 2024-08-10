@@ -79,6 +79,7 @@ description: "在西班牙举办的摇摆舞活动（以城市划分）。"
 | 日期 | 活动 | |
 | --- | --- | --- |
 | 2024-11-22 ~ 24 | [ESpanish Blues Festival](espanish-blues-festival-2024.md) |  |
+| 2024-10-04 ~ 06 | [Smile Trio Weekend](smile-trio-weekend-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fes%5D%20%3CName%3E&region=es&province=Madrid&city=Madrid&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
