@@ -122,6 +122,7 @@ status: timeline
 | 11-01 ~ 03 | [英国](uk/index.md) | [剑桥](uk/by_city.md#cambridge) | [Cambridge Lindy Exchange](uk/cambridge-lindy-exchange-2024.md) |  |
 | 11-01 ~ 03 | [英国](uk/index.md) | [伯明翰](uk/by_city.md#birmingham) | [Atomic Cocktail](uk/atomic-cocktail-2024.md) |  |
 | 11-01 ~ 03 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Nov](it/brescia-balboa-series-nov-2024.md) |  |
+| 11-01 ~ 03 | [丹麦](dk/index.md) | [奧登斯](dk/by_city.md#odense) | [Falling for Swing](dk/falling-for-swing-2024.md) | Fallin' for Swing |
 | 11-01 ~ 03 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Swingtime Ball](cn/swingtime-ball-2024.md) | 摇擺盛典 |
 
 ## 10
