@@ -5,16 +5,16 @@ description: "2024-07-06"
 
 # Chocolate Shake 
 
-:fontawesome-solid-calendar-days: 2024-07-06 ~ 2024-07-06  
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-06 ~ 2024-07-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Swing Gigolo](https://swing.kids/jp/swing-gigolo)  
 
 ## 联系
 
-:fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <lindyhop@swing-jack.com>  
 
 ---
 

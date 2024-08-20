@@ -5,16 +5,16 @@ description: "2025-03-14 ~ 2025-03-16"
 
 # Swing Art Festival 
 
-:fontawesome-solid-calendar-days: 2025-03-14 ~ 2025-03-16  
-:fontawesome-solid-location-dot: Bordeaux  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-03-14 ~ 2025-03-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bordeaux  
 
 !!! info "Organizer"
 
-    [swingtime-bordeaux](https://swing.kids/fr/swingtime-bordeaux)  
+    [Swingtime Bordeaux](https://swing.kids/fr/swingtime-bordeaux)  
 
 ## Contact
 
-:fontawesome-solid-envelope: <swingtime@free.fr>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingtime@free.fr>  
 
 ---
 
