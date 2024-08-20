@@ -113,6 +113,13 @@
           mask-image: var(--md-admonition-icon--party);
 }
 
+/* List Leading Icon */
+
+.ky_list_leading_icon {
+  font-size: 18px;
+  padding: 0 6px;
+}
+
 /* Social Links Icon */
 
 .ky_social_links_icon {
