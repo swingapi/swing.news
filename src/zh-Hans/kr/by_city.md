@@ -13,6 +13,7 @@ description: "在韩国举办的摇摆舞活动（以城市划分）。"
 | --- | --- | --- |
 | 2024-12-05 ~ 08 | [Savoy Cup Asia](savoy-cup-asia-2024.md) |  |
 | 2024-11-15 ~ 17 | [Korean Balboa Weekend](korean-balboa-weekend-2024.md) |  |
+| 2024-10-18 ~ 20 | [Jump to Berlin](jump-to-berlin-2024.md) |  |
 | 2024-10-03 ~ 06 | [Seoul Lindy Fest](seoul-lindy-fest-2024.md) |  |
 | 2024-08-16 ~ 18 | [BAL & HOP](bal-hop-2024.md) |  |
 | 2024-07-27 ~ 27 | [Champions Cup Korea](champions-cup-korea-2024.md) |  |

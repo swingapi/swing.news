@@ -25,6 +25,7 @@ description: "Swing Dance events in South Korea (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 10-18 ~ 20 | [Seoul](by_city.md#seoul) | [Jump to Berlin](jump-to-berlin-2024.md) |  |
 | 10-03 ~ 06 | [Seoul](by_city.md#seoul) | [Seoul Lindy Fest](seoul-lindy-fest-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fkr%5D%20%3CName%3E&region=kr&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-){ target='_blank' }
 
