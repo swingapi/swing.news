@@ -140,6 +140,15 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 ---
 
+## <a id=tianjin></a>[天津](#tianjin) { #tianjin }
+
+| 日期 | 活动 | |
+| --- | --- | --- |
+| 2024-10-18 ~ 20 | [Swing to the Stars](swing-to-the-stars-2024.md) | 天津林迪舞节 |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=Tianjin&city=Tianjin&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=yunnan></a>[云南](#yunnan) { #yunnan }
 
 ### <a id=dali></a>大理 { #dali }

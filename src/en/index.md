@@ -147,6 +147,7 @@ status: timeline
 | 10-18 ~ 20 | [South Korea](kr/index.md) | [Seoul](kr/by_city.md#seoul) | [Jump to Berlin](kr/jump-to-berlin-2024.md) |  |
 | 10-18 ~ 20 | [France](fr/index.md) | [Paris](fr/by_city.md#paris) | [Rainy Blues](fr/rainy-blues-2024.md) |  |
 | 10-18 ~ 20 | [Germany](de/index.md) | [Darmstadt](de/by_city.md#darmstadt) | [DA SOLO Jazz Festival](de/da-solo-jazz-festival-2024.md) |  |
+| 10-18 ~ 20 | [China](cn/index.md) | [Tianjin](cn/by_city.md#tianjin) | [Swing to the Stars](cn/swing-to-the-stars-2024.md) | 天津林迪舞节 |
 | 10-18 ~ 20 | [China](cn/index.md) | [Guangdong](cn/by_city.md#guangdong) • Foshan | [Hop the Bay](cn/hop-the-bay-2024.md) | 湾区摇摆大会 |
 | 10-18 ~ 20 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Vancouver | [Vancouver Balboa Mini Fest](ca/vancouver-balboa-mini-fest-2024.md) |  |
 | 10-17 ~ 20 | [Norway](no/index.md) | [Bergen](no/by_city.md#bergen) | [Swing Brother, Swing!](no/swing-brother-swing-2024.md) |  |

@@ -140,6 +140,15 @@ description: "Swing Dance events in China (Grouped by City)."
 
 ---
 
+## <a id=tianjin></a>[Tianjin](#tianjin) { #tianjin }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-10-18 ~ 20 | [Swing to the Stars](swing-to-the-stars-2024.md) | 天津林迪舞节 |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=Tianjin&city=Tianjin&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
 ## <a id=yunnan></a>[Yunnan](#yunnan) { #yunnan }
 
 ### <a id=dali></a>Dali { #dali }
