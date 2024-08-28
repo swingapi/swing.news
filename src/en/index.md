@@ -40,6 +40,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 02-28 ~ 03-02 | [Germany](de/index.md) | [Berlin](de/by_city.md#berlin) | [Berlin Balboa Weekend](de/berlin-balboa-weekend-2025.md) |  |
 | 02-27 ~ 03-03 | [Germany](de/index.md) | [Bavaria](de/by_city.md#bavaria) • Munich | [Rock That Swing Festival](de/rock-that-swing-festival-2025.md) |  |
+| 02-20 ~ 23 | [Norway](no/index.md) | [Oslo](no/by_city.md#oslo) | [Winter Jump](no/winter-jump-2025.md) |  |
 | 02-14 ~ 16 | [United States](us/index.md) | [Texas](us/by_city.md#texas) • Austin | [Hot Rhythm Holiday](us/hot-rhythm-holiday-2025.md) |  |
 | 02-14 ~ 16 | [Switzerland](ch/index.md) | [Zurich](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
 | 02-07 ~ 09 | [Norway](no/index.md) | [Bergen](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
@@ -144,6 +145,7 @@ status: timeline
 | 10-25 ~ 27 | [Germany](de/index.md) | [Bavaria](de/by_city.md#bavaria) • Munich | [Munich Balboa & Shag Weekend](de/munich-balboa-n-shag-weekend-2024.md) |  |
 | 10-25 ~ 27 | [Canada](ca/index.md) | [Quebec](ca/by_city.md#quebec) • Montreal | [Cat’s Corner Exchange](ca/cats-corner-exchange-2024.md) |  |
 | 10-25 ~ 27 | [Belgium](be/index.md) | [Hasselt](be/by_city.md#hasselt) | [Boulevard Blues](be/boulevard-blues-2024.md) |  |
+| 10-18 ~ 20 | [Norway](no/index.md) | [Trondheim](no/by_city.md#trondheim) | [Vintage Swing Night](no/vintage-swing-night-2024.md) |  |
 | 10-18 ~ 20 | [South Korea](kr/index.md) | [Seoul](kr/by_city.md#seoul) | [Jump to Berlin](kr/jump-to-berlin-2024.md) |  |
 | 10-18 ~ 20 | [France](fr/index.md) | [Paris](fr/by_city.md#paris) | [Rainy Blues](fr/rainy-blues-2024.md) |  |
 | 10-18 ~ 20 | [Germany](de/index.md) | [Darmstadt](de/by_city.md#darmstadt) | [DA SOLO Jazz Festival](de/da-solo-jazz-festival-2024.md) |  |

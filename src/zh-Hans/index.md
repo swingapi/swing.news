@@ -40,6 +40,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 02-28 ~ 03-02 | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Berlin Balboa Weekend](de/berlin-balboa-weekend-2025.md) |  |
 | 02-27 ~ 03-03 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Rock That Swing Festival](de/rock-that-swing-festival-2025.md) |  |
+| 02-20 ~ 23 | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [Winter Jump](no/winter-jump-2025.md) |  |
 | 02-14 ~ 16 | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 奥斯汀 | [Hot Rhythm Holiday](us/hot-rhythm-holiday-2025.md) |  |
 | 02-14 ~ 16 | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration-2025.md) |  |
 | 02-07 ~ 09 | [挪威](no/index.md) | [卑尔根](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle-2025.md) |  |
@@ -144,6 +145,7 @@ status: timeline
 | 10-25 ~ 27 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Munich Balboa & Shag Weekend](de/munich-balboa-n-shag-weekend-2024.md) |  |
 | 10-25 ~ 27 | [加拿大](ca/index.md) | [魁北克省](ca/by_city.md#quebec) • 蒙特利尔 | [Cat’s Corner Exchange](ca/cats-corner-exchange-2024.md) |  |
 | 10-25 ~ 27 | [比利时](be/index.md) | [哈瑟尔特](be/by_city.md#hasselt) | [Boulevard Blues](be/boulevard-blues-2024.md) |  |
+| 10-18 ~ 20 | [挪威](no/index.md) | [特隆赫姆](no/by_city.md#trondheim) | [Vintage Swing Night](no/vintage-swing-night-2024.md) |  |
 | 10-18 ~ 20 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Jump to Berlin](kr/jump-to-berlin-2024.md) |  |
 | 10-18 ~ 20 | [法国](fr/index.md) | [巴黎](fr/by_city.md#paris) | [Rainy Blues](fr/rainy-blues-2024.md) |  |
 | 10-18 ~ 20 | [德国](de/index.md) | [达姆施塔特](de/by_city.md#darmstadt) | [DA SOLO Jazz Festival](de/da-solo-jazz-festival-2024.md) |  |

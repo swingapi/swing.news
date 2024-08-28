@@ -30,6 +30,7 @@ description: "Swing Dance events in Norway (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-02-20 ~ 23 | [Winter Jump](winter-jump-2025.md) |  |
 | 2024-10-04 ~ 06 | [Oslo Balboa Weekend](oslo-balboa-weekend-2024.md) |  |
 | 2024-09-06 ~ 08 | [O’slow](o-slow-2024.md) |  |
 | 2024-08-24 ~ 25 | [Slow Balboa Boost](slow-balboa-boost-2024.md) |  |
@@ -42,6 +43,7 @@ description: "Swing Dance events in Norway (Grouped by City)."
 | Date | Event | |
 | --- | --- | --- |
 | 2025-04-25 ~ 27 | [Bal’heim](bal-heim-2025.md) |  |
+| 2024-10-18 ~ 20 | [Vintage Swing Night](vintage-swing-night-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fno%5D%20%3CName%3E&region=no&province=Trondheim&city=Trondheim&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
