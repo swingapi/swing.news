@@ -7,6 +7,20 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 
 ## 2025
 
+## 06
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 06-20 ~ 22 | [加利福尼亚州](by_city.md#california) • 圣地亚哥 | [San Diego Balboa and Lindy Exchange](san-diego-balboa-and-lindy-exchange-2025.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2025-06-&date_ends=2025-06-){ target='_blank' }
+
+## 05
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 05-30 ~ 06-01 | [印第安纳州](by_city.md#indiana) • 印第安纳波利斯 | [Back Home Again](back-home-again-2025.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2025-05-&date_ends=2025-05-){ target='_blank' }
+
 ## 03
 
 | 日期 | 城市 | 活动 | |
@@ -45,6 +59,7 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | --- | --- | --- | --- |
 | 11-22 ~ 24 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Hot Jazz Jamboree](hot-jazz-jamboree-2024.md) |  |
 | 11-15 ~ 17 | [纽约州](by_city.md#new-york) • 罗切斯特 | [Stompology](stompology-2024.md) |  |
+| 11-15 ~ 17 | [华盛顿哥伦比亚特区](by_city.md#washington-d.c.) | [Stardust Slow Balboa Weekend](stardust-slow-balboa-weekend-2024.md) |  |
 | 11-14 ~ 17 | [德克萨斯州](by_city.md#texas) • 奥斯汀 | [Austin Lindy Exchange](austin-lindy-exchange-2024.md) |  |
 | 11-08 ~ 10 | [新墨西哥州](by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](breaking-bal-swing-n-blues-weekend-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-){ target='_blank' }
@@ -54,7 +69,10 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 10-25 ~ 28 | [华盛顿](by_city.md#washington) • 西雅图 | [Emerald City Blues Festival](emerald-city-blues-festival-2024.md) |  |
-| 10-05 ~ 07 | [宾夕法尼亚州](by_city.md#pennsylvania) • 費城 | [Blues Muse](blues-muse-2024.md) |  |
+| 10-25 ~ 27 | [伊利诺伊州](by_city.md#illinois) • 香槟 | [Bubble City Bash](bubble-city-bash-2024.md) |  |
+| 10-18 ~ 20 | [纽约州](by_city.md#new-york) • 纽约市 | [The American Lindy Hop Championships](the-american-lindy-hop-championships-2024.md) |  |
+| 10-11 ~ 13 | [印第安纳州](by_city.md#indiana) • 西拉斐特 | [Whistle Stop](whistle-stop-2024.md) |  |
+| 10-04 ~ 06 | [宾夕法尼亚州](by_city.md#pennsylvania) • 費城 | [Blues Muse](blues-muse-2024.md) |  |
 | 10-03 ~ 06 | [密苏里州](by_city.md#missouri) • 圣路易斯 | [STL Getdown](stl-getdown-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-){ target='_blank' }
 
@@ -63,6 +81,8 @@ description: "在美国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 09-27 ~ 29 | [伊利诺伊州](by_city.md#illinois) • 芝加哥 | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
+| 09-27 ~ 29 | [纽约州](by_city.md#new-york) • 纽约市 | [Express Track Blues](express-track-blues-2024.md) |  |
+| 09-27 ~ 29 | [德克萨斯州](by_city.md#texas) • 达拉斯 | [Blues Fusion DFW](blues-fusion-dfw-2024.md) |  |
 | 09-20 ~ 22 | [纽约州](by_city.md#new-york) • 纽约市 | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
 | 09-13 ~ 16 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Lindy on the Rocks](lindy-on-the-rocks-2024.md) |  |
 | 09-13 ~ 16 | [科罗拉多州](by_city.md#colorado) • 丹佛 | [Hot Night Fusion Weekend](hot-night-fusion-weekend-2024.md) |  |

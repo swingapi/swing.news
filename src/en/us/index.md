@@ -7,6 +7,20 @@ description: "Swing Dance events in United States (Timeline)."
 
 ## 2025
 
+## 06
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 06-20 ~ 22 | [California](by_city.md#california) • San Diego | [San Diego Balboa and Lindy Exchange](san-diego-balboa-and-lindy-exchange-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2025-06-&date_ends=2025-06-){ target='_blank' }
+
+## 05
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 05-30 ~ 06-01 | [Indiana](by_city.md#indiana) • Indianapolis | [Back Home Again](back-home-again-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2025-05-&date_ends=2025-05-){ target='_blank' }
+
 ## 03
 
 | Date | City | Event | |
@@ -45,6 +59,7 @@ description: "Swing Dance events in United States (Timeline)."
 | --- | --- | --- | --- |
 | 11-22 ~ 24 | [Colorado](by_city.md#colorado) • Denver | [Hot Jazz Jamboree](hot-jazz-jamboree-2024.md) |  |
 | 11-15 ~ 17 | [New York](by_city.md#new-york) • Rochester | [Stompology](stompology-2024.md) |  |
+| 11-15 ~ 17 | [Washington D.C.](by_city.md#washington-d.c.) | [Stardust Slow Balboa Weekend](stardust-slow-balboa-weekend-2024.md) |  |
 | 11-14 ~ 17 | [Texas](by_city.md#texas) • Austin | [Austin Lindy Exchange](austin-lindy-exchange-2024.md) |  |
 | 11-08 ~ 10 | [New Mexico](by_city.md#new-mexico) • Santa Fe | [Breaking Bal: Swing & Blues Weekend](breaking-bal-swing-n-blues-weekend-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-){ target='_blank' }
@@ -54,7 +69,10 @@ description: "Swing Dance events in United States (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 10-25 ~ 28 | [Washington](by_city.md#washington) • Seattle | [Emerald City Blues Festival](emerald-city-blues-festival-2024.md) |  |
-| 10-05 ~ 07 | [Pennsylvania](by_city.md#pennsylvania) • Philadelphia | [Blues Muse](blues-muse-2024.md) |  |
+| 10-25 ~ 27 | [Illinois](by_city.md#illinois) • Champaign | [Bubble City Bash](bubble-city-bash-2024.md) |  |
+| 10-18 ~ 20 | [New York](by_city.md#new-york) • New York City | [The American Lindy Hop Championships](the-american-lindy-hop-championships-2024.md) |  |
+| 10-11 ~ 13 | [Indiana](by_city.md#indiana) • West Lafayette | [Whistle Stop](whistle-stop-2024.md) |  |
+| 10-04 ~ 06 | [Pennsylvania](by_city.md#pennsylvania) • Philadelphia | [Blues Muse](blues-muse-2024.md) |  |
 | 10-03 ~ 06 | [Missouri](by_city.md#missouri) • St. Louis | [STL Getdown](stl-getdown-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=&city=&org_id=&date_starts=2024-10-&date_ends=2024-10-){ target='_blank' }
 
@@ -63,6 +81,8 @@ description: "Swing Dance events in United States (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 | 09-27 ~ 29 | [Illinois](by_city.md#illinois) • Chicago | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
+| 09-27 ~ 29 | [New York](by_city.md#new-york) • New York City | [Express Track Blues](express-track-blues-2024.md) |  |
+| 09-27 ~ 29 | [Texas](by_city.md#texas) • Dallas | [Blues Fusion DFW](blues-fusion-dfw-2024.md) |  |
 | 09-20 ~ 22 | [New York](by_city.md#new-york) • New York City | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
 | 09-13 ~ 16 | [Colorado](by_city.md#colorado) • Denver | [Lindy on the Rocks](lindy-on-the-rocks-2024.md) |  |
 | 09-13 ~ 16 | [Colorado](by_city.md#colorado) • Denver | [Hot Night Fusion Weekend](hot-night-fusion-weekend-2024.md) |  |

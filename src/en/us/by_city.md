@@ -29,6 +29,13 @@ description: "Swing Dance events in United States (Grouped by City)."
 | 2024-01-12 ~ 14 | [California Balboa Classic](california-balboa-classic-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=California&city=Los%20Angeles&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
+### <a id=san-diego></a>San Diego { #san-diego }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2025-06-20 ~ 22 | [San Diego Balboa and Lindy Exchange](san-diego-balboa-and-lindy-exchange-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=California&city=San%20Diego&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
 ---
 
 ## <a id=colorado></a>[Colorado](#colorado) { #colorado }
@@ -46,12 +53,37 @@ description: "Swing Dance events in United States (Grouped by City)."
 
 ## <a id=illinois></a>[Illinois](#illinois) { #illinois }
 
+### <a id=champaign></a>Champaign { #champaign }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-10-25 ~ 27 | [Bubble City Bash](bubble-city-bash-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Champaign&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
 ### <a id=chicago></a>Chicago { #chicago }
 
 | Date | Event | |
 | --- | --- | --- |
 | 2024-09-27 ~ 29 | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Chicago&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
+## <a id=indiana></a>[Indiana](#indiana) { #indiana }
+
+### <a id=indianapolis></a>Indianapolis { #indianapolis }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2025-05-30 ~ 06-01 | [Back Home Again](back-home-again-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Indiana&city=Indianapolis&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+### <a id=west-lafayette></a>West Lafayette { #west-lafayette }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-10-11 ~ 13 | [Whistle Stop](whistle-stop-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Indiana&city=West%20Lafayette&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 
@@ -123,6 +155,8 @@ description: "Swing Dance events in United States (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2024-10-18 ~ 20 | [The American Lindy Hop Championships](the-american-lindy-hop-championships-2024.md) |  |
+| 2024-09-27 ~ 29 | [Express Track Blues](express-track-blues-2024.md) |  |
 | 2024-09-20 ~ 22 | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
 | 2024-04-01 ~ 07 | [Bal Week](bal-week-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
@@ -164,7 +198,7 @@ description: "Swing Dance events in United States (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-10-05 ~ 07 | [Blues Muse](blues-muse-2024.md) |  |
+| 2024-10-04 ~ 06 | [Blues Muse](blues-muse-2024.md) |  |
 | 2024-08-02 ~ 04 | [Rittenhopalooza](rittenhopalooza-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Pennsylvania&city=Philadelphia&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
@@ -179,6 +213,13 @@ description: "Swing Dance events in United States (Grouped by City)."
 | 2025-02-14 ~ 16 | [Hot Rhythm Holiday](hot-rhythm-holiday-2025.md) |  |
 | 2024-11-14 ~ 17 | [Austin Lindy Exchange](austin-lindy-exchange-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Austin&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+### <a id=dallas></a>Dallas { #dallas }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-09-27 ~ 29 | [Blues Fusion DFW](blues-fusion-dfw-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Dallas&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ### <a id=houston></a>Houston { #houston }
 
@@ -198,6 +239,15 @@ description: "Swing Dance events in United States (Grouped by City)."
 | 2024-12-28 ~ 2025-01-01 | [Stormy Weather Jazz Festival](stormy-weather-jazz-festival-2024.md) |  |
 | 2024-10-25 ~ 28 | [Emerald City Blues Festival](emerald-city-blues-festival-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Washington&city=Seattle&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
+
+---
+
+## <a id=washington-d.c.></a>[Washington D.C.](#washington-d.c.) { #washington-d.c. }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2024-11-15 ~ 17 | [Stardust Slow Balboa Weekend](stardust-slow-balboa-weekend-2024.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fus%5D%20%3CName%3E&region=us&province=Washington%20D.C.&city=Washington%20D.C.&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
 ---
 

@@ -4,10 +4,17 @@ status: timeline
 
 ## 2025
 
+## 06
+
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 06-20 ~ 22 | [United States](us/index.md) | [California](us/by_city.md#california) • San Diego | [San Diego Balboa and Lindy Exchange](us/san-diego-balboa-and-lindy-exchange-2025.md) |  |
+
 ## 05
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
+| 05-30 ~ 06-01 | [United States](us/index.md) | [Indiana](us/by_city.md#indiana) • Indianapolis | [Back Home Again](us/back-home-again-2025.md) |  |
 | 05-29 ~ 06-02 | [Italy](it/index.md) | [Silvi Marina](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest-2025.md) |  |
 | 05-17 ~ 19 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Victoria Lindy Exchange](ca/victoria-lindy-exchange-2025.md) |  |
 | 05-16 ~ 18 | [Lithuania](lt/index.md) | [Vilnius](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm-2025.md) |  |
@@ -103,6 +110,7 @@ status: timeline
 | 11-16 ~ 17 | [Taiwan](tw/index.md) | [Taipei](tw/by_city.md#taipei) | [What The PA!](tw/what-the-pa-2024.md) |  |
 | 11-16 ~ 17 | [Germany](de/index.md) | [Baden-Wurttemberg](de/by_city.md#baden-wurttemberg) • Stuttgart | [Balboa Date Stuttgart](de/balboa-date-stuttgart-2024.md) |  |
 | 11-15 ~ 17 | [United States](us/index.md) | [New York](us/by_city.md#new-york) • Rochester | [Stompology](us/stompology-2024.md) |  |
+| 11-15 ~ 17 | [United States](us/index.md) | [Washington D.C.](us/by_city.md#washington-d.c.) | [Stardust Slow Balboa Weekend](us/stardust-slow-balboa-weekend-2024.md) |  |
 | 11-15 ~ 17 | [South Korea](kr/index.md) | [Seoul](kr/by_city.md#seoul) | [Korean Balboa Weekend](kr/korean-balboa-weekend-2024.md) |  |
 | 11-15 ~ 17 | [France](fr/index.md) | [Rennes](fr/by_city.md#rennes) | [SwinG’amann](fr/swingamann-2024.md) |  |
 | 11-15 ~ 17 | [France](fr/index.md) | [Lyon](fr/by_city.md#lyon) | [Lyon Swing Festival](fr/lyon-swing-festival-2024.md) |  |
@@ -137,6 +145,7 @@ status: timeline
 | 10-26 ~ 26 | [Japan](jp/index.md) | [Tokyo](jp/by_city.md#tokyo) | [Swing OWL Halloween](jp/swing-owl-halloween-2024.md) |  |
 | 10-26 ~ 26 | [Australia](au/index.md) | [Victoria](au/by_city.md#victoria) • Melbourne | [Lindy Rovale](au/lindy-rovale-2024.md) |  |
 | 10-25 ~ 28 | [United States](us/index.md) | [Washington](us/by_city.md#washington) • Seattle | [Emerald City Blues Festival](us/emerald-city-blues-festival-2024.md) |  |
+| 10-25 ~ 27 | [United States](us/index.md) | [Illinois](us/by_city.md#illinois) • Champaign | [Bubble City Bash](us/bubble-city-bash-2024.md) |  |
 | 10-25 ~ 27 | [Spain](es/index.md) | [Malaga](es/by_city.md#malaga) | [Swing Fest Malaga](es/swing-fest-malaga-2024.md) |  |
 | 10-25 ~ 27 | [Spain](es/index.md) | [Ciudad Real](es/by_city.md#ciudad-real) | [Swing Ciudad Real](es/swing-ciudad-real-2024.md) |  |
 | 10-25 ~ 27 | [Spain](es/index.md) | [San Sebastian](es/by_city.md#san-sebastian) | [Donosti Belle Swing Festival](es/donosti-belle-swing-festival-2024.md) |  |
@@ -145,6 +154,7 @@ status: timeline
 | 10-25 ~ 27 | [Germany](de/index.md) | [Bavaria](de/by_city.md#bavaria) • Munich | [Munich Balboa & Shag Weekend](de/munich-balboa-n-shag-weekend-2024.md) |  |
 | 10-25 ~ 27 | [Canada](ca/index.md) | [Quebec](ca/by_city.md#quebec) • Montreal | [Cat’s Corner Exchange](ca/cats-corner-exchange-2024.md) |  |
 | 10-25 ~ 27 | [Belgium](be/index.md) | [Hasselt](be/by_city.md#hasselt) | [Boulevard Blues](be/boulevard-blues-2024.md) |  |
+| 10-18 ~ 20 | [United States](us/index.md) | [New York](us/by_city.md#new-york) • New York City | [The American Lindy Hop Championships](us/the-american-lindy-hop-championships-2024.md) |  |
 | 10-18 ~ 20 | [Norway](no/index.md) | [Trondheim](no/by_city.md#trondheim) | [Vintage Swing Night](no/vintage-swing-night-2024.md) |  |
 | 10-18 ~ 20 | [South Korea](kr/index.md) | [Seoul](kr/by_city.md#seoul) | [Jump to Berlin](kr/jump-to-berlin-2024.md) |  |
 | 10-18 ~ 20 | [France](fr/index.md) | [Paris](fr/by_city.md#paris) | [Rainy Blues](fr/rainy-blues-2024.md) |  |
@@ -154,14 +164,15 @@ status: timeline
 | 10-18 ~ 20 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Vancouver | [Vancouver Balboa Mini Fest](ca/vancouver-balboa-mini-fest-2024.md) |  |
 | 10-17 ~ 20 | [Norway](no/index.md) | [Bergen](no/by_city.md#bergen) | [Swing Brother, Swing!](no/swing-brother-swing-2024.md) |  |
 | 10-13 ~ 20 | [Czechia](cz/index.md) | [Prague](cz/by_city.md#prague) | [Slow Bal Love](cz/slow-bal-love-2024.md) |  |
+| 10-11 ~ 13 | [United States](us/index.md) | [Indiana](us/by_city.md#indiana) • West Lafayette | [Whistle Stop](us/whistle-stop-2024.md) |  |
 | 10-11 ~ 13 | [United Kingdom](uk/index.md) | [Bradford](uk/by_city.md#bradford) | [Northern Slow Bal Celebration](uk/northern-slow-bal-celebration-2024.md) |  |
 | 10-11 ~ 13 | [Lithuania](lt/index.md) | [Vilnius](lt/by_city.md#vilnius) | [All Lithuanian Weekend](lt/all-lithuanian-weekend-2024.md) |  |
 | 10-11 ~ 13 | [Japan](jp/index.md) | [Osaka](jp/by_city.md#osaka) | [Osaka Lindy Exchange](jp/osaka-lindy-exchange-2024.md) |  |
 | 10-11 ~ 13 | [Italy](it/index.md) | [Milan](it/by_city.md#milan) | [Swing’n’Milan](it/swing-n-milan-2024.md) |  |
 | 10-11 ~ 13 | [Spain](es/index.md) | [Cadiz](es/by_city.md#cadiz) | [Cadiz Swing Festival](es/cadiz-swing-festival-2024.md) |  |
 | 10-11 ~ 13 | [Germany](de/index.md) | [Berlin](de/by_city.md#berlin) | [Are You Syncopated?!](de/are-you-syncopated-2024.md) |  |
-| 10-05 ~ 07 | [United States](us/index.md) | [Pennsylvania](us/by_city.md#pennsylvania) • Philadelphia | [Blues Muse](us/blues-muse-2024.md) |  |
 | 10-04 ~ 13 | [Greece](gr/index.md) | [Crete](gr/by_city.md#crete) | [Crete on the Beat](gr/crete-on-the-beat-2024.md) |  |
+| 10-04 ~ 06 | [United States](us/index.md) | [Pennsylvania](us/by_city.md#pennsylvania) • Philadelphia | [Blues Muse](us/blues-muse-2024.md) |  |
 | 10-04 ~ 06 | [United Kingdom](uk/index.md) | [Liverpool](uk/by_city.md#liverpool) | [Mersey Swing Smackdown](uk/mersey-swing-smackdown-2024.md) |  |
 | 10-04 ~ 06 | [Norway](no/index.md) | [Oslo](no/by_city.md#oslo) | [Oslo Balboa Weekend](no/oslo-balboa-weekend-2024.md) |  |
 | 10-04 ~ 06 | [Italy](it/index.md) | [Brescia](it/by_city.md#brescia) | [Brescia Balboa Series - Oct](it/brescia-balboa-series-oct-2024.md) |  |
@@ -183,6 +194,8 @@ status: timeline
 | 09-28 ~ 29 | [Germany](de/index.md) | [Baden-Wurttemberg](de/by_city.md#baden-wurttemberg) • Stuttgart | [Flying Feet Stuttgart](de/flying-feet-stuttgart-2024.md) |  |
 | 09-28 ~ 29 | [Germany](de/index.md) | [Heidelberg](de/by_city.md#heidelberg) | [Boost Lindy Hop Workshop](de/boost-lindy-hop-workshop-2024.md) |  |
 | 09-27 ~ 29 | [United States](us/index.md) | [Illinois](us/by_city.md#illinois) • Chicago | [Great Lakes Balboa Escape](us/great-lakes-balboa-escape-2024.md) |  |
+| 09-27 ~ 29 | [United States](us/index.md) | [New York](us/by_city.md#new-york) • New York City | [Express Track Blues](us/express-track-blues-2024.md) |  |
+| 09-27 ~ 29 | [United States](us/index.md) | [Texas](us/by_city.md#texas) • Dallas | [Blues Fusion DFW](us/blues-fusion-dfw-2024.md) |  |
 | 09-27 ~ 29 | [Thailand](th/index.md) | [Bangkok](th/by_city.md#bangkok) | [Diga Diga Doo](th/diga-diga-doo-2024.md) |  |
 | 09-27 ~ 29 | [Poland](pl/index.md) | [Krakow](pl/by_city.md#krakow) | [Rock the Balboa!](pl/rock-the-balboa-2024.md) |  |
 | 09-27 ~ 29 | [Luxembourg](lu/index.md) | [Luxembourg City](lu/by_city.md#luxembourg-city) | [Swing the Abbey](lu/swing-the-abbey-2024.md) |  |
