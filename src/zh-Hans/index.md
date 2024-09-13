@@ -205,8 +205,8 @@ status: timeline
 | 09-27 ~ 29 | [丹麦](dk/index.md) | [奧胡斯](dk/by_city.md#aarhus) | [Why Not Aarhus Lindy Exchange](dk/why-not-aarhus-lindy-exchange-2024.md) |  |
 | 09-27 ~ 29 | [瑞士](ch/index.md) | [日内瓦](ch/by_city.md#geneva) | [shaKe that laKe](ch/shake-that-lake-2024.md) |  |
 | 09-27 ~ 29 | [澳大利亚](au/index.md) | [昆士兰州](au/by_city.md#queensland) • 布里斯本 | [Brisbane Balboa Weekend](au/brisbane-balboa-weekend-2024.md) |  |
-| 09-26 ~ 30 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Golden Bal-Week](cn/golden-bal-week-2024.md) |  |
 | 09-26 ~ 29 | [加拿大](ca/index.md) | [艾伯塔省](ca/by_city.md#alberta) • 埃德蒙顿 | [Lindy Harvest](ca/lindy-harvest-2024.md) |  |
+| 09-25 ~ 30 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Golden Bal-Week](cn/golden-bal-week-2024.md) | 巴尔博亚金秋舞会 |
 | 09-21 ~ 22 | [英国](uk/index.md) | [牛津](uk/by_city.md#oxford) | [Fast Feet Festival](uk/fast-feet-festival-2024.md) |  |
 | 09-20 ~ 23 | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 玛格丽特河 | [Boogie Down South](au/boogie-down-south-2024.md) |  |
 | 09-20 ~ 22 | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 纽约市 | [New York Lindy Exchange](us/new-york-lindy-exchange-2024.md) |  |

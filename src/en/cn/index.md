@@ -34,7 +34,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-| 09-26 ~ 30 | [Beijing](by_city.md#beijing) | [Golden Bal-Week](golden-bal-week-2024.md) |  |
+| 09-25 ~ 30 | [Beijing](by_city.md#beijing) | [Golden Bal-Week](golden-bal-week-2024.md) | 巴尔博亚金秋舞会 |
 | 09-20 ~ 22 | [Shanghai](by_city.md#shanghai) | [Swing Paramount](swing-paramount-2024.md) | 摇摆百乐门 |
 | 09-15 ~ 17 | [Shanghai](by_city.md#shanghai) | [Women's Jazzination](womens-jazzination-2024.md) | 爵了姐妹 |
 | 09-06 ~ 09 | [Beijing](by_city.md#beijing) | [Claudia & Coline Workshop](claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
