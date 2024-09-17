@@ -171,6 +171,7 @@ status: timeline
 | 10-11 ~ 13 | [Italy](it/index.md) | [Milan](it/by_city.md#milan) | [Swing’n’Milan](it/swing-n-milan-2024.md) |  |
 | 10-11 ~ 13 | [Spain](es/index.md) | [Cadiz](es/by_city.md#cadiz) | [Cadiz Swing Festival](es/cadiz-swing-festival-2024.md) |  |
 | 10-11 ~ 13 | [Germany](de/index.md) | [Berlin](de/by_city.md#berlin) | [Are You Syncopated?!](de/are-you-syncopated-2024.md) |  |
+| 10-05 ~ 06 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Juan Special Workshop](cn/juan-special-workshop-2024.md) | Juan 国庆特别工作坊 |
 | 10-04 ~ 13 | [Greece](gr/index.md) | [Crete](gr/by_city.md#crete) | [Crete on the Beat](gr/crete-on-the-beat-2024.md) |  |
 | 10-04 ~ 06 | [United States](us/index.md) | [Pennsylvania](us/by_city.md#pennsylvania) • Philadelphia | [Blues Muse](us/blues-muse-2024.md) |  |
 | 10-04 ~ 06 | [United Kingdom](uk/index.md) | [Liverpool](uk/by_city.md#liverpool) | [Mersey Swing Smackdown](uk/mersey-swing-smackdown-2024.md) |  |
