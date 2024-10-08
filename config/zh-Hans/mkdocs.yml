@@ -116,6 +116,7 @@ nav:
         - 按城市划分: cn/by_city.md
         - 主办城市: cn/host_cities.md
         - 已收录活动:
+          - cn/all-balboa-exchange-2025.md
           - cn/shanghai-lindy-festival-2024.md
           - cn/swingtime-ball-2024.md
           - cn/swing-to-the-stars-2024.md
@@ -160,6 +161,7 @@ nav:
           - cn/xiamen-jiaming-n-wanyuan-workshop-2024.md
           - cn/beijing-balboa-travel-2024.md
         - 存档:
+          - cn/2025.md
           - cn/2024.md
       - 香港:
         - 时间线: hk/index.md
@@ -484,8 +486,10 @@ nav:
         - 按城市划分: ru/by_city.md
         - 主办城市: ru/host_cities.md
         - 已收录活动:
+          - ru/balboa-dacha-2025.md
           - ru/moscow-comes-around-2024.md
         - 存档:
+          - ru/2025.md
           - ru/2024.md
       - 瑞典:
         - 时间线: se/index.md

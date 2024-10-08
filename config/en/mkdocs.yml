@@ -115,6 +115,7 @@ nav:
         - Events by City: cn/by_city.md
         - Host Cities: cn/host_cities.md
         - Collected Events:
+          - cn/all-balboa-exchange-2025.md
           - cn/shanghai-lindy-festival-2024.md
           - cn/swingtime-ball-2024.md
           - cn/swing-to-the-stars-2024.md
@@ -159,6 +160,7 @@ nav:
           - cn/xiamen-jiaming-n-wanyuan-workshop-2024.md
           - cn/beijing-balboa-travel-2024.md
         - Archives:
+          - cn/2025.md
           - cn/2024.md
       - Hong Kong:
         - Timeline: hk/index.md
@@ -483,8 +485,10 @@ nav:
         - Events by City: ru/by_city.md
         - Host Cities: ru/host_cities.md
         - Collected Events:
+          - ru/balboa-dacha-2025.md
           - ru/moscow-comes-around-2024.md
         - Archives:
+          - ru/2025.md
           - ru/2024.md
       - Sweden:
         - Timeline: se/index.md

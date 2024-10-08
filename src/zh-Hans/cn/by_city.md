@@ -114,6 +114,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2025-02-21 ~ 23 | [All Balboa Exchange](all-balboa-exchange-2025.md) |  |
 | 2024-12-13 ~ 15 | [Shanghai Lindy Festival](shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
 | 2024-10-03 ~ 06 | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2024.md) |  |
 | 2024-09-20 ~ 22 | [Swing Paramount](swing-paramount-2024.md) | 摇摆百乐门 |
