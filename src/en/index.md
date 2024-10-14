@@ -126,6 +126,7 @@ status: timeline
 | 11-14 ~ 17 | [United States](us/index.md) | [Texas](us/by_city.md#texas) • Austin | [Austin Lindy Exchange](us/austin-lindy-exchange-2024.md) |  |
 | 11-13 ~ 17 | [Poland](pl/index.md) | [Krakow](pl/by_city.md#krakow) | [Dragon Swing Festival](pl/dragon-swing-festival-2024.md) |  |
 | 11-09 ~ 10 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Capital City Stomp](ca/capital-city-stomp-2024.md) |  |
+| 11-08 ~ 11 | [China](cn/index.md) | [Zhejiang](cn/by_city.md#zhejiang) • Hangzhou | [Hangzhou Blues Workshop - Eddy](cn/hangzhou-blues-workshop-eddy-2024.md) | 杭州金秋布鲁斯文化周 |
 | 11-08 ~ 10 | [United States](us/index.md) | [New Mexico](us/by_city.md#new-mexico) • Santa Fe | [Breaking Bal: Swing & Blues Weekend](us/breaking-bal-swing-n-blues-weekend-2024.md) |  |
 | 11-08 ~ 10 | [Netherlands](nl/index.md) | [Utrecht](nl/by_city.md#utrecht) | [SwingDom](nl/swing-dom-2024.md) |  |
 | 11-08 ~ 10 | [Germany](de/index.md) | [Schleswig-Holstein](de/by_city.md#schleswig-holstein) • Lubeck | [Swinging Marzipan Lubeck](de/swinging-marzipan-lubeck-2024.md) |  |

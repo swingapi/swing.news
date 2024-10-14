@@ -126,6 +126,7 @@ status: timeline
 | 11-14 ~ 17 | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 奥斯汀 | [Austin Lindy Exchange](us/austin-lindy-exchange-2024.md) |  |
 | 11-13 ~ 17 | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Dragon Swing Festival](pl/dragon-swing-festival-2024.md) |  |
 | 11-09 ~ 10 | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 维多利亚 | [Capital City Stomp](ca/capital-city-stomp-2024.md) |  |
+| 11-08 ~ 11 | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Hangzhou Blues Workshop - Eddy](cn/hangzhou-blues-workshop-eddy-2024.md) | 杭州金秋布鲁斯文化周 |
 | 11-08 ~ 10 | [美国](us/index.md) | [新墨西哥州](us/by_city.md#new-mexico) • 圣菲 | [Breaking Bal: Swing & Blues Weekend](us/breaking-bal-swing-n-blues-weekend-2024.md) |  |
 | 11-08 ~ 10 | [荷兰](nl/index.md) | [乌得勒支](nl/by_city.md#utrecht) | [SwingDom](nl/swing-dom-2024.md) |  |
 | 11-08 ~ 10 | [德国](de/index.md) | [石勒苏益格-荷尔斯泰因州](de/by_city.md#schleswig-holstein) • 呂北克 | [Swinging Marzipan Lubeck](de/swinging-marzipan-lubeck-2024.md) |  |

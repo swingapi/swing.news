@@ -168,6 +168,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2024-11-08 ~ 11 | [Hangzhou Blues Workshop - Eddy](hangzhou-blues-workshop-eddy-2024.md) | 杭州金秋布鲁斯文化周 |
 | 2024-08-30 ~ 09-01 | [Westlake Swing Carnival](westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
 | 2024-08-23 ~ 25 | [Vans & Nan Balboa Workshop - Aug](vans-n-nan-balboa-workshop-aug-2024.md) |  |
 | 2024-07-26 ~ 28 | [Hangzhou Swing 10th Anniversary](hangzhou-swing-10th-anniversary-2024.md) | 摇摆杭州十周年 |

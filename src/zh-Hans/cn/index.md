@@ -29,6 +29,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
+| 11-08 ~ 11 | [浙江](by_city.md#zhejiang) • 杭州 | [Hangzhou Blues Workshop - Eddy](hangzhou-blues-workshop-eddy-2024.md) | 杭州金秋布鲁斯文化周 |
 | 11-01 ~ 03 | [北京](by_city.md#beijing) | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-){ target='_blank' }
 

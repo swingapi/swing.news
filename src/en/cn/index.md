@@ -29,6 +29,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 11-08 ~ 11 | [Zhejiang](by_city.md#zhejiang) • Hangzhou | [Hangzhou Blues Workshop - Eddy](hangzhou-blues-workshop-eddy-2024.md) | 杭州金秋布鲁斯文化周 |
 | 11-01 ~ 03 | [Beijing](by_city.md#beijing) | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2024-11-&date_ends=2024-11-){ target='_blank' }
 
