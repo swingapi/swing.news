@@ -12,6 +12,7 @@ description: "Swing Dance events in China (Grouped by City)."
 | Date | Event | |
 | --- | --- | --- |
 | 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
+| 2024-10-30 ~ 31 | [Balboa with Shawn - Oct](balboa-with-shawn-oct-2024.md) |  |
 | 2024-10-05 ~ 06 | [Juan Special Workshop](juan-special-workshop-2024.md) | Juan 国庆特别工作坊 |
 | 2024-09-25 ~ 30 | [Golden Bal-Week](golden-bal-week-2024.md) | 巴尔博亚金秋舞会 |
 | 2024-09-06 ~ 09 | [Claudia & Coline Workshop](claudia-n-coline-workshop-2024.md) | C&C 大师工作坊 |
@@ -70,6 +71,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2024-10-18 ~ 20 | [Workshop with Juan Villafane - Oct](workshop-with-juan-villafane-oct-2024.md) |  |
 | 2024-07-27 ~ 28 | [Balboa Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 2024-07-20 ~ 21 | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
 | 2024-03-15 ~ 17 | [Groove the Blusy Bay](groove-the-blusy-bay-2024.md) | 湾区布鲁斯节 |
@@ -116,6 +118,7 @@ description: "Swing Dance events in China (Grouped by City)."
 | --- | --- | --- |
 | 2025-02-21 ~ 23 | [All Balboa Exchange](all-balboa-exchange-2025.md) |  |
 | 2024-12-13 ~ 15 | [Shanghai Lindy Festival](shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
+| 2024-10-24 ~ 26 | [Special Training with Juan - Oct](special-training-with-juan-oct-2024.md) |  |
 | 2024-10-03 ~ 06 | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2024.md) |  |
 | 2024-09-20 ~ 22 | [Swing Paramount](swing-paramount-2024.md) | 摇摆百乐门 |
 | 2024-09-15 ~ 17 | [Women's Jazzination](womens-jazzination-2024.md) | 爵了姐妹 |

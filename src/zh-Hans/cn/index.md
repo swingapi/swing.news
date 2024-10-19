@@ -37,6 +37,9 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
+| 10-30 ~ 31 | [北京](by_city.md#beijing) | [Balboa with Shawn - Oct](balboa-with-shawn-oct-2024.md) |  |
+| 10-24 ~ 26 | [上海](by_city.md#shanghai) | [Special Training with Juan - Oct](special-training-with-juan-oct-2024.md) |  |
+| 10-18 ~ 20 | [广东](by_city.md#guangdong) • 深圳 | [Workshop with Juan Villafane - Oct](workshop-with-juan-villafane-oct-2024.md) |  |
 | 10-18 ~ 20 | [天津](by_city.md#tianjin) | [Swing to the Stars](swing-to-the-stars-2024.md) | 天津林迪舞节 |
 | 10-18 ~ 20 | [广东](by_city.md#guangdong) • 佛山 | [Hop the Bay](hop-the-bay-2024.md) | 湾区摇摆大会 |
 | 10-05 ~ 06 | [北京](by_city.md#beijing) | [Juan Special Workshop](juan-special-workshop-2024.md) | Juan 国庆特别工作坊 |

@@ -37,6 +37,9 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 10-30 ~ 31 | [Beijing](by_city.md#beijing) | [Balboa with Shawn - Oct](balboa-with-shawn-oct-2024.md) |  |
+| 10-24 ~ 26 | [Shanghai](by_city.md#shanghai) | [Special Training with Juan - Oct](special-training-with-juan-oct-2024.md) |  |
+| 10-18 ~ 20 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Workshop with Juan Villafane - Oct](workshop-with-juan-villafane-oct-2024.md) |  |
 | 10-18 ~ 20 | [Tianjin](by_city.md#tianjin) | [Swing to the Stars](swing-to-the-stars-2024.md) | 天津林迪舞节 |
 | 10-18 ~ 20 | [Guangdong](by_city.md#guangdong) • Foshan | [Hop the Bay](hop-the-bay-2024.md) | 湾区摇摆大会 |
 | 10-05 ~ 06 | [Beijing](by_city.md#beijing) | [Juan Special Workshop](juan-special-workshop-2024.md) | Juan 国庆特别工作坊 |
