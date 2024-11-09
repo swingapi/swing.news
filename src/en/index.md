@@ -93,6 +93,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 12-28 ~ 01-01 | [United States](us/index.md) | [Washington](us/by_city.md#washington) • Seattle | [Stormy Weather Jazz Festival](us/stormy-weather-jazz-festival-2024.md) |  |
 | 12-26 ~ 31 | [Sweden](se/index.md) | [Stockholm](se/by_city.md#stockholm) | [The Snowball](se/the-snowball-2024.md) |  |
+| 12-20 ~ 22 | [China](cn/index.md) | [Guangdong](cn/by_city.md#guangdong) • Foshan | [Foshan x Korea Exchange](cn/foshan-x-korea-exchange-2024.md) |  |
 | 12-13 ~ 15 | [Germany](de/index.md) | [Augsburg](de/by_city.md#augsburg) | [XmaSwing](de/xma-swing-2024.md) |  |
 | 12-13 ~ 15 | [Germany](de/index.md) | [North Rhine-Westphalia](de/by_city.md#north-rhine-westphalia) • Dortmund | [Autumn Leaves The Pott](de/autumn-leaves-the-pott-2024.md) |  |
 | 12-13 ~ 15 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Shanghai Lindy Festival](cn/shanghai-lindy-festival-2024.md) | 上海林迪舞节 |

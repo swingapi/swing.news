@@ -22,6 +22,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 12-20 ~ 22 | [Guangdong](by_city.md#guangdong) • Foshan | [Foshan x Korea Exchange](foshan-x-korea-exchange-2024.md) |  |
 | 12-13 ~ 15 | [Shanghai](by_city.md#shanghai) | [Shanghai Lindy Festival](shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2024-12-&date_ends=2024-12-){ target='_blank' }
 
