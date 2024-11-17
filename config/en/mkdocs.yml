@@ -560,9 +560,9 @@ nav:
           - au/2025.md
           - au/2024.md
   - Orgs: https://swing.kids
+  - references.md
   - Changelogs: https://github.com/swingdance/events/commits/main/
   - About:
-    - references.md
     - support.md
     - Privacy & Terms:
       - privacy.md
