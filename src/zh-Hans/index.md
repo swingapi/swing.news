@@ -33,9 +33,11 @@ status: timeline
 | 04-25 ~ 27 | [挪威](no/index.md) | [特隆赫姆](no/by_city.md#trondheim) | [Bal’heim](no/bal-heim-2025.md) |  |
 | 04-25 ~ 27 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 蒂宾根 | [Swingcake Tubingen](de/swingcake-tubingen-2025.md) |  |
 | 04-24 ~ 28 | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 珀斯 | [Hullabaloo](au/hullabaloo-2025.md) |  |
+| 04-04 ~ 06 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Camp Swing It](kr/camp-swing-it-2025.md) |  |
 | 04-04 ~ 06 | [意大利](it/index.md) | [杜林](it/by_city.md#turin) | [Swing Train Festival](it/swing-train-festival-2025.md) |  |
 | 04-04 ~ 06 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - Apr](it/brescia-balboa-series-apr-2025.md) |  |
 | 04-04 ~ 06 | [澳大利亚](au/index.md) | [坎培拉](au/by_city.md#canberra) | [Jurassic Bal](au/jurassic-bal-2025.md) |  |
+| 04-03 ~ 06 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Asia Balboa eXchange](kr/asia-balboa-exchange-2025.md) |  |
 
 ## 03
 
@@ -53,6 +55,7 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 02-28 ~ 03-02 | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Berlin Balboa Weekend](de/berlin-balboa-weekend-2025.md) |  |
 | 02-27 ~ 03-03 | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Rock That Swing Festival](de/rock-that-swing-festival-2025.md) |  |
+| 02-21 ~ 24 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Blues Alive](kr/blues-alive-2025.md) |  |
 | 02-21 ~ 23 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [All Balboa Exchange](cn/all-balboa-exchange-2025.md) |  |
 | 02-20 ~ 23 | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [Winter Jump](no/winter-jump-2025.md) |  |
 | 02-14 ~ 16 | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 奥斯汀 | [Hot Rhythm Holiday](us/hot-rhythm-holiday-2025.md) |  |
