@@ -72,6 +72,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-02-14 ~ 16 | [Groove the Bluesy Bay](groove-the-bluesy-bay-2025.md) | 湾区布鲁斯节 |
 | 2024-10-18 ~ 20 | [Workshop with Juan Villafane - Oct](workshop-with-juan-villafane-oct-2024.md) |  |
 | 2024-07-27 ~ 28 | [Balboa Greater Bay Workshop](balboa-greater-bay-workshop-2024.md) | Bal 浪湾区 |
 | 2024-07-20 ~ 21 | [Blues Workshop with Taehyeon](blues-workshop-with-taehyeon-2024.md) |  |
@@ -97,6 +98,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-05-23 ~ 25 | [Nanjing Lindy Festival](nanjing-lindy-festival-2025.md) | 爵对莱斯 • 南京林迪节 |
 | 2024-05-31 ~ 06-02 | [Nanjing Lindy Festival](nanjing-lindy-festival-2024.md) | 爵对莱斯 • 南京林迪节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2024%2Fcn%5D%20%3CName%3E&region=cn&province=Jiangsu&city=Nanjing&org_id=&date_starts=2024-&date_ends=2024-){ target='_blank' }
 
