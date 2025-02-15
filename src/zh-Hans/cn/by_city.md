@@ -11,6 +11,8 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2025-05-31 ~ 06-02 | [Camp California Weekend](camp-california-weekend-2025.md) | 端午加州训练营 |
+| 2025-05-16 ~ 18 | [Beijing Balboa Fever](beijing-balboa-fever-2025.md) | 北京巴尔博亚热旋风交流节 |
 | 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
 | 2024-10-30 ~ 31 | [Balboa with Shawn - Oct](balboa-with-shawn-oct-2024.md) |  |
 | 2024-10-05 ~ 06 | [Juan Special Workshop](juan-special-workshop-2024.md) | Juan 国庆特别工作坊 |
@@ -33,6 +35,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2025-03-21 ~ 23 | [Lindy Hotpot](lindy-hotpot-2025.md) | 火锅林迪节 |
 | 2024-03-22 ~ 24 | [Lindy Hotpot](lindy-hotpot-2024.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Chongqing&city=Chongqing&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
 
@@ -144,6 +147,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2025-04-18 ~ 20 | [Bouncy Chengdu](bouncy-chengdu-2025.md) | 妖艳儿摇摆节 |
 | 2024-04-19 ~ 21 | [Bouncy Chengdu](bouncy-chengdu-2024.md) | 妖艳儿摇摆节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Sichuan&city=Chengdu&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
 
@@ -153,6 +157,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2025-02-14 ~ 17 | [It's Solo King](its-solo-king-2025.md) |  |
 | 2024-10-18 ~ 20 | [Swing to the Stars](swing-to-the-stars-2024.md) | 天津林迪舞节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Tianjin&city=Tianjin&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
 
