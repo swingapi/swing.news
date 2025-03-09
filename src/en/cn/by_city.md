@@ -72,6 +72,13 @@ description: "Swing Dance events in China (Grouped by City)."
 | 2024-10-18 ~ 20 | [Hop the Bay](hop-the-bay-2024.md) | 湾区摇摆大会 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Guangdong&city=Foshan&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
 
+### <a id=guangzhou></a>Guangzhou { #guangzhou }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2025-05-16 ~ 18 | [Canton Swing Festival](canton-swing-festival-2025.md) | 粤色摇摆 |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Guangdong&city=Guangzhou&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+
 ### <a id=shenzhen></a>Shenzhen { #shenzhen }
 
 | Date | Event | |
@@ -123,6 +130,9 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-07-04 ~ 06 | [Balboa Festival Shanghai](balboa-festival-shanghai-2025.md) |  |
+| 2025-05-02 ~ 04 | [Jumpin' Swing](jumpin-swing-2025.md) |  |
+| 2025-05-01 ~ 03 | [Golden Week Solo Camp with Ksenia](golden-week-solo-camp-with-ksenia-2025.md) |  |
 | 2025-02-21 ~ 23 | [All Balboa Exchange](all-balboa-exchange-2025.md) |  |
 | 2024-12-13 ~ 15 | [Shanghai Lindy Festival](shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
 | 2024-10-24 ~ 26 | [Special Training with Juan - Oct](special-training-with-juan-oct-2024.md) |  |

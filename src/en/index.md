@@ -9,6 +9,7 @@ status: timeline
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
 | 07-25 ~ 25 | [Russia](ru/index.md) | [Perm](ru/by_city.md#perm) | [Balboa Dacha](ru/balboa-dacha-2025.md) |  |
+| 07-04 ~ 06 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Balboa Festival Shanghai](cn/balboa-festival-shanghai-2025.md) |  |
 
 ## 06
 
@@ -26,8 +27,11 @@ status: timeline
 | 05-23 ~ 25 | [China](cn/index.md) | [Jiangsu](cn/by_city.md#jiangsu) • Nanjing | [Nanjing Lindy Festival](cn/nanjing-lindy-festival-2025.md) | 爵对莱斯 • 南京林迪节 |
 | 05-17 ~ 19 | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Victoria Lindy Exchange](ca/victoria-lindy-exchange-2025.md) |  |
 | 05-16 ~ 18 | [Lithuania](lt/index.md) | [Vilnius](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm-2025.md) |  |
+| 05-16 ~ 18 | [China](cn/index.md) | [Guangdong](cn/by_city.md#guangdong) • Guangzhou | [Canton Swing Festival](cn/canton-swing-festival-2025.md) | 粤色摇摆 |
 | 05-16 ~ 18 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Beijing Balboa Fever](cn/beijing-balboa-fever-2025.md) | 北京巴尔博亚热旋风交流节 |
 | 05-02 ~ 04 | [Italy](it/index.md) | [Brescia](it/by_city.md#brescia) | [Brescia Balboa Series - May](it/brescia-balboa-series-may-2025.md) |  |
+| 05-02 ~ 04 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Jumpin' Swing](cn/jumpin-swing-2025.md) |  |
+| 05-01 ~ 03 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Golden Week Solo Camp with Ksenia](cn/golden-week-solo-camp-with-ksenia-2025.md) |  |
 
 ## 04
 
