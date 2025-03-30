@@ -47,6 +47,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-05-01 ~ 04 | [Swing Fuzhou 8th Anniversary](swing-fuzhou-8th-anniversary-2025.md) | 榕城摇摆八周年 |
 | 2024-05-17 ~ 22 | [Awozi & Lis Fuzhou Workshop](awozi-n-lis-fuzhou-workshop-2024.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Fujian&city=Fuzhou&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
 
@@ -130,9 +131,11 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-10-03 ~ 05 | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2025.md) |  |
 | 2025-07-04 ~ 06 | [Balboa Festival Shanghai](balboa-festival-shanghai-2025.md) |  |
 | 2025-05-02 ~ 04 | [Jumpin' Swing](jumpin-swing-2025.md) |  |
 | 2025-05-01 ~ 03 | [Golden Week Solo Camp with Ksenia](golden-week-solo-camp-with-ksenia-2025.md) |  |
+| 2025-04-18 ~ 20 | [Shanghai Blues Camp](shanghai-blues-camp-2025.md) | 上海布鲁斯训练营 |
 | 2025-02-21 ~ 23 | [All Balboa Exchange](all-balboa-exchange-2025.md) |  |
 | 2024-12-13 ~ 15 | [Shanghai Lindy Festival](shanghai-lindy-festival-2024.md) | 上海林迪舞节 |
 | 2024-10-24 ~ 26 | [Special Training with Juan - Oct](special-training-with-juan-oct-2024.md) |  |
@@ -179,6 +182,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-06-06 ~ 09 | [Swing in Dalifornia](swing-in-dalifornia-2025.md) | 大理福尼亚 |
 | 2024-06-08 ~ 10 | [Lalla & Sunny Workshop](dali-lalla-n-sunny-workshop-2024.md) | 摇摆端舞 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=Yunnan&city=Dali&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
 

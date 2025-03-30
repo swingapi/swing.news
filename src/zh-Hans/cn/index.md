@@ -7,12 +7,26 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 ## 2025
 
+## 10
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 10-03 ~ 05 | [上海](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2025.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-10-&date_ends=2025-10-){ target='_blank' }
+
 ## 07
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 | 07-04 ~ 06 | [上海](by_city.md#shanghai) | [Balboa Festival Shanghai](balboa-festival-shanghai-2025.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-07-&date_ends=2025-07-){ target='_blank' }
+
+## 06
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 06-06 ~ 09 | [云南](by_city.md#yunnan) • 大理 | [Swing in Dalifornia](swing-in-dalifornia-2025.md) | 大理福尼亚 |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-06-&date_ends=2025-06-){ target='_blank' }
 
 ## 05
 
@@ -23,6 +37,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 | 05-16 ~ 18 | [广东](by_city.md#guangdong) • 广州 | [Canton Swing Festival](canton-swing-festival-2025.md) | 粤色摇摆 |
 | 05-16 ~ 18 | [北京](by_city.md#beijing) | [Beijing Balboa Fever](beijing-balboa-fever-2025.md) | 北京巴尔博亚热旋风交流节 |
 | 05-02 ~ 04 | [上海](by_city.md#shanghai) | [Jumpin' Swing](jumpin-swing-2025.md) |  |
+| 05-01 ~ 04 | [福建](by_city.md#fujian) • 福州 | [Swing Fuzhou 8th Anniversary](swing-fuzhou-8th-anniversary-2025.md) | 榕城摇摆八周年 |
 | 05-01 ~ 03 | [上海](by_city.md#shanghai) | [Golden Week Solo Camp with Ksenia](golden-week-solo-camp-with-ksenia-2025.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-05-&date_ends=2025-05-){ target='_blank' }
 
@@ -30,6 +45,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
+| 04-18 ~ 20 | [上海](by_city.md#shanghai) | [Shanghai Blues Camp](shanghai-blues-camp-2025.md) | 上海布鲁斯训练营 |
 | 04-18 ~ 20 | [四川](by_city.md#sichuan) • 成都 | [Bouncy Chengdu](bouncy-chengdu-2025.md) | 妖艳儿摇摆节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-04-&date_ends=2025-04-){ target='_blank' }
 

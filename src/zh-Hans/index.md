@@ -4,6 +4,12 @@ status: timeline
 
 ## 2025
 
+## 10
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 10-03 ~ 05 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Balboa Weekend](cn/shanghai-balboa-weekend-2025.md) |  |
+
 ## 07
 
 | 日期 | 地区 | 城市 | 活动 | |
@@ -16,6 +22,7 @@ status: timeline
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 | 06-20 ~ 22 | [美国](us/index.md) | [加利福尼亚州](us/by_city.md#california) • 圣地亚哥 | [San Diego Balboa and Lindy Exchange](us/san-diego-balboa-and-lindy-exchange-2025.md) |  |
+| 06-06 ~ 09 | [中国](cn/index.md) | [云南](cn/by_city.md#yunnan) • 大理 | [Swing in Dalifornia](cn/swing-in-dalifornia-2025.md) | 大理福尼亚 |
 
 ## 05
 
@@ -31,6 +38,7 @@ status: timeline
 | 05-16 ~ 18 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Beijing Balboa Fever](cn/beijing-balboa-fever-2025.md) | 北京巴尔博亚热旋风交流节 |
 | 05-02 ~ 04 | [意大利](it/index.md) | [布雷西亚](it/by_city.md#brescia) | [Brescia Balboa Series - May](it/brescia-balboa-series-may-2025.md) |  |
 | 05-02 ~ 04 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Jumpin' Swing](cn/jumpin-swing-2025.md) |  |
+| 05-01 ~ 04 | [中国](cn/index.md) | [福建](cn/by_city.md#fujian) • 福州 | [Swing Fuzhou 8th Anniversary](cn/swing-fuzhou-8th-anniversary-2025.md) | 榕城摇摆八周年 |
 | 05-01 ~ 03 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Golden Week Solo Camp with Ksenia](cn/golden-week-solo-camp-with-ksenia-2025.md) |  |
 
 ## 04
@@ -40,6 +48,7 @@ status: timeline
 | 04-25 ~ 27 | [挪威](no/index.md) | [特隆赫姆](no/by_city.md#trondheim) | [Bal’heim](no/bal-heim-2025.md) |  |
 | 04-25 ~ 27 | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 蒂宾根 | [Swingcake Tubingen](de/swingcake-tubingen-2025.md) |  |
 | 04-24 ~ 28 | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 珀斯 | [Hullabaloo](au/hullabaloo-2025.md) |  |
+| 04-18 ~ 20 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Blues Camp](cn/shanghai-blues-camp-2025.md) | 上海布鲁斯训练营 |
 | 04-18 ~ 20 | [中国](cn/index.md) | [四川](cn/by_city.md#sichuan) • 成都 | [Bouncy Chengdu](cn/bouncy-chengdu-2025.md) | 妖艳儿摇摆节 |
 | 04-04 ~ 06 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Camp Swing It](kr/camp-swing-it-2025.md) |  |
 | 04-04 ~ 06 | [意大利](it/index.md) | [杜林](it/by_city.md#turin) | [Swing Train Festival](it/swing-train-festival-2025.md) |  |
