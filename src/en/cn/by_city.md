@@ -11,6 +11,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-08-01 ~ 03 | [Jazz Do It](jazz-do-it-2025.md) |  |
 | 2025-05-31 ~ 06-02 | [Camp California Weekend](camp-california-weekend-2025.md) | 端午加州训练营 |
 | 2025-05-16 ~ 18 | [Beijing Balboa Fever](beijing-balboa-fever-2025.md) | 北京巴尔博亚热旋风交流节 |
 | 2024-11-01 ~ 03 | [Swingtime Ball](swingtime-ball-2024.md) | 摇擺盛典 |
@@ -55,6 +56,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-08-15 ~ 17 | [Take A-moy Train - Lindy Summer Camp](take-a-moy-train-lindy-summer-camp-2025.md) | 厦门林迪舞训练营 |
 | 2025-01-04 ~ 05 | [Blues Workshop with Zhixuan](blues-workshop-with-zhixuan-2025.md) | 祉玄 Blues 工作坊 |
 | 2024-05-18 ~ 19 | [Kiki House African Dance Workshop](xiamen-kiki-house-african-dance-workshop-2024.md) | 木木之家非洲舞 Workshop |
 | 2024-03-21 ~ 24 | [Awozi & Lis Workshop](xiamen-awozi-n-lis-workshop-2024.md) |  |

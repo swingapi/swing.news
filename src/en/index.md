@@ -10,6 +10,13 @@ status: timeline
 | --- | --- | --- | --- | --- |
 | 10-03 ~ 05 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Shanghai Balboa Weekend](cn/shanghai-balboa-weekend-2025.md) |  |
 
+## 08
+
+| Date | Region | City | Event | |
+| --- | --- | --- | --- | --- |
+| 08-15 ~ 17 | [China](cn/index.md) | [Fujian](cn/by_city.md#fujian) • Xiamen | [Take A-moy Train - Lindy Summer Camp](cn/take-a-moy-train-lindy-summer-camp-2025.md) | 厦门林迪舞训练营 |
+| 08-01 ~ 03 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it-2025.md) |  |
+
 ## 07
 
 | Date | Region | City | Event | |

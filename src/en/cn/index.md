@@ -14,6 +14,14 @@ description: "Swing Dance events in China (Timeline)."
 | 10-03 ~ 05 | [Shanghai](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend-2025.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-10-&date_ends=2025-10-){ target='_blank' }
 
+## 08
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 08-15 ~ 17 | [Fujian](by_city.md#fujian) • Xiamen | [Take A-moy Train - Lindy Summer Camp](take-a-moy-train-lindy-summer-camp-2025.md) | 厦门林迪舞训练营 |
+| 08-01 ~ 03 | [Beijing](by_city.md#beijing) | [Jazz Do It](jazz-do-it-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-08-&date_ends=2025-08-){ target='_blank' }
+
 ## 07
 
 | Date | City | Event | |
