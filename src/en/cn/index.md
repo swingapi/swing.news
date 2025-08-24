@@ -7,6 +7,13 @@ description: "Swing Dance events in China (Timeline)."
 
 ## 2025
 
+## 11
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 11-06 ~ 09 | [Beijing](by_city.md#beijing) | [Swingtime Ball](swingtime-ball-2025.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-11-&date_ends=2025-11-){ target='_blank' }
+
 ## 10
 
 | Date | City | Event | |
@@ -18,6 +25,7 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 08-29 ~ 31 | [Zhejiang](by_city.md#zhejiang) • Hangzhou | [Westlake Swing Carnival](westlake-swing-carnival-2025.md) | 西湖摇摆嘉年华 |
 | 08-15 ~ 17 | [Fujian](by_city.md#fujian) • Xiamen | [Take A-moy Train - Lindy Summer Camp](take-a-moy-train-lindy-summer-camp-2025.md) | 厦门林迪舞训练营 |
 | 08-01 ~ 03 | [Beijing](by_city.md#beijing) | [Jazz Do It](jazz-do-it-2025.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-08-&date_ends=2025-08-){ target='_blank' }

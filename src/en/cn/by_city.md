@@ -11,6 +11,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-11-06 ~ 09 | [Swingtime Ball](swingtime-ball-2025.md) |  |
 | 2025-08-01 ~ 03 | [Jazz Do It](jazz-do-it-2025.md) |  |
 | 2025-05-31 ~ 06-02 | [Camp California Weekend](camp-california-weekend-2025.md) | 端午加州训练营 |
 | 2025-05-16 ~ 18 | [Beijing Balboa Fever](beijing-balboa-fever-2025.md) | 北京巴尔博亚热旋风交流节 |
@@ -196,6 +197,7 @@ description: "Swing Dance events in China (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
+| 2025-08-29 ~ 31 | [Westlake Swing Carnival](westlake-swing-carnival-2025.md) | 西湖摇摆嘉年华 |
 | 2024-11-08 ~ 11 | [Hangzhou Blues Workshop - Eddy](hangzhou-blues-workshop-eddy-2024.md) | 杭州金秋布鲁斯文化周 |
 | 2024-08-30 ~ 09-01 | [Westlake Swing Carnival](westlake-swing-carnival-2024.md) | 西湖摇摆嘉年华 |
 | 2024-08-23 ~ 25 | [Vans & Nan Balboa Workshop - Aug](vans-n-nan-balboa-workshop-aug-2024.md) |  |

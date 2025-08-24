@@ -7,6 +7,13 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 ## 2025
 
+## 11
+
+| 日期 | 城市 | 活动 | |
+| --- | --- | --- | --- |
+| 11-06 ~ 09 | [北京](by_city.md#beijing) | [Swingtime Ball](swingtime-ball-2025.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-11-&date_ends=2025-11-){ target='_blank' }
+
 ## 10
 
 | 日期 | 城市 | 活动 | |
@@ -18,6 +25,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
+| 08-29 ~ 31 | [浙江](by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](westlake-swing-carnival-2025.md) | 西湖摇摆嘉年华 |
 | 08-15 ~ 17 | [福建](by_city.md#fujian) • 厦门 | [Take A-moy Train - Lindy Summer Camp](take-a-moy-train-lindy-summer-camp-2025.md) | 厦门林迪舞训练营 |
 | 08-01 ~ 03 | [北京](by_city.md#beijing) | [Jazz Do It](jazz-do-it-2025.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2025-08-&date_ends=2025-08-){ target='_blank' }

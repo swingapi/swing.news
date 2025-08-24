@@ -4,6 +4,12 @@ status: timeline
 
 ## 2025
 
+## 11
+
+| 日期 | 地区 | 城市 | 活动 | |
+| --- | --- | --- | --- | --- |
+| 11-06 ~ 09 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Swingtime Ball](cn/swingtime-ball-2025.md) |  |
+
 ## 10
 
 | 日期 | 地区 | 城市 | 活动 | |
@@ -14,6 +20,7 @@ status: timeline
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
+| 08-29 ~ 31 | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](cn/westlake-swing-carnival-2025.md) | 西湖摇摆嘉年华 |
 | 08-15 ~ 17 | [中国](cn/index.md) | [福建](cn/by_city.md#fujian) • 厦门 | [Take A-moy Train - Lindy Summer Camp](cn/take-a-moy-train-lindy-summer-camp-2025.md) | 厦门林迪舞训练营 |
 | 08-01 ~ 03 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it-2025.md) |  |
 
